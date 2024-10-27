@@ -1,140 +1,50 @@
-Questão 1
-  Homem com 49 anos de idade apresenta, há um 
-ano e meio, quadro recorrente de monoartrite aguda, 
-durando cada episódio cerca de três a cinco dias. 
-Inicialmente foi acometido o joelho esquerdo, posteriormente o direito, em seguida o tornozelo direito e, 
-há três semanas, houve recorrência do quadro no joelho 
-esquerdo. Refere alívio dos sintomas com o uso de 
-diclofenaco, que toma por conta própria. Notou que o 
-intervalo entre os episódios, que inicialmente era de até seis meses, é agora mais reduzido, sendo o intervalo entre 
-os dois últimos episódios, de apenas um mês. Apresenta-
-se na consulta após dois dias do início da última crise. O 
-joelho esquerdo tem sinais flogísticos (calor, rubor, 
-aumento de volume), limitação para flexão, o que causa dificuldade na deambulação. Relatou um episódio febril 
-ontem (37,6 ºC). O paciente é hipertenso e diabético há 
-dez anos, em uso de hidroclorotiazida 25 mg/dia e 
-glibenclamida 10 mg/dia. Refere tabagismo (5 cigarros/dia) 
-e etilismo (cerveja, especialmente nos finais de semana).   
-O diagnóstico do paciente e a conduta inicial a ser adotada 
-são, respectivamente: 
- 
-A gota não tofácea; realizar artrocentese e iniciar o uso 
-de alopurinol imediatamente. 
-B artrite séptica; realizar artrocentese e aguardar a 
-análise laboratorial do líquido sinovial. 
-C gota não tofácea; não realizar artrocentese e manter o 
-uso de anti-inflamatório não hormonal. 
-D osteoartrite; solicitar radiografia dos joelhos e iniciar o 
-uso de anti-inflamatório não hormonal. 
-E artrite séptica; não há necessidade de exames 
-complementares e deve-se iniciar antibioticoterapia 
-imediatamente. 
+QUESTÃO 1
+Homem com 49 anos de idade apresenta, há um ano e meio, quadro recorrente de monoartrite aguda, durando cada episódio cerca de três a cinco dias. Inicialmente foi acometido o joelho esquerdo, posteriormente o direito, em seguida o tornozelo direito e, há três semanas, houve recorrência do quadro no joelho esquerdo. Refere alívio dos sintomas com o uso de diclofenaco, que toma por conta própria. Notou que o intervalo entre os episódios, que inicialmente era de até seis meses, é agora mais reduzido, sendo o intervalo entre os dois últimos episódios de apenas um mês. Apresenta-se na consulta após dois dias do início da última crise. O joelho esquerdo tem sinais flogísticos (calor, rubor, aumento de volume), limitação para flexão, o que causa dificuldade na deambulação. Relatou um episódio febril ontem (37,6 ºC). O paciente é hipertenso e diabético há dez anos, em uso de hidroclorotiazida 25 mg/dia e glibenclamida 10 mg/dia. Refere tabagismo (5 cigarros/dia) e etilismo (cerveja, especialmente nos finais de semana). O diagnóstico do paciente e a conduta inicial a ser adotada são, respectivamente:
 
-Questão 2
-  Mulher com 72 anos de idade vem fazendo tratamento e acompanhamento por anemia ferropriva no Posto de Saúde há cerca de um ano e meio. Relata que, 
-nos últimos quatro meses, perdeu 5 kg, está se sentindo 
-mais fraca e apresentou vários episódios de diarreia, que 
-cessaram espontaneamente, seguidos de vários dias sem 
-evacuar, quadro que vem se alternando desde então.  
-O diagnóstico mais provável e a investigação adequada 
-são, respectivamente: 
- 
-A câncer de cólon; colonoscopia. B colite ulcerativa; colonoscopia. 
-C câncer de reto; retossigmoidoscopia. 
-D diverticulose colônica; enema opaco. 
+A gota não tofácea; realizar artrocentese e iniciar o uso de alopurinol imediatamente.
+B artrite séptica; realizar artrocentese e aguardar a análise laboratorial do líquido sinovial.
+C gota não tofácea; não realizar artrocentese e manter o uso de anti-inflamatório não hormonal.
+D osteoartrite; solicitar radiografia dos joelhos e iniciar o uso de anti-inflamatório não hormonal.
+E artrite séptica; não há necessidade de exames complementares e deve-se iniciar antibioticoterapia imediatamente.
+
+QUESTÃO 2
+Mulher com 72 anos de idade vem fazendo tratamento e acompanhamento por anemia ferropriva no Posto de Saúde há cerca de um ano e meio. Relata que, nos últimos quatro meses, perdeu 5 kg, está se sentindo mais fraca e apresentou vários episódios de diarreia, que cessaram espontaneamente, seguidos de vários dias sem evacuar, quadro que vem se alternando desde então. O diagnóstico mais provável e a investigação adequada são, respectivamente:
+
+A câncer de cólon; colonoscopia.
+B colite ulcerativa; colonoscopia.
+C câncer de reto; retossigmoidoscopia.
+D diverticulose colônica; enema opaco.
 E angiodisplasia de cólon; cintilografia.
 
-Questão 3
-  Homem com 26 anos de idade procura 
-atendimento na Unidade Básica de Saúde por 
-apresentar, há três dias, febre alta, mialgia, astenia 
-e náuseas. O paciente não relata comorbidades e 
-nega uso de qualquer medicação. O paciente nega 
-viagens recentes, contato com vetores ou com água potencialmente contaminada. O cal endário vacinal está 
-em dia. Exame físico: temperatura axilar = 38 ºC, estado geral bom, acianótico, anictérico, normocorado, pressão 
-arterial sentado e deitado = 120x80 mmHg, frequência 
-cardíaca = 106 bpm e peso = 70 kg. Apresenta exantema 
-com padrão maculopapular, associado a prurido cutâneo 
-generalizado, sem comprometimento da região palmar. 
-Prova do laço apresenta resultado negativo. A região em 
-que reside o paciente teve epidemia de dengue no ano 
-anterior. 
- A conduta mais adequada para esse paciente é: 
- 
-A solicitar coleta de sangue para realização de 
-hemograma e para sorologia, com isolamento viral no momento do atendimento. 
-B mantê-lo em observação na Unidade de Saúde para 
-repetir a prova do laço após seis horas, a fim de 
-afastar dengue hemorrágica, e realizar hidratação oral 
-de 2,5 litros de líquidos por dia. 
-C encaminhá-lo para internação por um período mínimo 
-de 48h. Colher hemograma completo, realizar 
-dosagem de albumina sérica e transaminases. Fazer 
-reposição volêmica endovenosa. Notificar 
-imediatamente o caso e orientar retorno após a alta. 
-D orientá-lo a realizar tratamento em regime 
-ambulatorial, com reavaliação clínica diária na Unidade 
-de Saúde e hidratação oral de 2 litros de líquidos por 
-dia. Preencher cartão de acompanhamento de dengue; 
-prescrever sintomáticos e repouso; notificar o caso e 
-orientar retorno. 
-E liberá-lo para o domicílio, com orientação de ingerir 5 a 
-6 litros de líquidos/dia, sendo 1/3 com solução salina e 
-os 2/3 restantes de líquidos caseiros (água, suco de 
-frutas, soro caseiro, chás, água de coco etc.). 
-Prescrever sintomáticos e repouso; notificar o caso e 
-orientar retorno. 
+QUESTÃO 3
+Homem com 26 anos de idade procura atendimento na Unidade Básica de Saúde por apresentar, há três dias, febre alta, mialgia, astenia e náuseas. O paciente não relata comorbidades e nega uso de qualquer medicação. O paciente nega viagens recentes, contato com vetores ou com água potencialmente contaminada. O calendário vacinal está em dia. Exame físico: temperatura axilar = 38 ºC, estado geral bom, acianótico, anictérico, normocorado, pressão arterial sentado e deitado = 120x80 mmHg, frequência cardíaca = 106 bpm e peso = 70 kg. Apresenta exantema com padrão maculopapular, associado a prurido cutâneo generalizado, sem comprometimento da região palmar. Prova do laço apresenta resultado negativo. A região em que reside o paciente teve epidemia de dengue no ano anterior. A conduta mais adequada para esse paciente é:
 
-Questão 4
-  Menina com 12 anos de idade tem diagnóstico de 
-asma desde os três anos de idade, sem acompanhamento 
-adequado há seis meses. Comparece à Unidade Básica de 
-Saúde por apresentar, nas últimas quatro semanas, 
-dificuldade para realizar atividades físicas, com 
-necessidade de uso de medicação três ou mais vezes por 
-semana, e vários despertares noturnos devido à tosse. 
-Ao exame físico, apresenta sibilos inspiratórios ao esforço. 
- 
-A classificação e o tratamento para o controle clínico desse 
-quadro são, respectivamente: 
- 
-A asma moderada; deve ser iniciado corticoide inalatório 
-associado ao montelucaste. 
-B asma persistente leve; deve ser iniciado um 
-broncodilatador de ação longa por três meses. 
-C asma parcialmente controlada; deve ser iniciado 
-corticoide inalatório e broncodilatador de ação longa. 
-D asma induzida por exercício; deve ser prescrito 
-broncodilatador de ação curta e montelucaste. 
-E asma não controlada; deve ser iniciado 
-broncodilatador de ação curta e corticoide inalatório.  
+A solicitar coleta de sangue para realização de hemograma e para sorologia, com isolamento viral no momento do atendimento.
+B mantê-lo em observação na Unidade de Saúde para repetir a prova do laço após seis horas, a fim de afastar dengue hemorrágica, e realizar hidratação oral de 2,5 litros de líquidos por dia.
+C encaminhá-lo para internação por um período mínimo de 48h. Colher hemograma completo, realizar dosagem de albumina sérica e transaminases. Fazer reposição volêmica endovenosa. Notificar imediatamente o caso e orientar retorno após a alta.
+D orientá-lo a realizar tratamento em regime ambulatorial, com reavaliação clínica diária na Unidade de Saúde e hidratação oral de 2 litros de líquidos por dia. Preencher cartão de acompanhamento de dengue; prescrever sintomáticos e repouso; notificar o caso e orientar retorno.
+E liberá-lo para o domicílio, com orientação de ingerir 5 a 6 litros de líquidos/dia, sendo 1/3 com solução salina e os 2/3 restantes de líquidos caseiros (água, suco de frutas, soro caseiro, chás, água de coco etc.). Prescrever sintomáticos e repouso; notificar o caso e orientar retorno.
 
-Questão 5
-  Mulher com 19 anos de idade, primigesta, com 
-gestação de 22 semanas, procura serviço de Pronto 
-Atendimento obstétrico por apresentar lesões ulceradas, 
-rasas e dolorosas em vulva, iniciadas há um dia, 
-acompanhada de febre não aferida e mal-estar geral. 
-Relata que o quadro se iniciou há três dias, precedido por 
-sensação de queimação no local. Nega qualquer lesão 
-semelhante anterior. Não se observam alterações em 
-gânglios inguinais. 
- 
-A hipótese diagnóstica e a conduta corretas para a 
-paciente são, respectivamente: 
- A cancro mole; iniciar doxiciclina. 
-B herpes genital; iniciar aciclovir oral.  
-C donovanose; iniciar penicilina benzatina. 
-D sífilis primária; iniciar penicilina benzatina. 
-E condiloma plano; cauterizar com ácido tricloroacético 90%. Questão 6 
+QUESTÃO 4
+Menina com 12 anos de idade tem diagnóstico de asma desde os três anos de idade, sem acompanhamento adequado há seis meses. Comparece à Unidade Básica de Saúde por apresentar, nas últimas quatro semanas, dificuldade para realizar atividades físicas, com necessidade de uso de medicação três ou mais vezes por semana, e vários despertares noturnos devido à tosse. Ao exame físico, apresenta sibilos inspiratórios ao esforço. A classificação e o tratamento para o controle clínico desse quadro são, respectivamente:
 
-Questão 6
-Mulher com 28 anos de idade foi internada por
-apresentar quadro de confusão mental progressiva e rebaixamento do nível de consciência. Os familiares informam que ela apresenta perda progressiva de peso (de aproximadamente 10 kg), além de episódios febris (até 38,5 ºC) nos últimos três meses. Negam a ocorrência de tosse ou diarreia; relatam o uso de drogas endovenosas há pelo menos cinco anos, além do consumo excessivo de álcool e cigarros. Há uma semana iniciou quadro de confusão mental e há dois dias evolui com rebaixamento do nível de consciência, apresentando-se torporosa no momento da internação. Foi iniciada, empiricamente, ceftriaxona. Os exames iniciais demonstraram leucócitos = 3.600/mm
-3, com 70% de neutrófilos, 20% de linfócitos e 
-10% de eosinófilos; anemia hipocrômica, microcítica, com anisocitose; plaquetas normais; VHS = 102 mm na primeira hora; ureia, creatinina, TGO/AST, TGP/ALT e eletrólitos normais; a tomografia computadorizada de crânio foi normal. Após a realização dos exames e 48h de antibioticoterapia, a paciente apresentava-se sem melhora do quadro clínico. Foi então realizada uma punção lombar diagnóstica evidenciando: 220 leucócitos/mm
-3, com 70% 
-de linfócitos, níveis elevados de proteína e baixos níveis de glicose.  O diagnóstico da paciente é: 
+A asma moderada; deve ser iniciado corticoide inalatório associado ao montelucaste.
+B asma persistente leve; deve ser iniciado um broncodilatador de ação longa por três meses.
+C asma parcialmente controlada; deve ser iniciado corticoide inalatório e broncodilatador de ação longa.
+D asma induzida por exercício; deve ser prescrito broncodilatador de ação curta e montelucaste.
+E asma não controlada; deve ser iniciado broncodilatador de ação curta e corticoide inalatório.
+
+QUESTÃO 5
+Mulher com 19 anos de idade, primigesta, com gestação de 22 semanas, procura serviço de Pronto Atendimento obstétrico por apresentar lesões ulceradas, rasas e dolorosas em vulva, iniciadas há um dia, acompanhadas de febre não aferida e mal-estar geral. Relata que o quadro se iniciou há três dias, precedido por sensação de queimação no local. Nega qualquer lesão semelhante anterior. Não se observam alterações em gânglios inguinais. A hipótese diagnóstica e a conduta corretas para a paciente são, respectivamente:
+
+A cancro mole; iniciar doxiciclina.
+B herpes genital; iniciar aciclovir oral.
+C donovanose; iniciar penicilina benzatina.
+D sífilis primária; iniciar penicilina benzatina.
+E condiloma plano; cauterizar com ácido tricloroacético 90%.
+
+QUESTÃO 6
+Mulher com 28 anos de idade foi internada por apresentar quadro de confusão mental progressiva e rebaixamento do nível de consciência. Os familiares informam que ela apresenta perda progressiva de peso (de aproximadamente 10 kg), além de episódios febris (até 38,5 ºC) nos últimos três meses. Negam a ocorrência de tosse ou diarreia; relatam o uso de drogas endovenosas há pelo menos cinco anos, além do consumo excessivo de álcool e cigarros. Há uma semana iniciou quadro de confusão mental e há dois dias evolui com rebaixamento do nível de consciência, apresentando-se torporosa no momento da internação. Foi iniciada, empiricamente, ceftriaxona. Os exames iniciais demonstraram leucócitos = 3.600/mm³, com 70% de neutrófilos, 20% de linfócitos e 10% de eosinófilos; anemia hipocrômica, microcítica, com anisocitose; plaquetas normais; VHS = 102 mm na primeira hora; ureia, creatinina, TGO/AST, TGP/ALT e eletrólitos normais; a tomografia computadorizada de crânio foi normal. Após a realização dos exames e 48h de antibioticoterapia, a paciente apresentava-se sem melhora do quadro clínico. Foi então realizada uma punção lombar diagnóstica evidenciando: 220 leucócitos/mm³, com 70% de linfócitos, níveis elevados de proteína e baixos níveis de glicose. O diagnóstico da paciente é:
 
 A meningite viral.
 B encefalite viral.
@@ -142,82 +52,38 @@ C meningite tuberculosa.
 D meningite estafilocócica.
 E meningite por bacilo gram-negativo.
 
-Questão 7
-  Homem com 35 anos de idade, obeso, com hérnia de hiato, é acompanhado clinicamente há cerca de dez anos. Sua última endoscopia de controle mostrou esofagite com esôfago de Barret em uma extensão de cerca de 5 cm. Foram colhidas biópsias cujo resultado foi metaplasia de Barret.  A conduta inicial para o seguimento deste paciente é:
+QUESTÃO 7
+Homem com 35 anos de idade, obeso, com hérnia de hiato, é acompanhado clinicamente há cerca de dez anos. Sua última endoscopia de controle mostrou esofagite com esôfago de Barrett em uma extensão de cerca de 5 cm. Foram colhidas biópsias cujo resultado foi metaplasia de Barrett. A conduta inicial para o seguimento deste paciente é:
+
 A indicação imediata de cirurgia antirrefluxo.
 B indicação imediata de esofagectomia parcial.
 C orientações higienodietéticas e o uso de antiácidos orais.
-D uso de inibidores de bomba de prótons - 60 a 80mg/dia - por três meses.
+D uso de inibidores de bomba de prótons - 60 a 80 mg/dia - por três meses.
 E erradicação de H. pylori com amoxicilina - 2,0 g/dia e claritromicina - 1,0 g/dia.
- 
-Questão 8  
-  Mulher com 81 anos de idade, fumante há 60 anos, deu entrada em hospital geral com quadro de dispneia 
-intensa, que evoluiu para óbito dois dias após a internação. Na admissão fez-se o diagnóstico de embolia pulmonar e 
-trombose venosa profunda em membro inferior direito. 
- 
-O preenchimento adequado da declaração de óbito é: 
 
+QUESTÃO 8
+Mulher com 81 anos de idade, fumante há 60 anos, deu entrada em hospital geral com quadro de dispneia intensa, que evoluiu para óbito dois dias após a internação. Na admissão fez-se o diagnóstico de embolia pulmonar e trombose venosa profunda em membro inferior direito.
+O preenchimento adequado da declaração de óbito é:
 
+A Parte I: a. embolia pulmonar; b. trombose venosa profunda; c. tabagismo. Parte II: (sem preenchimento).
+B Parte I: a. dispneia intensa; b. trombose venosa profunda; c. tabagismo. Parte II: embolia pulmonar.
+C Parte I: a. embolia pulmonar; b. trombose venosa profunda. Parte II: tabagismo.
+D Parte I: a. dispneia intensa; b. trombose venosa profunda. Parte II: tabagismo.
+E Parte I: a. trombose venosa profunda. Parte II: embolia pulmonar.
 
+QUESTÃO 9
+Criança com três anos de idade, nascida a termo, não acompanhada regularmente na Puericultura, foi levada pela mãe para uma consulta na Unidade Básica de Saúde após sofrer fratura no antebraço direito há dois meses. Após avaliação médica foi observado: baixa estatura para a idade, escoliose, desproporção da relação segmento superior e inferior, hipotonia muscular e hérnia umbilical pequena.
+O médico solicitou radiografia de mão e punho e de membros inferiores, mostradas abaixo.
+O diagnóstico e a alteração radiológica que o confirma são, respectivamente:
 
+A osteopenia e perda da densidade óssea.
+B hipotireoidismo e atraso da idade óssea.
+C deficiência de fósforo e osteomalácia.
+D displasia óssea e displasia metafisária.
+E raquitismo e alargamento das epífises.
 
-
-
-
-
-
-
-
-
-
-
- A Parte I: a. embolia pulmonar; b. trombose venosa profunda; c. tabagismo. 
-Parte II: (sem preenchimento). 
-B Parte I: a. dispneia intensa; b. trombose venosa profunda; c. tabagismo. 
-Parte II: embolia pulmonar. 
-C Parte I: a. embolia pulmonar; b. trombose venosa profunda. 
-Parte II: tabagismo. 
-D Parte I: a. dispneia intensa; b. trombose venosa profunda. 
-Parte II: tabagismo. 
-E Parte I: a. trombose venosa profunda. 
-Parte II: embolia pulmonar. 
-
-Questão 9
-  Criança com três anos de idade, nascida a termo, não acompanhada regularmente na Puericultura, foi levada pela 
-mãe para uma consulta na Unidade Básica de Saúde após sofrer fratura no antebraço direito há dois meses. Após 
-avaliação médica foi observado: baixa estatura para a idade, escoliose, desproporção da relação segmento superior e 
-inferior, hipotonia muscular e hérnia umbilical pequena. 
- 
-  O médico solicitou radiografia de mão e punho e de membros inferiores, mostradas abaixo. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- O diagnóstico e a alteração radiológica que o confirma são, respectivamente: 
- 
-A osteopenia e perda da densidade óssea. 
-B hipotireoidismo e atraso da idade óssea. 
-C deficiência de fósforo e osteomalácia. 
-D displasia óssea e displasia metafisária. 
-E raquitismo e alargamento das epífises. 
-
-
- 
-Questão 10  
-  Mulher com 23 anos de idade, primigesta, idade 
-gestacional de 30 semanas, vem à quarta consulta de pré-natal. Não relata nenhuma queixa. Ao exame clínico, apresenta pressão arterial = 140x90 mmHg (em decúbito lateral esquerdo), pulso = 80 bpm, altura uterina = 31 cm e frequência cardíaca fetal = 140 bpm. Traz exame de proteinúria de 24 horas com valor de 412 mg/24h. Hemograma apresentando contagem de plaquetas de 220.000/mm³. No cartão da gestante, estão anotadas as seguintes medidas da pressão arterial registradas nas consultas anteriores: 110x70 mmHg, 120x70 mmHg e 140x100 mmHg. 
- 
+QUESTÃO 10
+Mulher com 23 anos de idade, primigesta, idade gestacional de 30 semanas, vem à quarta consulta de pré-natal. Não relata nenhuma queixa. Ao exame clínico, apresenta pressão arterial = 140x90 mmHg (em decúbito lateral esquerdo), pulso = 80 bpm, altura uterina = 31 cm e frequência cardíaca fetal = 140 bpm. Traz exame de proteinúria de 24 horas com valor de 412 mg/24h. Hemograma apresentando contagem de plaquetas de 220.000/mm³. No cartão da gestante, estão anotadas as seguintes medidas da pressão arterial registradas nas consultas anteriores: 110x70 mmHg, 120x70 mmHg e 140x100 mmHg.
 O diagnóstico correto é:
 
 A pré-eclâmpsia leve.
@@ -226,897 +92,394 @@ C iminência de eclâmpsia.
 D hipertensão gestacional.
 E hipertensão arterial crônica.
 
-Questão 11
-  Uma criança com 10 anos de idade é trazida ao hospital de referência, em cidade de grande porte, com quadro que já se arrasta há seis meses. Apresenta febre irregular intercalada com períodos de apirexia, anorexia e 
-perda ponderal de 6 Kg. A mãe relata, ainda, diarreia 
-ocasional, sangramento gengival frequente, epistaxe e episódios de pneumonia e otite, tratados com antibióticos nos dois últimos meses, pouco antes da mudança realizada pela família, que saiu de uma cidade da zona rural para uma cidade da zona urbana. Ao exame, a criança apresenta-se emagrecida, hipodesenvolvida para a idade, cabelos finos e quebradiços, hipocorada 2+/4, anictérica, com micropoliadenopatia cervical e axilar bilateral, sopro sistólico 2+/6+, pancardíaco, abdome distendido, com fígado palpável a 5 cm do rebordo costal direito, baço palpável a 8 cm do rebordo costal esquerdo, edema de membros inferiores 1+/4, frio e com cacifo. Temperatura axilar = 37,8 
-oC; PA = 100x70 mmHg; 
-FC = 104 bpm; FR = 18 irpm.  
-A melhor correlação entre a manifestação clínica 
-apresentada pela criança e seu mecanismo fisiopatológico, nessa endemia brasileira, é:  A a esplenomegalia como efeito da hipertrofia 
-progressiva, por aumento da pressão sanguínea no sistema portal intra-hepático e da veia esplênica. 
-B as infecções bacterianas como seguimento ao 
-aumento da resposta imunológica TH1 e da produção exagerada de interferon gama e interleucina 2. 
-C o edema de membros inferiores, frio e com cacifo, 
-como consequência da insuficiência cardíaca congestiva secundária a miocardiopatia dilatada. 
-D a anemia como resultado da combinação de hemólise, 
-ocupação de medula óssea por macrófagos infectados, hemorragias e sequestro esplênico. 
-E os sangramentos gengivais e epistaxe como efeito da 
-diminuição da produção de fatores de coagulação pela lesão direta e insuficiência hepatocelular.
+QUESTÃO 11
+Uma criança com 10 anos de idade é trazida ao hospital de referência, em cidade de grande porte, com quadro que já se arrasta há seis meses. Apresenta febre irregular intercalada com períodos de apirexia, anorexia e perda ponderal de 6 kg. A mãe relata, ainda, diarreia ocasional, sangramento gengival frequente, epistaxe e episódios de pneumonia e otite, tratados com antibióticos nos dois últimos meses, pouco antes da mudança realizada pela família, que saiu de uma cidade da zona rural para uma cidade da zona urbana. Ao exame, a criança apresenta-se emagrecida, hipodesenvolvida para a idade, cabelos finos e quebradiços, hipocorada 2+/4, anictérica, com micropoliadenopatia cervical e axilar bilateral, sopro sistólico 2+/6+, pancardíaco, abdome distendido, com fígado palpável a 5 cm do rebordo costal direito, baço palpável a 8 cm do rebordo costal esquerdo, edema de membros inferiores 1+/4, frio e com cacifo. Temperatura axilar = 37,8 ºC; PA = 100x70 mmHg; FC = 104 bpm; FR = 18 irpm. A melhor correlação entre a manifestação clínica apresentada pela criança e seu mecanismo fisiopatológico, nessa endemia brasileira, é:
 
-Questão 12
-  Mulher com 57 anos de idade deu entrada na 
-Emergência apresentando, há um dia, cinco episódios de evacuações com sangue vermelho vivo e em grande quantidade. Na admissão apresenta pressão arterial = 70x50 mmHg, frequência cardíaca = 164 bpm, sudorese 
-profusa e intensa palidez cutâneo-mucosa. O exame do 
-abdome é normal e no exame proctológico são vistas hemorróidas Grau II. Foi administrado O
-2 nasal, hidratação 
-com 2 litros de Ringer Lactato em acesso venoso periférico e a paciente encontra-se estável hemodinamicamente 
-após seis horas da admissão. 
- Com base no quadro clínico descrito, entre as opções abaixo, a próxima conduta diagnóstica e/ou terapêutica é:  
-A angiografia e possível embolização para diagnóstico e 
-terapêutica. 
-B vasopressina EV para diminuir o sangramento e sua 
-recorrência. 
-C enema opaco para diagnóstico e hemostasia. D tomografia com contraste para diagnóstico. 
-E colonoscopia após preparo intestinal. 
+A a esplenomegalia como efeito da hipertrofia progressiva, por aumento da pressão sanguínea no sistema portal intra-hepático e da veia esplênica.
+B as infecções bacterianas como seguimento ao aumento da resposta imunológica TH1 e da produção exagerada de interferon gama e interleucina 2.
+C o edema de membros inferiores, frio e com cacifo, como consequência da insuficiência cardíaca congestiva secundária a miocardiopatia dilatada.
+D a anemia como resultado da combinação de hemólise, ocupação de medula óssea por macrófagos infectados, hemorragias e sequestro esplênico.
+E os sangramentos gengivais e epistaxe como efeito da diminuição da produção de fatores de coagulação pela lesão direta e insuficiência hepatocelular.
 
-Questão 13
-  Durante uma reunião de capacitação em Saúde 
-Escolar para os Agentes Comunitários de Saúde das 
-equipes de Saúde da Família de um município de médio porte, foi fornecida uma série de informações e de procedimentos relativos à avaliação de acuidade visual de crianças e adolescentes. 
- 
-Os Agentes Comunitários de Saúde devem saber que:  A existem sinais e sintomas de alerta que podem 
-caracterizar distúrbios de acuidade visual em crianças 
-e adolescentes, como crianças com comportamento 
-agitado, dificuldade de socialização e déficit de aprendizagem. 
-B caso o rastreamento pela tabela de Snellen seja 
-positivo, a criança deverá ser encaminhada para a 
-equipe de Saúde da Família, que a avaliará 
-clinicamente, antes de encaminhá-la ao especialista. 
-C existem fatores de risco para problemas de saúde 
-ocular em crianças, como baixo peso ou tamanho para 
-a idade, tabagismo durante a gestação e falta de 
-suplementação de ferro no primeiro ano de vida. 
-D o teste para triagem de acuidade visual utiliza a Tabela 
-de Snellen e pode ser realizado em crianças a partir de sete anos de idade, por qualquer profissional treinado. 
-E crianças com sinais e/ou sintomas de desconforto, 
-como esfregar os olhos, piscar muito e/ou apresentar conjuntivas vermelhas, não devem ser submetidas ao teste de acuidade visual. 
+QUESTÃO 12
+Mulher com 57 anos de idade deu entrada na Emergência apresentando, há um dia, cinco episódios de evacuações com sangue vermelho vivo e em grande quantidade. Na admissão apresenta pressão arterial = 70x50 mmHg, frequência cardíaca = 164 bpm, sudorese profusa e intensa palidez cutâneo-mucosa. O exame do abdome é normal e no exame proctológico são vistas hemorróidas Grau II. Foi administrado O₂ nasal, hidratação com 2 litros de Ringer Lactato em acesso venoso periférico e a paciente encontra-se estável hemodinamicamente após seis horas da admissão. Com base no quadro clínico descrito, entre as opções abaixo, a próxima conduta diagnóstica e/ou terapêutica é:
 
-Questão 14  
-  Lactente com um ano de idade passou a frequentar 
-creche há dois meses e, nesse período, já apresentou dois 
-episódios de infecção de vias aéreas superiores (IVAS). 
-Há três dias passou a apresentar quadro de febre, coriza hialina e tosse, inicialmente seca, que evoluiu para tosse produtiva. Há 24h foi levado pela mãe ao Pronto 
-Atendimento e foi medicado com paracetamol e solução 
-fisiológica nasal. Como não houve melhora do quadro, a mãe retornou ao Pronto Atendimento para nova consulta. 
-Ao exame físico, a criança encontra-se afebril, gemente, 
-FR = 50 irpm, ausculta pulmonar com roncos difusos e tiragem subcostal. À otoscopia observa-se hiperemia de membrana timpânica bilateral e oroscopia com leve 
-hiperemia de pilares amigdalianos. 
- Com base no quadro clínico e exame físico, o diagnóstico e a conduta imediata são, respectivamente: 
- 
+A angiografia e possível embolização para diagnóstico e terapêutica.
+B vasopressina EV para diminuir o sangramento e sua recorrência.
+C enema opaco para diagnóstico e hemostasia.
+D tomografia com contraste para diagnóstico.
+E colonoscopia após preparo intestinal.
+
+QUESTÃO 13
+Durante uma reunião de capacitação em Saúde Escolar para os Agentes Comunitários de Saúde das equipes de Saúde da Família de um município de médio porte, foi fornecida uma série de informações e de procedimentos relativos à avaliação de acuidade visual de crianças e adolescentes.
+Os Agentes Comunitários de Saúde devem saber que:
+
+A existem sinais e sintomas de alerta que podem caracterizar distúrbios de acuidade visual em crianças e adolescentes, como crianças com comportamento agitado, dificuldade de socialização e déficit de aprendizagem.
+B caso o rastreamento pela tabela de Snellen seja positivo, a criança deverá ser encaminhada para a equipe de Saúde da Família, que a avaliará clinicamente, antes de encaminhá-la ao especialista.
+C existem fatores de risco para problemas de saúde ocular em crianças, como baixo peso ou tamanho para a idade, tabagismo durante a gestação e falta de suplementação de ferro no primeiro ano de vida.
+D o teste para triagem de acuidade visual utiliza a Tabela de Snellen e pode ser realizado em crianças a partir de sete anos de idade, por qualquer profissional treinado.
+E crianças com sinais e/ou sintomas de desconforto, como esfregar os olhos, piscar muito e/ou apresentar conjuntivas vermelhas, não devem ser submetidas ao teste de acuidade visual.
+
+QUESTÃO 14
+Lactente com um ano de idade passou a frequentar creche há dois meses e, nesse período, já apresentou dois episódios de infecção de vias aéreas superiores (IVAS). Há três dias passou a apresentar quadro de febre, coriza hialina e tosse, inicialmente seca, que evoluiu para tosse produtiva. Há 24h foi levado pela mãe ao Pronto Atendimento e foi medicado com paracetamol e solução fisiológica nasal. Como não houve melhora do quadro, a mãe retornou ao Pronto Atendimento para nova consulta. Ao exame físico, a criança encontra-se afebril, gemente, FR = 50 irpm, ausculta pulmonar com roncos difusos e tiragem subcostal. À otoscopia observa-se hiperemia de membrana timpânica bilateral e oroscopia com leve hiperemia de pilares amigdalianos. Com base no quadro clínico e exame físico, o diagnóstico e a conduta imediata são, respectivamente:
+
 A bronquiolite; indicar oxigenoterapia.
 B pneumonia; encaminhar para internação.
 C amigdalite viral; prescrever sintomáticos.
-D otite média aguda; prescrever antibiótico. 
-E asma; prescrever broncodilatador inalatório. 
+D otite média aguda; prescrever antibiótico.
+E asma; prescrever broncodilatador inalatório.
 
-Questão 15
-  Casal procura atendimento médico em Unidade Básica de Saúde com história de tentativas frustradas de engravidar há dois anos, a despeito de manter relações 
-sexuais frequentes e sem uso de métodos contraceptivos. 
-Ela tem 25 anos de idade, apresenta ciclos menstruais regulares e nega dismenorreia, dispareunia, comorbidades ou antecedente de doenças sexualmente transmissíveis. 
-Ele tem 30 anos de idade, sem antecedentes relevantes, 
-com filho de cinco anos de idade de outro relacionamento.  Considerando a propedêutica indicada na abordagem 
-inicial do casal infértil, devem ser solicitados: 
+QUESTÃO 15
+Casal procura atendimento médico em Unidade Básica de Saúde com história de tentativas frustradas de engravidar há dois anos, a despeito de manter relações sexuais frequentes e sem uso de métodos contraceptivos. Ela tem 25 anos de idade, apresenta ciclos menstruais regulares e nega dismenorreia, dispareunia, comorbidades ou antecedente de doenças sexualmente transmissíveis. Ele tem 30 anos de idade, sem antecedentes relevantes, com filho de cinco anos de idade de outro relacionamento. Considerando a propedêutica indicada na abordagem inicial do casal infértil, devem ser solicitados:
 
 A espermograma e histerossalpingografia.
 B ultrassonografia transvaginal e teste pós-coital.
 C teste pós-coital e ultrassonografia escrotal com Doppler.
-D dosagem de LH no 14.º dia do ciclo e 
-histerossalpingografia. 
-E espermograma e dosagem de FSH no terceiro dia do 
-ciclo para avaliar reserva ovariana.
+D dosagem de LH no 14.º dia do ciclo e histerossalpingografia.
+E espermograma e dosagem de FSH no terceiro dia do ciclo para avaliar reserva ovariana.
 
-Questão 16
-  Mulher com 22 anos de idade vem à consulta 
-ambulatorial com diarreia há seis meses. Apresenta cerca 
-de seis evacuações ao dia, com fezes pastosas 
-volumosas, de odor fétido, amareladas e espumosas, sem muco ou sangue. Nega tenesmo ou febre. Piora com a ingestão de leite. Tem cólicas eventuais e distensão 
-abdominal gasosa. Teve perda ponderal de 5 kg desde 
-o início do quadro. É solteira, sem atividade sexual. Nega uso de drogas ou álcool. Nega cirurgias prévias. Ao exame físico apresenta-se com índice de massa 
-corpórea de 22 kg/m
-2. Mucosas hipocrômicas. Evidente 
-perda de massa muscular. Abdome discretamente 
-distendido por gases, sem ascite, visceromegalias ou tumorações. Presença de lesões de pele, de aspecto 
-herpetiforme, em tronco. 
- No relatório, para justificar o encaminhamento da paciente para o especialista, deverá ser especificada a necessidade 
-de que a paciente seja submetida a:
+QUESTÃO 16
+Mulher com 22 anos de idade vem à consulta ambulatorial com diarreia há seis meses. Apresenta cerca de seis evacuações ao dia, com fezes pastosas volumosas, de odor fétido, amareladas e espumosas, sem muco ou sangue. Nega tenesmo ou febre. Piora com a ingestão de leite. Tem cólicas eventuais e distensão abdominal gasosa. Teve perda ponderal de 5 kg desde o início do quadro. É solteira, sem atividade sexual. Nega uso de drogas ou álcool. Nega cirurgias prévias. Ao exame físico apresenta-se com índice de massa corpórea de 22 kg/m². Mucosas hipocrômicas. Evidente perda de massa muscular. Abdome discretamente distendido por gases, sem ascite, visceromegalias ou tumorações. Presença de lesões de pele, de aspecto herpetiforme, em tronco. No relatório, para justificar o encaminhamento da paciente para o especialista, deverá ser especificada a necessidade de que a paciente seja submetida a:
 
 A tomografia computadorizada de abdome total.
 B retossigmoidoscopia com biópsia de mucosa retal.
-C colonoscopia com biópsia de mucosa de sigmóide. 
-D estudo radiológico de trânsito do intestino delgado. E endoscopia digestiva alta com biópsia de duodeno. 
+C colonoscopia com biópsia de mucosa de sigmóide.
+D estudo radiológico de trânsito do intestino delgado.
+E endoscopia digestiva alta com biópsia de duodeno.
 
-Questão 17
-  Mulher com 41 anos de idade procurou a Unidade de Pronto Atendimento com relato de dor anal há três dias 
-e, há cerca de seis horas, notou sangramento anal 
-vermelho vivo entremeado com coágulos. Nega alteração de hábito intestinal e história familiar de neoplasia colorretal. Ao exame observa-se uma nodulação perianal 
-com cerca de 1 cm de diâmetro, arroxeada e com 
-laceração central por onde se extrui um coágulo sanguíneo. O toque retal foi muito doloroso e não evidenciou tumores ou presença de sangue nas fezes. 
- 
+QUESTÃO 17
+Mulher com 41 anos de idade procurou a Unidade de Pronto Atendimento com relato de dor anal há três dias e, há cerca de seis horas, notou sangramento anal vermelho vivo entremeado com coágulos. Nega alteração de hábito intestinal e história familiar de neoplasia colorretal. Ao exame observa-se uma nodulação perianal com cerca de 1 cm de diâmetro, arroxeada e com laceração central por onde se extrui um coágulo sanguíneo. O toque retal foi muito doloroso e não evidenciou tumores ou presença de sangue nas fezes.
 Com base nessas informações, a conduta correta é:
+
 A fazer a esclerose do vaso sangrante.
-B encaminhar para cirurgia de urgência. 
-C realizar a trombectomia no momento do exame. D fazer ligadura elástica para hemostasia do vaso 
-sangrante. 
-E prescrever anti-inflamatório não esteroidal e observar o 
-sangramento. 
+B encaminhar para cirurgia de urgência.
+C realizar a trombectomia no momento do exame.
+D fazer ligadura elástica para hemostasia do vaso sangrante.
+E prescrever anti-inflamatório não esteroidal e observar o sangramento.
 
-Questão 18  
-  Em uma pequena cidade, de oito mil habitantes, foi 
-iniciada uma nova gestão municipal, que buscou 
-implementar o modelo de Estratégia de Saúde da Família. 
-A população, entendendo que o atendimento poderia piorar, reagiu negativamente. A fim de sensibilizar a 
-população em prol da consolidação do modelo, uma 
-equipe da Secretaria Estadual de Saúde foi mobilizada. 
-Para alcançar este objetivo, durante uma reunião com a 
-comunidade, a equipe explicitou os princípios do novo 
-modelo. 
- Entre os argumentos apresentados abaixo, qual seria o 
-correto para a equipe utilizar? 
- 
-A A realização da territorialização possibilitará a 
-identificação das fortalezas e fragilidades dos 
-equipamentos da comunidade. 
-B No processo de adscrição da clientela, as famílias que 
-não forem previamente cadastradas não serão 
-atendidas pela equipe de saúde. 
-C A mudança de um modelo assistencial preventivo para 
-um curativo será positiva, pois beneficiará as pessoas 
-com doenças crônicas. 
-D Com a implementação desta estratégia, o atendimento 
-será hierarquizado, isto é, antes da consulta médica 
-haverá a consulta de enfermagem. 
-E O novo modelo terá como objetivo realizar promoção e 
-prevenção à saúde, o que praticamente elimina a necessidade de atendimentos individuais. 
+QUESTÃO 18
+Em uma pequena cidade, de oito mil habitantes, foi iniciada uma nova gestão municipal, que buscou implementar o modelo de Estratégia de Saúde da Família. A população, entendendo que o atendimento poderia piorar, reagiu negativamente. A fim de sensibilizar a população em prol da consolidação do modelo, uma equipe da Secretaria Estadual de Saúde foi mobilizada. Para alcançar este objetivo, durante uma reunião com a comunidade, a equipe explicitou os princípios do novo modelo. Entre os argumentos apresentados abaixo, qual seria o correto para a equipe utilizar?
 
-Questão 19
-  Criança com 9 anos de idade, previamente hígida, 
-desenvolveu quadro de astenia há dois dias. Há seis horas 
-passou a apresentar alguns episódios de vômito, dor abdominal, poliúria e polidipsia. Foi levada pela mãe ao 
-Pronto-Socorro, onde chegou com quadro de desidratação 
-e confusão mental. O plantonista solicitou gasometria 
-arterial, que apresentou o seguinte resultado: pH = 7,2; 
-pO2 = 75 mmHg; pCO2 = 30 mmHg; HCO3
-- = 12 mEq/L e 
-Excesso de base (BE) = -18 mEq/L. 
- 
-Com base no quadro clínico e exames laboratoriais, o 
-diagnóstico e a conduta imediata são, respectivamente: 
- 
-A cetoacidose diabética; corrigir desidratação pelo 
-cálculo da depleção do espaço extracelular. 
-B intoxicação exógena aguda; administrar carvão ativado 
-e tomar medidas para estabilização do paciente. 
-C obstrução intestinal; corrigir a desidratação, além de 
-solicitar US abdominal para confirmar o diagnóstico. 
-D pancreatite aguda; encaminhar para Unidade de 
-Terapia Intensiva para monitorização e suporte. 
-E gastroenterocolite aguda; corrigir desidratação de 
-acordo com o seu grau.
+A A realização da territorialização possibilitará a identificação das fortalezas e fragilidades dos equipamentos da comunidade.
+B No processo de adscrição da clientela, as famílias que não forem previamente cadastradas não serão atendidas pela equipe de saúde.
+C A mudança de um modelo assistencial preventivo para um curativo será positiva, pois beneficiará as pessoas com doenças crônicas.
+D Com a implementação desta estratégia, o atendimento será hierarquizado, isto é, antes da consulta médica haverá a consulta de enfermagem.
+E O novo modelo terá como objetivo realizar promoção e prevenção à saúde, o que praticamente elimina a necessidade de atendimentos individuais.
 
-Questão 20
-  Mulher com 25 anos de idade, nuligesta, procura o 
-Ambulatório de Mastologia relatando ter notado a presença de nódulo na mama esquerda há dois meses. Faz uso de 
-anticoncepcional combinado oral. Nega história familiar de 
-câncer de mama. Ao exame, palpa-se nódulo de consistência fibroelástica, de contornos regulares, móvel, 
-indolor, medindo cerca de 3,0 cm, em quadrante 
-superoexterno da mama esquerda. 
- 
-A conduta imediata indicada é: A solicitar mamografia. 
-B realizar exérese do nódulo. 
+QUESTÃO 19
+Criança com 9 anos de idade, previamente hígida, desenvolveu quadro de astenia há dois dias. Há seis horas passou a apresentar alguns episódios de vômito, dor abdominal, poliúria e polidipsia. Foi levada pela mãe ao Pronto-Socorro, onde chegou com quadro de desidratação e confusão mental. O plantonista solicitou gasometria arterial, que apresentou o seguinte resultado: pH = 7,2; pO2 = 75 mmHg; pCO2 = 30 mmHg; HCO₃⁻ = 12 mEq/L e Excesso de base (BE) = -18 mEq/L.
+Com base no quadro clínico e exames laboratoriais, o diagnóstico e a conduta imediata são, respectivamente:
+
+A cetoacidose diabética; corrigir desidratação pelo cálculo da depleção do espaço extracelular.
+B intoxicação exógena aguda; administrar carvão ativado e tomar medidas para estabilização do paciente.
+C obstrução intestinal; corrigir a desidratação, além de solicitar US abdominal para confirmar o diagnóstico.
+D pancreatite aguda; encaminhar para Unidade de Terapia Intensiva para monitorização e suporte.
+E gastroenterocolite aguda; corrigir desidratação de acordo com o seu grau.
+
+QUESTÃO 20
+Mulher com 25 anos de idade, nuligesta, procura o Ambulatório de Mastologia relatando ter notado a presença de nódulo na mama esquerda há dois meses. Faz uso de anticoncepcional combinado oral. Nega história familiar de câncer de mama. Ao exame, palpa-se nódulo de consistência fibroelástica, de contornos regulares, móvel, indolor, medindo cerca de 3,0 cm, em quadrante superoexterno da mama esquerda.
+A conduta imediata indicada é:
+
+A solicitar mamografia.
+B realizar exérese do nódulo.
 C realizar controle clínico a cada seis meses.
 D solicitar mamografia e ultrassonografia mamária.
-E realizar punção aspirativa com agulha fina (PAAF). 
+E realizar punção aspirativa com agulha fina (PAAF).
 
-Questão 21
-  Mulher com 48 anos de idade, durante investigação laboratorial de rotina em Ambulatório de Clínica Médica, 
-é surpreendida com achado de aminotransferases cerca de duas vezes o limite superior da normalidade. Na 
-investigação de órgãos e sistemas, a paciente relata 
-apenas “cansaço frequente”. Foram solicitados marcadores virais de hepatites, os quais revelaram: 
-Anti-HAV IgG não reativo; HBsAg não reativo, Anti-HBc 
-IgG não reativo, Anti-HCV reativo. Diante dos resultados, foram adicionados à investigação a solicitação de PCR 
-quantitativo para HCV, genotipagem do HCV, 
-ultrassonografia abdominal e indicada vacinação para hepatite A e B. 
- 
-No encaminhamento para hepatologista, o conjunto de resultados que indicaria a maior probabilidade de resposta 
-virológica sustentada para tratamento antiviral com 
-ribavirina e peg-interferon é:  
+QUESTÃO 21
+Mulher com 48 anos de idade, durante investigação laboratorial de rotina em Ambulatório de Clínica Médica, é surpreendida com achado de aminotransferases cerca de duas vezes o limite superior da normalidade. Na investigação de órgãos e sistemas, a paciente relata apenas “cansaço frequente”. Foram solicitados marcadores virais de hepatites, os quais revelaram: Anti-HAV IgG não reativo; HBsAg não reativo, Anti-HBc IgG não reativo, Anti-HCV reativo. Diante dos resultados, foram adicionados à investigação a solicitação de PCR quantitativo para HCV, genotipagem do HCV, ultrassonografia abdominal e indicada vacinação para hepatite A e B.
+No encaminhamento para hepatologista, o conjunto de resultados que indicaria a maior probabilidade de resposta virológica sustentada para tratamento antiviral com ribavirina e peg-interferon é:
 
-A RNA do HCV indetectável e fígado com evidências de
-cirrose. 
-B RNA do HCV indetectável e fígado sem evidências de 
-fibrose. 
-C RNA do HCV detectável com < 2.000.000 cópias/ml, 
-genótipo 4 e fígado com esteatose.  
-D RNA do HCV detectável com > 2.000.000 cópias/ml, 
-genótipo 1 e fígado com fibrose avançada. 
-E RNA do HCV detectável com < 2.000.000 cópias/ml, 
-genótipo 2 e fígado com evidência de fibrose. 
+A RNA do HCV indetectável e fígado com evidências de cirrose.
+B RNA do HCV indetectável e fígado sem evidências de fibrose.
+C RNA do HCV detectável com < 2.000.000 cópias/ml, genótipo 4 e fígado com esteatose.
+D RNA do HCV detectável com > 2.000.000 cópias/ml, genótipo 1 e fígado com fibrose avançada.
+E RNA do HCV detectável com < 2.000.000 cópias/ml, genótipo 2 e fígado com evidência de fibrose.
 
-Questão 22  
-  Criança do sexo masculino, com 7 meses de idade, 
-começou a apresentar crises de choro injustificado 
-intercaladas com períodos de acalmia. Tem leve distensão abdominal, principalmente em quadrante superior direito, e 
-vômitos de conteúdo alimentar há cerca de dois dias. Hoje 
-pela manhã, a mãe notou fezes contendo substância gelatinosa e de cor róseo-avermelhada, o que a motivou a 
-procurar serviço de Pronto Atendimento. Ao exame, a 
-criança se apresenta inquieta e chorosa, os ruídos abdominais estão presentes, levemente aumentados e 
-com timbre metálico. Na palpação abdominal evidencia-se 
-uma tumoração fusiforme em hipocôndrio direito, sem 
-sinais de irritação peritonial. 
- 
-Com base nessas informações, pode-se afirmar que, na 
-investigação por imagem: 
- 
-A a presença de sangue nas fezes contraindica o enema 
-baritado. 
-B a radiografia simples de abdome deve mostrar uma 
-imagem de dupla bolha. 
-C a tomografia computadorizada é superior ao enema 
-baritado no acompanhamento da redução hidrostática. 
-D a ultrassonografia de abdome deve mostrar imagens 
-em "alvo" e "pseudo rim" no quadrante superior direito. 
-E a ultrassonografia de abdome deve mostrar imagem 
-de espessamento (hipertrofia) da camada muscular do piloro em epigástrio.
+QUESTÃO 22
+Criança do sexo masculino, com 7 meses de idade, começou a apresentar crises de choro injustificado intercaladas com períodos de acalmia. Tem leve distensão abdominal, principalmente em quadrante superior direito, e vômitos de conteúdo alimentar há cerca de dois dias. Hoje pela manhã, a mãe notou fezes contendo substância gelatinosa e de cor róseo-avermelhada, o que a motivou a procurar serviço de Pronto Atendimento. Ao exame, a criança se apresenta inquieta e chorosa, os ruídos abdominais estão presentes, levemente aumentados e com timbre metálico. Na palpação abdominal evidencia-se uma tumoração fusiforme em hipocôndrio direito, sem sinais de irritação peritoneal.
+Com base nessas informações, pode-se afirmar que, na investigação por imagem:
 
-Questão 23
-  Primípara, no 5.º dia pós-parto, procura a Unidade 
-Básica de Saúde queixando-se de dor e inchaço nas 
-mamas, com dificuldade para amamentar. Relata que seu 
-filho chora constantemente e que ele é preguiçoso para sugar o leite. Ao exame físico apresenta mamas volumosas, brilhantes, endurecidas, doloridas, com calor local. As aréolas apresentam-se tensas e os mamilos 
-planos. 
- Com base nos dados clínicos apresentados, a conduta correta a ser orientada é:  
+A a presença de sangue nas fezes contraindica o enema baritado.
+B a radiografia simples de abdome deve mostrar uma imagem de dupla bolha.
+C a tomografia computadorizada é superior ao enema baritado no acompanhamento da redução hidrostática.
+D a ultrassonografia de abdome deve mostrar imagens em "alvo" e "pseudo rim" no quadrante superior direito.
+E a ultrassonografia de abdome deve mostrar imagem de espessamento (hipertrofia) da camada muscular do piloro em epigástrio.
 
-A manter o aleitamento exclusivo sob livre demanda;
-corrigir a pega; aumentar a frequência das mamadas; 
-realizar ordenha manual antes da mamada para diminuir a tensão da auréola; e recomendar uso de sutiã com alças que suspendam as mamas. 
-B introduzir antibioticoterapia associada com analgésicos 
-e anti-inflamatórios não hormonais; administrar compressas frias nas mamas; e suspender a amamentação até que se garanta uma boa pega e ocorra melhora dos sinais flogísticos nas mamas. 
-C suspender a amamentação até que se garanta uma 
-boa pega e para que ocorra melhora dos sinais flogísticos nas mamas; administrar compressas mornas para reduzir os aglomerados de leite nos ductos; e realizar a ordenha manual. 
-D suspender o aleitamento exclusivo até haver a melhora 
-do processo inflamatório; administrar analgésicos e anti-inflamatórios; iniciar exercícios para correção dos mamilos planos; e realizar a ordenha manual. 
-E introduzir antibioticoterapia; realizar compressas 
-mornas para reduzir os aglomerados de leite nos ductos; e manter o aleitamento exclusivo sob livre demanda, após correção da pega.
- 
-Questão 24  
-  Homem com 54 anos de idade, com antecedentes de dislipidemia, hipertensão arterial e histórico de doença 
-familiar cardiovascular precoce (pai teve infarto do miocárdio aos 50 anos), deu entrada na Emergência de um hospital 
-com história de dor em região epigástrica há cerca de cinco horas, em aperto, de forte intensidade, sem relação com a 
-alimentação e sem fatores de melhora, acompanhada de náuseas e vômitos. Havia recebido 200 mg de AAS no hospital de origem. Ao exame, encontrava-se pálido, sudoreico e sonolento. Temperatura axilar = 35,8 ºC, pressão arterial = 
-80x50 mmHg, frequência cardíaca = 118 bpm, frequência respiratória = 16 irpm. Perfusão periférica diminuída. A 
-ausculta cardíaca revelava bulhas normofonéticas, sem sopros. Havia turgência jugular a 45.º. A ausculta pulmonar não 
-revelava estertores. O eletrocardiograma da admissão é apresentado abaixo. 
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
-  
- 
- 
- 
- 
-Diante do quadro clínico do paciente, a hipótese diagnóstica, a provável causa do choque e o tratamento inicial 
-recomendado são, respectivamente: 
- A infarto do miocárdio com supra de ST de parede inferior; tamponamento cardíaco; pericardiocentese. 
-B infarto do miocárdio com supra de ST de parede anterior; resposta inflamatória sistêmica; noradrenalina. 
-C infarto do miocárdio com supra de ST de parede inferior; infarto de ventrículo direito; hidratação com solução salina. 
-D infarto do miocárdio com supra de ST de parede anterior; ruptura de músculo papilar; colocação de balão intra-
-aórtico. 
-E infarto do miocárdio com supra de ST de parede ântero-septal; ruptura do septo interventricular; cirurgia cardíaca de 
-emergência. 
+QUESTÃO 23
+Primípara, no 5.º dia pós-parto, procura a Unidade Básica de Saúde queixando-se de dor e inchaço nas mamas, com dificuldade para amamentar. Relata que seu filho chora constantemente e que ele é preguiçoso para sugar o leite. Ao exame físico apresenta mamas volumosas, brilhantes, endurecidas, doloridas, com calor local. As aréolas apresentam-se tensas e os mamilos planos.
+Com base nos dados clínicos apresentados, a conduta correta a ser orientada é:
 
-Questão 25
-  Homem com 60 anos de idade, obeso, procurou Setor de Emergência de um hospital público com queixas de dor 
-na panturrilha esquerda e edema de membros inferiores, após uma viagem de ônibus de doze horas de duração. Evoluiu com dispneia súbita, sem melhora com a mudança postural, além de hemoptise e taquicardia. A ausculta pulmonar 
-revelou presença de crepitações no terço médio de ambos os pulmões. 
- A hipótese diagnóstica principal e a opção terapêutica recomendada são, respectivamente: 
- 
-A tromboembolismo pulmonar agudo; heparina de baixo peso molecular associada a trombolítico. 
-B pneumotórax hipertensivo; drenagem torácica fechada associada a pressão negativa. 
-C infarto agudo do miocárdio; trombolítico associado a angioplastia percutânea de resgate. D pneumonia bacteriana; oxigenoterapia associada a antibioticoterapia de amplo espectro. 
+A manter o aleitamento exclusivo sob livre demanda; corrigir a pega; aumentar a frequência das mamadas; realizar ordenha manual antes da mamada para diminuir a tensão da aréola; e recomendar uso de sutiã com alças que suspendam as mamas.
+B introduzir antibioticoterapia associada com analgésicos e anti-inflamatórios não hormonais; administrar compressas frias nas mamas; e suspender a amamentação até que se garanta uma boa pega e ocorra melhora dos sinais flogísticos nas mamas.
+C suspender a amamentação até que se garanta uma boa pega e para que ocorra melhora dos sinais flogísticos nas mamas; administrar compressas mornas para reduzir os aglomerados de leite nos ductos; e realizar a ordenha manual.
+D suspender o aleitamento exclusivo até haver a melhora do processo inflamatório; administrar analgésicos e anti-inflamatórios; iniciar exercícios para correção dos mamilos planos; e realizar a ordenha manual.
+E introduzir antibioticoterapia; realizar compressas mornas para reduzir os aglomerados de leite nos ductos; e manter o aleitamento exclusivo sob livre demanda, após correção da pega.
+
+QUESTÃO 24
+Homem com 54 anos de idade, com antecedentes de dislipidemia, hipertensão arterial e histórico de doença familiar cardiovascular precoce (pai teve infarto do miocárdio aos 50 anos), deu entrada na Emergência de um hospital com história de dor em região epigástrica há cerca de cinco horas, em aperto, de forte intensidade, sem relação com a alimentação e sem fatores de melhora, acompanhada de náuseas e vômitos. Havia recebido 200 mg de AAS no hospital de origem. Ao exame, encontrava-se pálido, sudoreico e sonolento. Temperatura axilar = 35,8 ºC, pressão arterial = 80x50 mmHg, frequência cardíaca = 118 bpm, frequência respiratória = 16 irpm. Perfusão periférica diminuída. A ausculta cardíaca revelava bulhas normofonéticas, sem sopros. Havia turgência jugular a 45.º. A ausculta pulmonar não revelava estertores. O eletrocardiograma da admissão é apresentado abaixo.
+Diante do quadro clínico do paciente, a hipótese diagnóstica, a provável causa do choque e o tratamento inicial recomendado são, respectivamente:
+
+A infarto do miocárdio com supra de ST de parede inferior; tamponamento cardíaco; pericardiocentese.
+B infarto do miocárdio com supra de ST de parede anterior; resposta inflamatória sistêmica; noradrenalina.
+C infarto do miocárdio com supra de ST de parede inferior; infarto de ventrículo direito; hidratação com solução salina.
+D infarto do miocárdio com supra de ST de parede anterior; ruptura de músculo papilar; colocação de balão intra-aórtico.
+E infarto do miocárdio com supra de ST de parede ântero-septal; ruptura do septo interventricular; cirurgia cardíaca de emergência.
+
+QUESTÃO 25
+Homem com 60 anos de idade, obeso, procurou Setor de Emergência de um hospital público com queixas de dor na panturrilha esquerda e edema de membros inferiores, após uma viagem de ônibus de doze horas de duração. Evoluiu com dispneia súbita, sem melhora com a mudança postural, além de hemoptise e taquicardia. A ausculta pulmonar revelou presença de crepitações no terço médio de ambos os pulmões.
+A hipótese diagnóstica principal e a opção terapêutica recomendada são, respectivamente:
+
+A tromboembolismo pulmonar agudo; heparina de baixo peso molecular associada a trombolítico.
+B pneumotórax hipertensivo; drenagem torácica fechada associada a pressão negativa.
+C infarto agudo do miocárdio; trombolítico associado a angioplastia percutânea de resgate.
+D pneumonia bacteriana; oxigenoterapia associada a antibioticoterapia de amplo espectro.
 E derrame pleural; drenagem torácica fechada associada a exame de cultura do líquido pleural. 
 
-Questão 26  
-  Mulher com 30 anos de idade é atendida por um 
-médico numa Unidade de Saúde da Família na comunidade em que reside. Há três meses vem se sentindo muito cansada, com desânimo e desinteresse para fazer todas as suas tarefas diárias, inclusive sem vontade de comer (emagreceu 3 kg nesse período) ou de sair de casa. Não está dormindo direito e sente "que não serve para mais nada" ( sic). 
- Além do acolhimento de forma contextualizada, por meio de um relacionamento médico-paciente humanizado, quais devem ser, respectivamente, o diagnóstico e a conduta?
+QUESTÃO 26
+Mulher com 30 anos de idade é atendida por um médico numa Unidade de Saúde da Família na comunidade em que reside. Há três meses vem se sentindo muito cansada, com desânimo e desinteresse para fazer todas as suas tarefas diárias, inclusive sem vontade de comer (emagreceu 3 kg nesse período) ou de sair de casa. Não está dormindo direito e sente "que não serve para mais nada" (sic). Além do acolhimento de forma contextualizada, por meio de um relacionamento médico-paciente humanizado, quais devem ser, respectivamente, o diagnóstico e a conduta?
 
-A A paciente não preenche critérios para episódio
-depressivo e deve-se investigar anorexia nervosa. 
-B A paciente preenche critérios para diagnóstico de 
-episódio depressivo e deve ser encaminhada para um psiquiatra. 
-C A hipótese diagnóstica é de anemia e deve-se solicitar 
-dosagem de hemoglobina e iniciar reposição medicamentosa. 
-D A paciente preenche critérios para diagnóstico de 
-episódio depressivo e deve-se iniciar tratamento. 
-E Deve-se realizar investigação das funções tireoidianas, 
-pois a história clínica é característica de distúrbios deste órgão. 
+A A paciente não preenche critérios para episódio depressivo e deve-se investigar anorexia nervosa.
+B A paciente preenche critérios para diagnóstico de episódio depressivo e deve ser encaminhada para um psiquiatra.
+C A hipótese diagnóstica é de anemia e deve-se solicitar dosagem de hemoglobina e iniciar reposição medicamentosa.
+D A paciente preenche critérios para diagnóstico de episódio depressivo e deve-se iniciar tratamento.
+E Deve-se realizar investigação das funções tireoidianas, pois a história clínica é característica de distúrbios deste órgão.
 
-Questão 27
-  A mãe de um lactente, com 3 meses de idade, procura atendimento médico na Unidade Básica de Saúde porque ele não apresenta evacuações há dois dias. Não há outras queixas. Refere que o lactente está em aleitamento materno exclusivo e as evacuações têm ocorrido com intervalos de até três dias. Trata-se do seu 
-primeiro filho e a mãe está muito preocupada. Ao exame 
-físico, a criança encontra-se ativa, reativa, normocorada e hidratada. Apresenta frequência respiratória e cardíaca normais, ausculta pulmonar e cardíaca normais e palpação abdominal normal.  Tendo em vista a queixa materna e o exame físico, a orientação adequada é:  A oferecer água e líquidos em abundância à criança. B oferecer chás caseiros nos intervalos das mamadas. C observar e retornar caso ocorra incômodo ao evacuar. D aumentar líquidos e alimentos laxantes na dieta 
-materna. 
-E administrar supositório de glicerina após 24h sem 
-evacuações. Questão 28
-  Mulher com 32 anos de idade procura ginecologista, 
-queixando-se de irregularidade menstrual e dificuldade para engravidar. As menstruações frequentemente 
-atrasam, chegando a ficar 120 dias sem menstruar. 
-Gesta 1, Para 1, com antecedente de diabetes gestacional na primeira gestação, há oito anos. É sedentária, nega tabagismo e etilismo. Refere ter aumentado cerca de 15 Kg desde o parto. Exame físico: presença de acne 
-facial e hirsutismo, além de Acantose nigricans  nas axilas 
-e região nucal. Trouxe resultado de ultrassonografia 
-transvaginal mostrando ovários com volume aumentado e presença de mais de doze folículos, medindo 9 mm em 
-ambos os ovários. 
- Com base nos dados apresentados, é correto afirmar que a paciente apresenta risco aumentado para: 
- 
-A adenomiose.
-B endometriose pélvica.
-C teratoma maduro de ovário.
-D hiperplasia endometrial. 
-E adenocarcinoma do colo uterino. 
+QUESTÃO 27
+A mãe de um lactente, com 3 meses de idade, procura atendimento médico na Unidade Básica de Saúde porque ele não apresenta evacuações há dois dias. Não há outras queixas. Refere que o lactente está em aleitamento materno exclusivo e as evacuações têm ocorrido com intervalos de até três dias. Trata-se do seu primeiro filho e a mãe está muito preocupada. Ao exame físico, a criança encontra-se ativa, reativa, normocorada e hidratada. Apresenta frequência respiratória e cardíaca normais, ausculta pulmonar e cardíaca normais e palpação abdominal normal. Tendo em vista a queixa materna e o exame físico, a orientação adequada é:
 
-Questão 29
-  Homem com 48 anos de idade procura o 
-ambulatório de Clínica Médica para avaliação. Não 
-apresenta história de comorbidades conhecidas prévias, mas é tabagista (20 maços-ano) e tem histórico familiar de hipertensão arterial sistêmica (HAS) importante. Nega 
-diabetes, dislipidemia, etilismo, drogadição, acidente 
-vascular cerebral, doença renal prévia, doenças da tireoide, doença arterial coronariana e uso crônico de medicações. No momento, encontra-se assintomático, com 
-pressão arterial (PA) = 145x95 mmHg (medida duas vezes 
-na consulta) e índice de massa corporal de 26,8 Kg/m
-2. 
-A fundoscopia revelou arteríolas estreitadas, tortuosas e brilhantes (em fio de prata), além de cruzamento arterial 
-patológico. A ausculta cardíaca revelou bulhas 
-normofonéticas, ritmo cardíaco regular em três tempos, com presença de B4 e frequência cardíaca = 88 bpm. Não havia turgência jugular. A ausculta pulmonar era normal. 
-Não havia edema de membros inferiores. O 
-eletrocardiograma revelou sinais de hipertrofia ventricular esquerda. A dosagem de creatinina e o sumário de urina (Urina I) eram normais.  
-Diante do quadro deste paciente, a meta de PA e a 
-recomendação do tratamento neste momento são, respectivamente:  
-A PA < 140x90; modificação do estilo de vida isolado. 
-B PA < 130X80; modificação do estilo de vida isolado. C PA < 140x90; modificação do estilo de vida e 
-tratamento medicamentoso. 
-D PA < 120x80; modificação do estilo de vida e 
-tratamento medicamentoso. 
-E PA < 130x80; modificação do estilo de vida e 
-tratamento medicamentoso. 
+A Oferecer água e líquidos em abundância à criança.
+B Oferecer chás caseiros nos intervalos das mamadas.
+C Observar e retornar caso ocorra incômodo ao evacuar.
+D Aumentar líquidos e alimentos laxantes na dieta materna.
+E Administrar supositório de glicerina após 24h sem evacuações.
 
-Questão 30
+QUESTÃO 28
+Mulher com 32 anos de idade procura ginecologista, queixando-se de irregularidade menstrual e dificuldade para engravidar. As menstruações frequentemente atrasam, chegando a ficar 120 dias sem menstruar. Gesta 1, Para 1, com antecedente de diabetes gestacional na primeira gestação, há oito anos. É sedentária, nega tabagismo e etilismo. Refere ter aumentado cerca de 15 kg desde o parto. Exame físico: presença de acne facial e hirsutismo, além de acantose nigricans nas axilas e região nucal. Trouxe resultado de ultrassonografia transvaginal mostrando ovários com volume aumentado e presença de mais de doze folículos, medindo 9 mm em ambos os ovários. Com base nos dados apresentados, é correto afirmar que a paciente apresenta risco aumentado para:
 
+A Adenomiose.
+B Endometriose pélvica.
+C Teratoma maduro de ovário.
+D Hiperplasia endometrial.
+E Adenocarcinoma do colo uterino.
 
+QUESTÃO 29
+Homem com 48 anos de idade procura o ambulatório de Clínica Médica para avaliação. Não apresenta história de comorbidades conhecidas prévias, mas é tabagista (20 maços-ano) e tem histórico familiar de hipertensão arterial sistêmica (HAS) importante. Nega diabetes, dislipidemia, etilismo, drogadição, acidente vascular cerebral, doença renal prévia, doenças da tireoide, doença arterial coronariana e uso crônico de medicações. No momento, encontra-se assintomático, com pressão arterial (PA) = 145x95 mmHg (medida duas vezes na consulta) e índice de massa corporal de 26,8 kg/m². A fundoscopia revelou arteríolas estreitadas, tortuosas e brilhantes (em fio de prata), além de cruzamento arterial patológico. A ausculta cardíaca revelou bulhas normofonéticas, ritmo cardíaco regular em três tempos, com presença de B4 e frequência cardíaca = 88 bpm. Não havia turgência jugular. A ausculta pulmonar era normal. Não havia edema de membros inferiores. O eletrocardiograma revelou sinais de hipertrofia ventricular esquerda. A dosagem de creatinina e o sumário de urina (Urina I) eram normais. Diante do quadro deste paciente, a meta de PA e a recomendação do tratamento neste momento são, respectivamente:
 
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
- 
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
- 
- 
-  
- 
-  
- 
- 
- 
- 
-  Menina com 7 anos de idade foi levada para consulta em Unidade Básica de Saúde pela mãe. Apresenta queixa 
-de ganho de peso excessivo nos últimos meses. Após a realização do exame físico, foram registrados os seguintes dados: Peso = 35 kg; Altura = 1,25 m; Pressão Arterial (membro superior direito) = 118x80 mmHg. 
- 
-Após a análise das curvas de crescimento (peso, altura e índice de massa corporal – IMC) e da tabela de pressão arterial, é correto afirmar que os diagnósticos e a conduta inicial recomendada nessa situação são, respectivamente: 
- 
-A obesidade grave e hipertensão; recomenda-se incentivar hábitos de vida saudáveis (atividade física regular e 
-alimentação balanceada) e realizar tratamento farmacológico. 
-B sobrepeso e pressão arterial limítrofe; recomenda-se incentivar hábitos de vida saudáveis (atividade física regular e 
-alimentação balanceada) e rastrear outras comorbidades. 
-C obesidade e hipertensão; recomenda-se seguir plano alimentar com dieta balanceada, atividade física regular e 
-acompanhamento semanal com a equipe de saúde. 
-D sobrepeso e hipertensão; recomenda-se seguir plano alimentar com dieta balanceada, atividade física regular, bem 
-como restrições de tempo na frente da televisão. 
-E obesidade e pressão arterial limítrofe; recomenda-se seguir plano alimentar com dieta balanceada, atividade física 
-regular e rastrear outras comorbidades. 
+A PA < 140x90; modificação do estilo de vida isolado.
+B PA < 130x80; modificação do estilo de vida isolado.
+C PA < 140x90; modificação do estilo de vida e tratamento medicamentoso.
+D PA < 120x80; modificação do estilo de vida e tratamento medicamentoso.
+E PA < 130x80; modificação do estilo de vida e tratamento medicamentoso.
 
-Questão 31  
-  Mulher com 25 anos de idade deu entrada no 
-Serviço de Emergência, prostrada, com vômitos. Ao exame 
-físico observou-se hipotensão arterial, febre de 39ºC, 
-defesa na fossa ilíaca direita, distensão e irritação peritonial difusas. O exame ginecológico e o toque retal 
-evidenciaram a presença de dor no fundo de saco 
-posterior à mobilização do colo uterino. A punho percussão 
-lombar era negativa, bilateralmente. 
- A melhor abordagem para o caso é:
+QUESTÃO 30
+Menina com 7 anos de idade foi levada para consulta em Unidade Básica de Saúde pela mãe. Apresenta queixa de ganho de peso excessivo nos últimos meses. Após a realização do exame físico, foram registrados os seguintes dados: Peso = 35 kg; Altura = 1,25 m; Pressão Arterial (membro superior direito) = 118x80 mmHg. Após a análise das curvas de crescimento (peso, altura e índice de massa corporal – IMC) e da tabela de pressão arterial, é correto afirmar que os diagnósticos e a conduta inicial recomendada nessa situação são, respectivamente:
 
-A reposição volêmica; realização de hemograma; 
-solicitação de tomografia computadorizada do abdome 
-para excluir o diagnóstico de pelvi-peritonite. 
-B reposição volêmica; realização de hemograma; iniciar 
-antibioticoterapia após coleta de sangue para 
-hemocultura e indicar o tratamento cirúrgico. 
-C reposição volêmica; solicitação de exame de urina, de 
-exames de rotina para abdome agudo; repetir a ultrassonografia e reavaliar periodicamente. 
-D solicitação de hemograma; realização de exame de 
-urina e ultrassom para fazer o diagnóstico diferencial 
-com ruptura de cisto ovariano. 
-E reposição volêmica; solicitação de radiografia do 
-abdome inferior e reavaliar.
+A Obesidade grave e hipertensão; recomenda-se incentivar hábitos de vida saudáveis (atividade física regular e alimentação balanceada) e realizar tratamento farmacológico.
+B Sobrepeso e pressão arterial limítrofe; recomenda-se incentivar hábitos de vida saudáveis (atividade física regular e alimentação balanceada) e rastrear outras comorbidades.
+C Obesidade e hipertensão; recomenda-se seguir plano alimentar com dieta balanceada, atividade física regular e acompanhamento semanal com a equipe de saúde.
+D Sobrepeso e hipertensão; recomenda-se seguir plano alimentar com dieta balanceada, atividade física regular, bem como restrições de tempo na frente da televisão.
+E Obesidade e pressão arterial limítrofe; recomenda-se seguir plano alimentar com dieta balanceada, atividade física regular e rastrear outras comorbidades.
 
-Questão 32  
-  Menino com 12 anos de idade comparece para 
-consulta em Unidade Básica de Saúde acompanhado pela 
-mãe. Tem história de asma brônquica. Há dois meses vem 
-apresentando tosse noturna diária, incapacidade de jogar 
-bola e crises de falta de ar pelo menos uma vez ao mês. No exame físico não apresenta alterações na ausculta 
-pulmonar. Atualmente está sem medicação. 
- 
-Qual o tratamento preconizado para esse paciente? 
-A Prescrever medicação de alívio, do tipo beta agonista
-de ação longa, e acompanhar o paciente semanalmente. 
-B Prescrever medicação de alívio, do tipo beta agonista 
-de ação longa, e encaminhar para o pneumologista e fisioterapia. 
-C Orientar sobre cuidados ambientais e prescrever 
-corticoide inalatório associado a beta agonista de ação longa por quatro semanas. 
-D Prescrever corticoide inalatório de uso contínuo e um 
-beta agonista de ação curta, conforme necessidade de 
-alívio dos sintomas. 
-E Prescrever corticoide inalatório associado a 
-montelucaste diário por doze semanas e indicar fisioterapia respiratória.
+QUESTÃO 31
+Mulher com 25 anos de idade deu entrada no Serviço de Emergência, prostrada, com vômitos. Ao exame físico observou-se hipotensão arterial, febre de 39ºC, defesa na fossa ilíaca direita, distensão e irritação peritoneal difusas. O exame ginecológico e o toque retal evidenciaram a presença de dor no fundo de saco posterior à mobilização do colo uterino. A punho percussão lombar era negativa, bilateralmente.
+A melhor abordagem para o caso é:
 
-Questão 33
-  Primigesta com 20 anos de idade, 18 semanas de 
-gestação, assintomática, vem para mais uma consulta de pré-natal na Unidade Básica de Saúde trazendo resultado de sorologia para toxoplasmose = IgG reagente e IgM 
-reagente. Desconhece história prévia de toxoplasmose. 
- A conduta imediata indicada nesta situação é: 
- 
-A repetir sorologia para toxoplasmose no 3.º trimestre de 
-gestação. 
-B realizar ultrassonografia obstétrica para avaliação fetal. C solicitar exame de PCR no líquido amniótico. 
-D iniciar tratamento com espiramicina. 
-E solicitar teste de avidez da IgG. 
+A reposição volêmica; realização de hemograma; solicitação de tomografia computadorizada do abdome para excluir o diagnóstico de pelvi-peritonite.
+B reposição volêmica; realização de hemograma; iniciar antibioticoterapia após coleta de sangue para hemocultura e indicar o tratamento cirúrgico.
+C reposição volêmica; solicitação de exame de urina, de exames de rotina para abdome agudo; repetir a ultrassonografia e reavaliar periodicamente.
+D solicitação de hemograma; realização de exame de urina e ultrassom para fazer o diagnóstico diferencial com ruptura de cisto ovariano.
+E reposição volêmica; solicitação de radiografia do abdome inferior e reavaliar.
 
-Questão 34
-  Mulher com 64 anos de idade, com antecedentes de 
-hipertensão arterial há cerca de 20 anos e tabagista (30 
-maços-ano), em uso de enalapril - 20 mg de 12/12h, foi trazida à Emergência de um hospital terciário com quadro de dor lombar de forte intensidade e início súbito, sem irradiação, que foi acompanhada por síncope, sem 
-pródromos, iniciada há duas horas. Na admissão hospitalar 
-estava consciente, orientada, anictérica, com palidez cutâneo-mucosa. Temperatura axilar = 36 ºC, pressão arterial = 70x45 mmHg, frequência cardíaca = 118 bpm, frequência respiratória = 18 irpm. Os exames do aparelho 
-cardiovascular e pulmonar não demonstraram alterações. 
-O abdome apresentava equimoses em ambos os flancos, e era levemente doloroso à palpação em mesogástrio e hipogástrio, com massa pulsátil em região do 
-mesogástrio. Ruídos hidroaéreos presentes. Nos membros 
-inferiores havia redução da temperatura distalmente e bilateralmente e redução da amplitude de todos os pulsos. Os exames laboratoriais iniciais revelaram:  Leucócitos = 12.000/mm
-3 (segmentados = 74%, 
-eosinófilos = 1%, linfócitos = 15%); Hemoglobina = 12,1 g/dL;  Hematócrito = 36,3%;  Plaquetas = 231.000/mm
-3;  
-Glicemia = 84 mg/dL (VR = 80-100mg/dL);  Ureia = 45 mg/dL (VR = 20-35 mg/dL);  Creatinina = 1,2 mg/dL (VR = 0,8-1,4 mg/dL);  Amilase = 352 U/L (VR = 4-400 U/L);  TGO = 26 U/L (VR < 35 U/L) e  
-TGP = 31 U/L (VR < 35 U/L). 
- Considerando a condição clínica atual da paciente, o exame a ser realizado para confirmação diagnóstica é: 
- 
+QUESTÃO 32
+Menino com 12 anos de idade comparece para consulta em Unidade Básica de Saúde acompanhado pela mãe. Tem história de asma brônquica. Há dois meses vem apresentando tosse noturna diária, incapacidade de jogar bola e crises de falta de ar pelo menos uma vez ao mês. No exame físico não apresenta alterações na ausculta pulmonar. Atualmente está sem medicação.
+
+Qual o tratamento preconizado para esse paciente?
+A Prescrever medicação de alívio, do tipo beta agonista de ação longa, e acompanhar o paciente semanalmente.
+B Prescrever medicação de alívio, do tipo beta agonista de ação longa, e encaminhar para o pneumologista e fisioterapia.
+C Orientar sobre cuidados ambientais e prescrever corticoide inalatório associado a beta agonista de ação longa por quatro semanas.
+D Prescrever corticoide inalatório de uso contínuo e um beta agonista de ação curta, conforme necessidade de alívio dos sintomas.
+E Prescrever corticoide inalatório associado a montelucaste diário por doze semanas e indicar fisioterapia respiratória.
+
+QUESTÃO 33
+Primigesta com 20 anos de idade, 18 semanas de gestação, assintomática, vem para mais uma consulta de pré-natal na Unidade Básica de Saúde trazendo resultado de sorologia para toxoplasmose = IgG reagente e IgM reagente. Desconhece história prévia de toxoplasmose.
+A conduta imediata indicada nesta situação é:
+
+A repetir sorologia para toxoplasmose no 3.º trimestre de gestação.
+B realizar ultrassonografia obstétrica para avaliação fetal.
+C solicitar exame de PCR no líquido amniótico.
+D iniciar tratamento com espiramicina.
+E solicitar teste de avidez da IgG.
+
+QUESTÃO 34
+Mulher com 64 anos de idade, com antecedentes de hipertensão arterial há cerca de 20 anos e tabagista (30 maços-ano), em uso de enalapril - 20 mg de 12/12h, foi trazida à Emergência de um hospital terciário com quadro de dor lombar de forte intensidade e início súbito, sem irradiação, que foi acompanhada por síncope, sem pródromos, iniciada há duas horas. Na admissão hospitalar estava consciente, orientada, anictérica, com palidez cutâneo-mucosa. Temperatura axilar = 36 ºC, pressão arterial = 70x45 mmHg, frequência cardíaca = 118 bpm, frequência respiratória = 18 irpm. Os exames do aparelho cardiovascular e pulmonar não demonstraram alterações. O abdome apresentava equimoses em ambos os flancos e era levemente doloroso à palpação em mesogástrio e hipogástrio, com massa pulsátil em região do mesogástrio. Ruídos hidroaéreos presentes. Nos membros inferiores havia redução da temperatura distalmente e bilateralmente e redução da amplitude de todos os pulsos. Os exames laboratoriais iniciais revelaram: Leucócitos = 12.000/mm³ (segmentados = 74%, eosinófilos = 1%, linfócitos = 15%); Hemoglobina = 12,1 g/dL; Hematócrito = 36,3%; Plaquetas = 231.000/mm³; Glicemia = 84 mg/dL (VR = 80-100 mg/dL); Ureia = 45 mg/dL (VR = 20-35 mg/dL); Creatinina = 1,2 mg/dL (VR = 0,8-1,4 mg/dL); Amilase = 352 U/L (VR = 4-400 U/L); TGO = 26 U/L (VR < 35 U/L) e TGP = 31 U/L (VR < 35 U/L).
+Considerando a condição clínica atual da paciente, o exame a ser realizado para confirmação diagnóstica é:
+
 A ultrassonografia abdominal.
 B lavado peritoneal com solução salina.
 C angiorressonância magnética do abdome.
 D tomografia computadorizada do abdome.
 E angiografia aórtica e de membros inferiores.
- 
-Questão 35  
-  Rapaz com 15 anos de idade, portador de cirrose 
-biliar primária, com classificação MELD igual a 32, encontra-se na fila de transplantes do Sistema Único se 
-Saúde (SUS). Seu pai, com 40 anos de idade, saudável, 
-deseja antecipar o transplante.  A orientação adequada para esta situação é: 
- 
-A não há possibilidade de acelerar o transplante, pois o 
-paciente é menor de idade e tem uma avaliação de menor gravidade clínica. 
-B o transplante somente poderá ser antecipado se 
-houver um doador com morte cerebral comprovada e consentimento da família. 
-C o transplante poderá ser acelerado, pois o quadro 
-clínico do paciente é grave e a doação intervivos pelo pai é consentida. 
-D em hipótese alguma o transplante poderá ser 
-antecipado, pois, para a fila do SUS, os critérios são 
-bem definidos e éticos. 
-E o transplante poderá ser antecipado somente com 
-doador falecido HLA idêntico ou semi-idêntico. 
 
-Questão 36
-  Criança com 11 anos de idade, frequentando o 
-quarto ano do ensino fundamental, é encaminhada ao pediatra pela escola por apresentar indisciplina e problemas de aprendizagem. A diretora solicita 
-encaminhamento para o neurologista, psicólogo e 
-oftalmologista. Na consulta em Unidade Básica de Saúde, a mãe conta que a classe da criança já teve três trocas de professora no ano corrente, e que em casa a criança é 
-muito esperta e cuida do irmão de 5 anos, no horário em 
-que ela está trabalhando. Levando em consideração a Reforma Psiquiátrica Brasileira, o Movimento de Luta Antimanicomial e a Política Nacional de Saúde Mental, a 
-conduta adequada é:
+QUESTÃO 35
+Rapaz com 15 anos de idade, portador de cirrose biliar primária, com classificação MELD igual a 32, encontra-se na fila de transplantes do Sistema Único de Saúde (SUS). Seu pai, com 40 anos de idade, saudável, deseja antecipar o transplante. A orientação adequada para esta situação é:
 
- A valorizar o prejuízo que a criança já tem em 
-decorrência do atraso na escolarização, instituindo tratamento clínico para transtorno de hiperatividade e déficit de atenção com ritalina e psicoterapia no Centro de Atenção Psicossocial (CAPS). 
-B prevenir a piora do quadro e a possibilidade de 
-internação em hospital psiquiátrico por intermédio da pronta referência do caso ao psiquiatra, antes que ocorra recrudescimento e seja imperioso o tratamento 
-manicomial. 
-C agendar os procedimentos ambulatoriais requisitados, 
-em cumprimento ao princípio da intersetorialidade da 
-Lei n.º 8.080/1990, com cobertura pelo benefício 
-financeiro do Programa "De Volta Para Casa". 
-D acionar o Conselho Tutelar mediante denúncia de 
-bullying e assédio moral da escola contra a criança, 
-pela repetência serial e tentativa de culpabilizar a 
-vítima pelo próprio agravo sofrido. 
-E orientar a mãe a respeito da possibilidade de o 
-comportamento da criança dever-se a situações 
-sociais do entorno escolar e/ou doméstico, e viabilizar 
-contato da Equipe de Saúde da Família com a escola.
+A não há possibilidade de acelerar o transplante, pois o paciente é menor de idade e tem uma avaliação de menor gravidade clínica.
+B o transplante somente poderá ser antecipado se houver um doador com morte cerebral comprovada e consentimento da família.
+C o transplante poderá ser acelerado, pois o quadro clínico do paciente é grave e a doação em vida pelo pai é consentida.
+D em hipótese alguma o transplante poderá ser antecipado, pois, para a fila do SUS, os critérios são bem definidos e éticos.
+E o transplante poderá ser antecipado somente com doador falecido HLA idêntico ou semi-idêntico.
 
-Questão 37
-  Menino com 12 anos de idade é trazido pelo pai ao 
-Ambulatório de Pediatria. Na história apresenta febre e dor 
-intensa nas articulações do joelho há uma semana, a qual 
-passou a acometer cotovelos e punhos. Há três semanas 
-apresentou infecção de garganta (sic) tratada com 
-amoxicilina. Ao exame, apresenta temperatura axilar = 38.4 ºC; frequência cardíaca = 132 bpm; estado geral comprometido; dispneia leve que piora com o decúbito. A 
-ausculta cardíaca mostra sopro holossistólico, de média 
-intensidade, mais audível em ápice, irradiando-se para a 
-axila; 3.ª bulha audível. 
- 
-Diante do quadro de alta suspeita diagnóstica de febre 
-reumática, qual a medicação a ser prescrita nesse momento? 
- 
-A Ibuprofeno. 
-B Diclofenaco. 
-C Naproxeno. 
-D Prednisona.  
-E Ácido Acetil Salicílico. 
+QUESTÃO 36
+Criança com 11 anos de idade, frequentando o quarto ano do ensino fundamental, é encaminhada ao pediatra pela escola por apresentar indisciplina e problemas de aprendizagem. A diretora solicita encaminhamento para o neurologista, psicólogo e oftalmologista. Na consulta em Unidade Básica de Saúde, a mãe conta que a classe da criança já teve três trocas de professora no ano corrente, e que em casa a criança é muito esperta e cuida do irmão de 5 anos, no horário em que ela está trabalhando. Levando em consideração a Reforma Psiquiátrica Brasileira, o Movimento de Luta Antimanicomial e a Política Nacional de Saúde Mental, a conduta adequada é:
 
-Questão 38
-  Mulher com 35 anos de idade, G2 P1 (parto vaginal há 4 anos), 41 semanas e 2 dias de idade gestacional 
-(corrigida por ultrassonografia realizada no primeiro 
-trimestre), vem à Unidade Básica de Saúde para mais uma 
-consulta de pré-natal. Refere dor nas costas e cansaço. 
-Nega contrações, disúria, perda líquida ou sangramento 
-vaginal. Relata boa movimentação fetal. Ao exame: 
-pressão arterial = 100x60 mmHg, peso = 68 kg, altura uterina = 34 cm, batimentos cardiofetais = 140 bpm, 
-ausência de dinâmica uterina. Toque vaginal = colo 
-grosso, centrado, 2 cm de dilatação, apresentação 
-cefálica. 
- 
-A conduta indicada é: 
- A dar alta do pré-natal e orientar a paciente a procurar a 
-Maternidade quando apresentar sintomas do trabalho de parto. 
-B encaminhar para a Maternidade para avaliação da 
-vitalidade fetal e indução do parto. 
-C orientar controle da movimentação fetal e aguardar o 
-trabalho de parto espontâneo. 
-D agendar nova consulta em 7 dias e orientar sinais e 
-sintomas do trabalho de parto. 
-E solicitar ultrassonografia obstétrica e agendar nova 
-consulta em 7 dias. 
+A valorizar o prejuízo que a criança já tem em decorrência do atraso na escolarização, instituindo tratamento clínico para transtorno de hiperatividade e déficit de atenção com ritalina e psicoterapia no Centro de Atenção Psicossocial (CAPS).
+B prevenir a piora do quadro e a possibilidade de internação em hospital psiquiátrico por intermédio da pronta referência do caso ao psiquiatra, antes que ocorra recrudescimento e seja imperioso o tratamento manicomial.
+C agendar os procedimentos ambulatoriais requisitados, em cumprimento ao princípio da intersetorialidade da Lei n.º 8.080/1990, com cobertura pelo benefício financeiro do Programa "De Volta Para Casa".
+D acionar o Conselho Tutelar mediante denúncia de bullying e assédio moral da escola contra a criança, pela repetência serial e tentativa de culpabilizar a vítima pelo próprio agravo sofrido.
+E orientar a mãe a respeito da possibilidade de o comportamento da criança dever-se a situações sociais do entorno escolar e/ou doméstico, e viabilizar contato da Equipe de Saúde da Família com a escola.
 
-Questão 39  
-  Mulher com 68 anos de idade foi trazida à 
-Emergência por apresentar quadro de febre de até 39oC, 
-mialgias, cefaleia, tosse seca, dispneia e piora do estado 
-geral há três dias, com piora nas últimas seis horas. Ao 
-exame encontra-se acordada, orientada, com frequência 
-respiratória = 30 irpm, pressão arterial = 100x60 mmHg, 
-frequência cardíaca = 115 bpm, oximetria digital = 86%, em ar ambiente. Sem outras alterações ao exame físico. A 
-radiografia de tórax mostra infiltrado intersticial bilateral. A 
-paciente foi transferida para a Unidade de Terapia 
-Intensiva, em quarto privativo, e foi iniciada reposição 
-volêmica. 
- 
-Qual a conduta inicial indicada para esta paciente?  
-A Iniciar oxigenioterapia, colher três amostras de 
-hemocultura aeróbia e iniciar azitromicina. 
-B Colher secreção respiratória para PCR viral, 
-prescrever oxigenioterapia e oseltamivir. 
-C Iniciar ventilação mecânica não invasiva, colher 
-material para exame bacteriológico e iniciar 
-oseltamivir. 
-D Iniciar ventilação mecânica invasiva com circuito 
-fechado como medida de isolamento respiratório e prescrever zanamivir. 
-E Colher material para PCR para H1N1 e prescrever 
-medidas de suporte, já que a paciente apresenta 
-sintomas há mais de 48 horas. 
+QUESTÃO 37
+Menino com 12 anos de idade é trazido pelo pai ao Ambulatório de Pediatria. Na história apresenta febre e dor intensa nas articulações do joelho há uma semana, a qual passou a acometer cotovelos e punhos. Há três semanas apresentou infecção de garganta (sic) tratada com amoxicilina. Ao exame, apresenta temperatura axilar = 38,4 ºC; frequência cardíaca = 132 bpm; estado geral comprometido; dispneia leve que piora com o decúbito. A ausculta cardíaca mostra sopro holossistólico, de média intensidade, mais audível em ápice, irradiando-se para a axila; 3.ª bulha audível.
+Diante do quadro de alta suspeita diagnóstica de febre reumática, qual a medicação a ser prescrita nesse momento?
 
-Questão 40
-  Homem de 22 anos de idade procura a Unidade Básica de Saúde de seu bairro com náuseas, vômitos e 
-“caroço doloroso na virilha”. Informa que há três anos essa 
-massa aparece quando faz esforço e desaparece ao 
-deitar-se, mas desta vez vem se mantendo há dois dias. Ao exame físico: paciente em bom estado geral e aumento 
-de volume na região inguinal e do escroto direito, com dor 
-à palpação.
+A Ibuprofeno.
+B Diclofenaco.
+C Naproxeno.
+D Prednisona.
+E Ácido Acetilsalicílico.
+
+QUESTÃO 38
+Mulher com 35 anos de idade, G2 P1 (parto vaginal há 4 anos), 41 semanas e 2 dias de idade gestacional (corrigida por ultrassonografia realizada no primeiro trimestre), vem à Unidade Básica de Saúde para mais uma consulta de pré-natal. Refere dor nas costas e cansaço. Nega contrações, disúria, perda líquida ou sangramento vaginal. Relata boa movimentação fetal. Ao exame: pressão arterial = 100x60 mmHg, peso = 68 kg, altura uterina = 34 cm, batimentos cardiofetais = 140 bpm, ausência de dinâmica uterina. Toque vaginal = colo grosso, centrado, 2 cm de dilatação, apresentação cefálica.
+A conduta indicada é:
+
+A dar alta do pré-natal e orientar a paciente a procurar a Maternidade quando apresentar sintomas do trabalho de parto.
+B encaminhar para a Maternidade para avaliação da vitalidade fetal e indução do parto.
+C orientar controle da movimentação fetal e aguardar o trabalho de parto espontâneo.
+D agendar nova consulta em 7 dias e orientar sinais e sintomas do trabalho de parto.
+E solicitar ultrassonografia obstétrica e agendar nova consulta em 7 dias.
+
+QUESTÃO 39
+Mulher com 68 anos de idade foi trazida à Emergência por apresentar quadro de febre de até 39 ºC, mialgias, cefaleia, tosse seca, dispneia e piora do estado geral há três dias, com piora nas últimas seis horas. Ao exame encontra-se acordada, orientada, com frequência respiratória = 30 irpm, pressão arterial = 100x60 mmHg, frequência cardíaca = 115 bpm, oximetria digital = 86%, em ar ambiente. Sem outras alterações ao exame físico. A radiografia de tórax mostra infiltrado intersticial bilateral. A paciente foi transferida para a Unidade de Terapia Intensiva, em quarto privativo, e foi iniciada reposição volêmica.
+Qual a conduta inicial indicada para esta paciente?
+
+A Iniciar oxigenioterapia, colher três amostras de hemocultura aeróbia e iniciar azitromicina.
+B Colher secreção respiratória para PCR viral, prescrever oxigenioterapia e oseltamivir.
+C Iniciar ventilação mecânica não invasiva, colher material para exame bacteriológico e iniciar oseltamivir.
+D Iniciar ventilação mecânica invasiva com circuito fechado como medida de isolamento respiratório e prescrever zanamivir.
+E Colher material para PCR para H1N1 e prescrever medidas de suporte, já que a paciente apresenta sintomas há mais de 48 horas.
+
+QUESTÃO 40
+Homem de 22 anos de idade procura a Unidade Básica de Saúde de seu bairro com náuseas, vômitos e “caroço doloroso na virilha”. Informa que há três anos essa massa aparece quando faz esforço e desaparece ao deitar-se, mas desta vez vem se mantendo há dois dias. Ao exame físico: paciente em bom estado geral e aumento de volume na região inguinal e do escroto direito, com dor à palpação.
 A conduta a ser adotada pelo médico da Unidade é:
 
-A administração de relaxante muscular, colocando o 
-paciente em posição de Trendelenburg, com tentativa de redução do volume. 
-B encaminhamento do paciente ao Serviço de Urgência 
-do Hospital com o pedido de avaliação imediata do cirurgião.  
-C tentativa de redução manual do aumento de volume da 
-região inguinescrotal para a cavidade abdominal.  
-D transiluminação do escroto para tentar diferenciar 
-hérnia inguinal de hidrocele comunicante. 
-E prescrição de antiemético e solicitação de ecografia da 
-região inguinescrotal.
+A administração de relaxante muscular, colocando o paciente em posição de Trendelenburg, com tentativa de redução do volume.
+B encaminhamento do paciente ao Serviço de Urgência do Hospital com o pedido de avaliação imediata do cirurgião.
+C tentativa de redução manual do aumento de volume da região inguinescrotal para a cavidade abdominal.
+D transiluminação do escroto para tentar diferenciar hérnia inguinal de hidrocele comunicante.
+E prescrição de antiemético e solicitação de ecografia da região inguinescrotal.
 
-Questão 41
-  Maquinista de ferrovia, com 36 anos de idade, 
-comparece à Unidade Básica de Saúde com história de lombalgia há seis meses, de início insidioso, com piora 
-progressiva e, mais recentemente, irradiação para o 
-membro inferior esquerdo. Ao exame, notam-se discreta 
-claudicação, supradesnivelamento da escápula esquerda, 
-contratura muscular subescapular e lombar ipsilateral, limitação da flexo-extensão da coluna, com retorno lento à 
-ortostase após fácies de dor. O sinal de Lasègue é 
-positivo. Perguntado sobre suas atividades profissionais, 
-informa que trabalha em ambiente muito quente (próximo à 
-caldeira da locomotiva) e ruidoso, e que a sua tarefa mais frequente é alimentar a caldeira com movimentos 
-repetidos, quando permanece com o tronco abaixado. 
- 
-Sobre a responsabilidade de emissão de Comunicação de 
-Acidente de Trabalho (CAT) neste caso, é correto afirmar que: 
- 
-A o médico da Unidade Básica de Saúde deve emitir a 
-CAT. 
-B o médico da Unidade Básica de Saúde deve elaborar 
-relatório detalhado, que permita ao médico do trabalho 
-da ferrovia emitir a CAT. 
-C o médico do trabalho da ferrovia já teria emitido a CAT, 
-se houvesse indicação, portanto o médico da Unidade 
-Básica de Saúde nada tem a acrescentar. 
-D a emissão da CAT pode ser assumida pelo médico da 
-Unidade Básica de Saúde, desde que uma ressonância nuclear magnética comprove patologia 
-discal lombar ocupacional. 
-E o perito médico previdenciário do Instituto Nacional do 
-Seguro Social (INSS) é competente para emitir a CAT, e o médico da Unidade Básica de Saúde deve elaborar 
-relatório para encaminhamento à Previdência Social. 
+QUESTÃO 41
+Maquinista de ferrovia, com 36 anos de idade, comparece à Unidade Básica de Saúde com história de lombalgia há seis meses, de início insidioso, com piora progressiva e, mais recentemente, irradiação para o membro inferior esquerdo. Ao exame, notam-se discreta claudicação, supradesnivelamento da escápula esquerda, contratura muscular subescapular e lombar ipsilateral, limitação da flexo-extensão da coluna, com retorno lento à ortostase após fácies de dor. O sinal de Lasègue é positivo. Perguntado sobre suas atividades profissionais, informa que trabalha em ambiente muito quente (próximo à caldeira da locomotiva) e ruidoso, e que a sua tarefa mais frequente é alimentar a caldeira com movimentos repetidos, quando permanece com o tronco abaixado.
+Sobre a responsabilidade de emissão de Comunicação de Acidente de Trabalho (CAT) neste caso, é correto afirmar que:
 
-Questão 42  
-  Homem com 64 anos de idade, portador de hipertensão arterial e diabetes há mais de 20 anos, procurou Serviço 
-de Urgência com queixas de dispneia aos médios esforços, que progrediu para dispneia aos pequenos esforços, além de dispneia paroxística noturna, surgimento de edema de membros inferiores, mole, frio e ascendente e também palpitações, há cerca de dois dias. O paciente refere que havia interrompido o uso das medicações de uso crônico há 30 dias e consumido álcool e comida em excesso há três dias. Nega dor precordial. O exame físico mostrou paciente em regular estado geral, consciente e orientado, levemente taquipneico em repouso. Temperatura axilar = 36 ºC, pressão arterial = 135x75 mmHg, frequência cardíaca = 122 bpm, frequência respiratória = 22 irpm, glicemia capilar = 321 mg/dL. A ausculta cardíaca revelou bulhas normofonéticas, ritmo cardíaco irregular em três tempos, com presença de B3, com frequência cardíaca de 122 bpm, com sopro sistólico de regurgitação tricúspide. Turgência jugular a 45.º presente. A ausculta pulmonar evidenciou estertores crepitantes em bases. Nos membros inferiores havia edema 2+/4+, mole, frio e indolor. O paciente trazia ecocardiograma realizado há três meses com os seguintes achados: aumento das câmaras 
-cardíacas, hipertrofia concêntrica de ventrículo esquerdo, insuficiência tricúspide moderada e fração de ejeção de 35%. 
-O eletrocardiograma da admissão atual é reproduzido abaixo.  
-                      
- Com base nos dados apresentados, pode-se afirmar que:  A a arritmia do paciente se deve à descompensação da insuficiência cardíaca e não é necessário tratamento 
-específico.  
-B a insuficiência cardíaca se deve a uma arritmia aguda e o paciente deve ser submetido à cardioversão elétrica 
-imediata. 
-C o paciente deve ser submetido à anticoagulação com heparina e reversão química imediata da arritmia com 
-amiodarona. 
-D o paciente deve receber digoxina para controle da frequência cardíaca e heparina de baixo peso molecular para 
-anticoagulação. 
-E o paciente deve ser internado na Unidade de Terapia Intensiva e receber furosemida, morfina, ventilação não 
-invasiva e dobutamina. 
+A o médico da Unidade Básica de Saúde deve emitir a CAT.
+B o médico da Unidade Básica de Saúde deve elaborar relatório detalhado, que permita ao médico do trabalho da ferrovia emitir a CAT.
+C o médico do trabalho da ferrovia já teria emitido a CAT, se houvesse indicação, portanto o médico da Unidade Básica de Saúde nada tem a acrescentar.
+D a emissão da CAT pode ser assumida pelo médico da Unidade Básica de Saúde, desde que uma ressonância nuclear magnética comprove patologia discal lombar ocupacional.
+E o perito médico previdenciário do Instituto Nacional do Seguro Social (INSS) é competente para emitir a CAT, e o médico da Unidade Básica de Saúde deve elaborar relatório para encaminhamento à Previdência Social.
 
-Questão 43  
-  Menina com 3 anos de idade é admitida na 
-Enfermaria de um hospital regional, no interior do estado, 
-por apresentar, há três semanas, dor na região lateral do pescoço, com adenomegalia cervical bilateral, febre e 
-queda do estado geral. Fez uso de anti-inflamatório não 
-hormonal, tendo diminuído o desconforto, mas persistido a 
-adenomegalia à direita, a febrícula e a inapetência. O 
-exame físico mostra cadeias ganglionares cervicais 
-bilaterialmente palpáveis, sendo que, à direita, palpa-se 
-massa de consistência elástica, com aproximadamente 1 cm em seu maior diâmetro, levemente dolorosa. Há, 
-neste mesmo lado, nodulação em região supraclavicular, 
-indolor, com aproximadamente 0,8 cm em seu maior 
-diâmetro. 
-Hemograma:  
-hemácias = 3.5x10
-12/mm3;  
-hematócrito = 32%;  
-hemoglobina = 10,4g%;  
-leucograma:16.000 leucócitos/mm3 - linfócitos: 65%;  
-linfócitos atípicos: 32%.  
-A principal justificativa de transferência dessa criança para 
-avaliação imediata com especialista é: 
- A febre e adenomegalia persistentes. 
-B presença de nodulação supraclavicular. 
-C dor à palpação de cadeia ganglionar cervical. 
-D hemograma com atipia linfocitária exagerada. 
-E consistência elástica de gânglio cervical à palpação. 
+QUESTÃO 42
+Homem com 64 anos de idade, portador de hipertensão arterial e diabetes há mais de 20 anos, procurou Serviço de Urgência com queixas de dispneia aos médios esforços, que progrediu para dispneia aos pequenos esforços, além de dispneia paroxística noturna, surgimento de edema de membros inferiores, mole, frio e ascendente e também palpitações, há cerca de dois dias. O paciente refere que havia interrompido o uso das medicações de uso crônico há 30 dias e consumido álcool e comida em excesso há três dias. Nega dor precordial. O exame físico mostrou paciente em regular estado geral, consciente e orientado, levemente taquipneico em repouso. Temperatura axilar = 36 ºC, pressão arterial = 135x75 mmHg, frequência cardíaca = 122 bpm, frequência respiratória = 22 irpm, glicemia capilar = 321 mg/dL. A ausculta cardíaca revelou bulhas normofonéticas, ritmo cardíaco irregular em três tempos, com presença de B3, com frequência cardíaca de 122 bpm, com sopro sistólico de regurgitação tricúspide. Turgência jugular a 45.º presente. A ausculta pulmonar evidenciou estertores crepitantes em bases. Nos membros inferiores havia edema 2+/4+, mole, frio e indolor. O paciente trazia ecocardiograma realizado há três meses com os seguintes achados: aumento das câmaras cardíacas, hipertrofia concêntrica de ventrículo esquerdo, insuficiência tricúspide moderada e fração de ejeção de 35%. O eletrocardiograma da admissão atual é reproduzido abaixo.
+Com base nos dados apresentados, pode-se afirmar que:
 
-Questão 44
-  Mulher com 25 anos de idade procura Unidade 
-Básica de Saúde para exame ginecológico de rotina. 
-Relata ter iniciado atividade sexual há seis anos e já ter 
-tido quatro parceiros sexuais. Não há alterações visíveis 
-ao exame especular. Nessa oportunidade a paciente é submetida pela primeira vez ao exame de colpocitologia 
-oncológica. Após um mês, retorna com resultado da 
-citologia, que revela a presença de lesão intraepitelial 
-escamosa de baixo grau (HPV e NIC I). 
- 
-A conduta mais apropriada para essa paciente é a 
-realização de:  
-A conização cervical. 
-B colpocitologia oncológica em seis meses. 
-C colposcopia e biópsia dirigida. 
-D eletrocauterização do colo uterino. 
+A a arritmia do paciente se deve à descompensação da insuficiência cardíaca e não é necessário tratamento específico.
+B a insuficiência cardíaca se deve a uma arritmia aguda e o paciente deve ser submetido à cardioversão elétrica imediata.
+C o paciente deve ser submetido à anticoagulação com heparina e reversão química imediata da arritmia com amiodarona.
+D o paciente deve receber digoxina para controle da frequência cardíaca e heparina de baixo peso molecular para anticoagulação.
+E o paciente deve ser internado na Unidade de Terapia Intensiva e receber furosemida, morfina, ventilação não invasiva e dobutamina.
+
+QUESTÃO 43
+Menina com 3 anos de idade é admitida na Enfermaria de um hospital regional, no interior do estado, por apresentar, há três semanas, dor na região lateral do pescoço, com adenomegalia cervical bilateral, febre e queda do estado geral. Fez uso de anti-inflamatório não hormonal, tendo diminuído o desconforto, mas persistido a adenomegalia à direita, a febrícula e a inapetência. O exame físico mostra cadeias ganglionares cervicais bilateralmente palpáveis, sendo que, à direita, palpa-se massa de consistência elástica, com aproximadamente 1 cm em seu maior diâmetro, levemente dolorosa. Há, neste mesmo lado, nodulação em região supraclavicular, indolor, com aproximadamente 0,8 cm em seu maior diâmetro.
+Hemograma: hemácias = 3.5x10^12/mm³; hematócrito = 32%; hemoglobina = 10,4g%; leucograma: 16.000 leucócitos/mm³ - linfócitos: 65%; linfócitos atípicos: 32%.
+A principal justificativa de transferência dessa criança para avaliação imediata com especialista é:
+
+A febre e adenomegalia persistentes.
+B presença de nodulação supraclavicular.
+C dor à palpação de cadeia ganglionar cervical.
+D hemograma com atipia linfocitária exagerada.
+E consistência elástica de gânglio cervical à palpação.
+
+QUESTÃO 44
+Mulher com 25 anos de idade procura Unidade Básica de Saúde para exame ginecológico de rotina. Relata ter iniciado atividade sexual há seis anos e já ter tido quatro parceiros sexuais. Não há alterações visíveis ao exame especular. Nessa oportunidade, a paciente é submetida pela primeira vez ao exame de colpocitologia oncológica. Após um mês, retorna com resultado da citologia, que revela a presença de lesão intraepitelial escamosa de baixo grau (HPV e NIC I).
+A conduta mais apropriada para essa paciente é a realização de:
+
+A conização cervical.
+B colpocitologia oncológica em seis meses.
+C colposcopia e biópsia dirigida.
+D eletrocauterização do colo uterino.
 E pesquisa de HPV por método de biologia molecular.
 
-Questão 45
- 
- 
-  
- 
-  
- 
-  
- 
-  
- 
-  
- 
- 
- 
-  
- 
-  
- 
-  
- 
-  
-   Homem com 42 anos de idade, vendedor 
-ambulante, foi admitido para emprego formal no comércio 
-e procura a Unidade Básica de Saúde para saber como 
-deve proceder com relação a uma alteração identificada 
-nos exames admissionais, reproduzida na radiografia de 
-tórax mostrada acima.   À anamnese, refere tosse seca há mais de seis 
-meses, constante, diária, nunca tratada. Nega febre, 
-dispneia, hemoptise e perda de peso. Não apresenta 
-outras queixas. É portador de hipertensão arterial, 
-controlada com hidroclorotiazida. É fumante, com uma carga tabágica de 20 maços/ano, há 22 anos. Apresenta 
-como antecedente familiar um irmão com tuberculose 
-pulmonar tratada no ano passado. Nega outros 
-antecedentes patológicos ou história familiar de doença. O 
-exame físico é normal.  
-A conduta mais apropriada para este paciente, neste 
-momento, é: 
- 
-A iniciar tratamento de prova para tuberculose. B solicitar tomografia computadorizada. 
-C cessar tabagismo e observar. 
-D repetir radiografia do tórax. 
-E iniciar tratamento com macrolídeo. 
+QUESTÃO 45
+Homem com 42 anos de idade, vendedor ambulante, foi admitido para emprego formal no comércio e procura a Unidade Básica de Saúde para saber como deve proceder com relação a uma alteração identificada nos exames admissionais, reproduzida na radiografia de tórax mostrada acima. À anamnese, refere tosse seca há mais de seis meses, constante, diária, nunca tratada. Nega febre, dispneia, hemoptise e perda de peso. Não apresenta outras queixas. É portador de hipertensão arterial, controlada com hidroclorotiazida. É fumante, com uma carga tabágica de 20 maços/ano, há 22 anos. Apresenta como antecedente familiar um irmão com tuberculose pulmonar tratada no ano passado. Nega outros antecedentes patológicos ou história familiar de doença. O exame físico é normal.
+A conduta mais apropriada para este paciente, neste momento, é:
 
-Questão 46  
-  Paciente secundigesta, na 35.ª semana de 
-gestação, relata diminuição de movimentos fetais. Informa 
-ainda gestação anterior interrompida na 36.a semana por 
-pré-eclâmpsia. Ao exame, PA = 120 x 80 mmHg, altura 
-uterina = 30 cm, batimentos cardiofetais =140 bpm, 
-dinâmica uterina ausente. Feto em apresentação cefálica, 
-com dorso à esquerda. Toque vaginal = colo longo, 
-posterior e impérvio. 
- 
-Diante destes dados, a conduta a ser tomada é:  
-A realizar acompanhamento ecográfico quinzenal para 
-avaliação do volume do líquido amniótico e maturidade placentária. 
-B indicar cesárea imediatamente, justificada pelo quadro 
-de restrição de crescimento intrauterino e sofrimento 
-fetal crônico. 
-C realizar avaliações clínico-obstétricas semanais, com 
-medida da altura uterina e circunferência abdominal, pressão arterial e ganho de peso maternos, além de 
-registro diário dos movimentos fetais. 
-D realizar seguimento mensal com medidas seriadas da 
-altura uterina, desde que ausentes alterações 
-maternas como hipertensão arterial e diabetes. 
-E aguardar até a 38.ª semana para avaliação das 
-condições obstétricas; realizar a indução do parto, se favoráveis; ou indicar cesárea, se desfavoráveis. 
+A iniciar tratamento de prova para tuberculose.
+B solicitar tomografia computadorizada.
+C cessar tabagismo e observar.
+D repetir radiografia do tórax.
+E iniciar tratamento com macrolídeo.
 
-Questão 47
-  Homem com 50 anos de idade foi atendido no 
-ambulatório de Clínica Médica por apresentar dor 
-epigástrica em queimação pós-prandial, de moderada 
-intensidade. Informa que, ocasionalmente, acorda durante 
-a noite por causa da dor. O exame físico é sem alterações. 
-O paciente foi submetido a endoscopia digestiva alta que 
-revelou pequena ulceração em bulbo duodenal, de aspecto endoscópico benigno e teste da urease positivo. 
- 
-A conduta terapêutica indicada para o paciente é 
-prescrever: 
- 
-A pantoprazol, tetraciclina e metronidazol por 14 dias. 
-B lansoprazol, metronidazol e amoxicilina por 21 dias. C rabeprazol por 21 dias, tetraciclina e levofloxacina por 
-15 dias. 
-D omeprazol por 28 dias e claritromicina e amoxicilina 
-por 14 dias. 
-E esomeprazol, levofloxacina e claritromicina por 14 
-dias.
+QUESTÃO 46
+Paciente secundigesta, na 35.ª semana de gestação, relata diminuição de movimentos fetais. Informa ainda gestação anterior interrompida na 36.ª semana por pré-eclâmpsia. Ao exame, PA = 120 x 80 mmHg, altura uterina = 30 cm, batimentos cardiofetais = 140 bpm, dinâmica uterina ausente. Feto em apresentação cefálica, com dorso à esquerda. Toque vaginal = colo longo, posterior e impérvio.
+Diante destes dados, a conduta a ser tomada é:
 
-Questão 48
-  Homem com 25 anos de idade chega ao Setor de 
-Emergência de hospital público de grande porte após ser 
-atingido pela explosão de um rojão de fogos de artifício, 40 
-minutos atrás. Apresenta-se consciente, porém agitado, taquipneico, com fácies de dor forte, frequência cardíaca = 
-130 bpm e pressão arterial = 130x90 mmHg. Saturação de 
-O
-2 (pelo oxímetro de pulso) = 95%. Ao exame inicial 
-observa-se vasta queimadura de terceiro grau na mão, no membro superior esquerdo e na região anterior do tronco, 
-queimadura de segundo grau no membro inferior esquerdo 
-e na cabeça (couro cabeludo). O médico de plantão resolveu transferir o paciente para um centro especializado 
-no tratamento de queimados.  
- 
-A intervenção mais importante a ser realizada, antes da 
-transferência a fim de minimizar os riscos de agravamento do quadro, é: 
- 
-A garantir permeabilidade de via aérea com entubação 
-orotraqueal. 
-B administrar antibioticoterapia profilática e vacina 
-antitetânica. 
-C envolver as áreas lesionadas com compressas 
-úmidas. 
+A realizar acompanhamento ecográfico quinzenal para avaliação do volume do líquido amniótico e maturidade placentária.
+B indicar cesárea imediatamente, justificada pelo quadro de restrição de crescimento intrauterino e sofrimento fetal crônico.
+C realizar avaliações clínico-obstétricas semanais, com medida da altura uterina e circunferência abdominal, pressão arterial e ganho de peso maternos, além de registro diário dos movimentos fetais.
+D realizar seguimento mensal com medidas seriadas da altura uterina, desde que ausentes alterações maternas como hipertensão arterial e diabetes.
+E aguardar até a 38.ª semana para avaliação das condições obstétricas; realizar a indução do parto, se favoráveis; ou indicar cesárea, se desfavoráveis.
+
+QUESTÃO 47
+Homem com 50 anos de idade foi atendido no ambulatório de Clínica Médica por apresentar dor epigástrica em queimação pós-prandial, de moderada intensidade. Informa que, ocasionalmente, acorda durante a noite por causa da dor. O exame físico é sem alterações. O paciente foi submetido a endoscopia digestiva alta que revelou pequena ulceração em bulbo duodenal, de aspecto endoscópico benigno e teste da urease positivo.
+A conduta terapêutica indicada para o paciente é prescrever:
+
+A pantoprazol, tetraciclina e metronidazol por 14 dias.
+B lansoprazol, metronidazol e amoxicilina por 21 dias.
+C rabeprazol por 21 dias, tetraciclina e levofloxacina por 15 dias.
+D omeprazol por 28 dias e claritromicina e amoxicilina por 14 dias.
+E esomeprazol, levofloxacina e claritromicina por 14 dias.
+
+QUESTÃO 48
+Homem com 25 anos de idade chega ao Setor de Emergência de hospital público de grande porte após ser atingido pela explosão de um rojão de fogos de artifício, 40 minutos atrás. Apresenta-se consciente, porém agitado, taquipneico, com fácies de dor forte, frequência cardíaca = 130 bpm e pressão arterial = 130 x 90 mmHg. Saturação de O₂ (pelo oxímetro de pulso) = 95%. Ao exame inicial observa-se vasta queimadura de terceiro grau na mão, no membro superior esquerdo e na região anterior do tronco, queimadura de segundo grau no membro inferior esquerdo e na cabeça (couro cabeludo). O médico de plantão resolveu transferir o paciente para um centro especializado no tratamento de queimados.
+A intervenção mais importante a ser realizada, antes da transferência a fim de minimizar os riscos de agravamento do quadro, é:
+
+A garantir permeabilidade de via aérea com entubação orotraqueal.
+B administrar antibioticoterapia profilática e vacina antitetânica.
+C envolver as áreas lesionadas com compressas úmidas.
 D puncionar acesso venoso e iniciar reposição volêmica.
 E prescrever analgésicos fortes e ansiolíticos.
 
-Questão 49
-  Homem com 76 anos de idade, portador de insuficiência cardíaca terminal e doença coronariana, é 
-acompanhado pelo médico da Equipe de Saúde da Família 
-há dois anos, com visitas domiciliares periódicas. Durante 
-o seu turno de trabalho na Unidade de Saúde da Família, 
-os familiares procuram o médico e informam que o paciente acabara de falecer em seu domicílio. 
- 
-O procedimento em relação à emissão da declaração de 
-óbito e ao preenchimento da causa básica do óbito é: 
- A preencher a declaração e entregar aos familiares, 
-identificando insuficiência cardíaca congestiva como causa básica do óbito. 
-B acionar o IML (Instituto Médico Legal); o legista deverá 
-declarar “falência múltipla de órgãos” como causa 
-básica do óbito. 
-C acionar o SVO (Sistema de Verificação de Óbitos); o 
-legista deverá declarar insuficiência coronariana como causa básica do óbito. 
-D acompanhar os familiares ao domicílio e constatar o 
-óbito o mais breve possível; declarar miocardiopatia 
-isquêmica como causa básica do óbito. 
-E acionar o SAMU (Serviço de Atendimento Móvel de 
-Urgência); o médico deverá declarar “causa da morte desconhecida” como causa básica do óbito. 
+QUESTÃO 49
+Homem com 76 anos de idade, portador de insuficiência cardíaca terminal e doença coronariana, é acompanhado pelo médico da Equipe de Saúde da Família há dois anos, com visitas domiciliares periódicas. Durante o seu turno de trabalho na Unidade de Saúde da Família, os familiares procuram o médico e informam que o paciente acabara de falecer em seu domicílio.
+O procedimento em relação à emissão da declaração de óbito e ao preenchimento da causa básica do óbito é:
 
-Questão 50  
-  Lactente com dois meses de idade foi levado pela 
-mãe à Unidade Básica de Saúde com história de estar 
-muito apático nas últimas horas. Ao exame físico o médico 
-observa que a criança está hipotônica, hiporresponsiva, apresentando livedo reticular, palidez e cianose de 
-extremidades. Ao ser questionada pelo médico sobre os 
-últimos acontecimentos na vida da criança, a mãe informa 
-à equipe de saúde que a criança havia recebido a vacina 
-Pentavalente há aproximadamente seis horas.  
-Considerando a suspeita de evento adverso pós-
-vacinação, as manifestações clínicas desta criança 
-sugerem evento relacionado a qual dos componentes 
-vacinais citados nas alternativas abaixo?  
-A Toxóide purificado de tétano. 
-B Toxóide purificado de difteria. 
-C Suspensão de Bordetella pertussis. 
+A preencher a declaração e entregar aos familiares, identificando insuficiência cardíaca congestiva como causa básica do óbito.
+B acionar o IML (Instituto Médico Legal); o legista deverá declarar “falência múltipla de órgãos” como causa básica do óbito.
+C acionar o SVO (Sistema de Verificação de Óbitos); o legista deverá declarar insuficiência coronariana como causa básica do óbito.
+D acompanhar os familiares ao domicílio e constatar o óbito o mais breve possível; declarar miocardiopatia isquêmica como causa básica do óbito.
+E acionar o SAMU (Serviço de Atendimento Móvel de Urgência); o médico deverá declarar “causa da morte desconhecida” como causa básica do óbito.
+
+QUESTÃO 50
+Lactente com dois meses de idade foi levado pela mãe à Unidade Básica de Saúde com história de estar muito apático nas últimas horas. Ao exame físico o médico observa que a criança está hipotônica, hiporresponsiva, apresentando livedo reticular, palidez e cianose de extremidades. Ao ser questionada pelo médico sobre os últimos acontecimentos na vida da criança, a mãe informa à equipe de saúde que a criança havia recebido a vacina Pentavalente há aproximadamente seis horas. Considerando a suspeita de evento adverso pós-vacinação, as manifestações clínicas desta criança sugerem evento relacionado a qual dos componentes vacinais citados nas alternativas abaixo?
+
+A Toxóide purificado de tétano.
+B Toxóide purificado de difteria.
+C Suspensão de Bordetella pertussis.
 D Antígenos de superfície de hepatite B.
 E Oligossacarídeos de H. influenzae tipo b.
 
-Questão 51
+QUESTÃO 51
   Mulher com 20 anos de idade desenvolveu quadro de doença trofoblástica gestacional em sua primeira 
 gestação. Foi submetida a esvaziamento uterino por vácuo-aspiração e iniciou o seguimento pós-molar. Após 
 quatro semanas de acompanhamento, apresentou vários 
@@ -1142,7 +505,7 @@ D Coriocarcinoma; encaminhar para serviço de
 radioterapia. 
 E Mola invasora; iniciar quimioterapia.
 
-Questão 52
+QUESTÃO 52
   Mulher com 35 anos de idade procura a Unidade 
 Básica de Saúde com queixas de vermelhidão na face, que 
 piora com a exposição solar, e dor em punhos e joelhos 
@@ -1162,7 +525,7 @@ C anti-DNA nativo.
 D fator antinuclear. 
 E anti-fosfolípide. 
 
-Questão 53
+QUESTÃO 53
   Homem com 65 anos de idade procura a Unidade de Pronto Atendimento porque está há cinco dias sem 
 evacuar, com dor abdominal contínua, no hemiabdome esquerdo, de baixa intensidade, sem outras queixas. Nega 
 operações prévias, não faz uso de nenhuma medicação e 
@@ -1187,7 +550,7 @@ abdome.
 D solicitar nova pesquisa de sangue oculto nas fezes. 
 E realizar lavagem intestinal e retossigmoidoscopia. 
 
-Questão 54  
+QUESTÃO 54
  
  
   
@@ -1209,7 +572,7 @@ preferencial para a oficina surtir mais efeito?  A Médicos.
 B Enfermeiros. 
 C Agentes Comunitários de Saúde. D Auxiliares e Técnicos de Enfermagem. E Coordenadores das Unidades de Saúde. 
 
-Questão 55
+QUESTÃO 55
   Criança com 4 anos de idade foi levada pela mãe à Unidade Básica de Saúde com queixa de distensão abdominal, hiporexia, palidez cutânea e referência ao "hábito de comer terra" ( sic). Foram realizados exames 
 laboratoriais e observados os seguintes resultados:  Hb - 8,4 g/dL;  Htc - 28%;  VCM – 64 fL;  
 HCM – 17 pg;  
@@ -1225,7 +588,7 @@ C amebíase.
 D enterobíase. 
 E ancilostomíase.
 
-Questão 56
+QUESTÃO 56
   Paciente com 30 anos de idade, primigesta, ao fazer 
 sua ultrassonografia para avaliar a espessura da prega 
 nucal, recebeu o exame com duas fotografias, identificadas 
@@ -1253,7 +616,7 @@ assinado por dois médicos capacitados, contendo as fotos do exame, e após assi
 termo de consentimento informado para submeter-se 
 ao procedimento. 
 
-Questão 57
+QUESTÃO 57
   Mulher com 38 anos de idade procurou o Serviço de Urgência referindo há 1 dia a ocorrência de dor abdominal 
 intensa em andar superior do abdome, acompanhada de 
 vômitos pós-alimentares. Ao exame físico encontrava-se 
@@ -1273,7 +636,7 @@ devido à presença de descompressão brusca positiva.
 E deve ser realizada laparotomia exploratória com 
 urgência, pois a paciente está com sinais de abdome agudo. 
 
-Questão 58  
+QUESTÃO 58
   Jovem com 17 anos de idade refere que há cerca de 
 seis meses tem apresentado diarreia (quatro a seis 
 evacuações/dia) com muco e sangue, precedida de dor abdominal em cólica. Relata ainda tenesmo. Há cerca de 
@@ -1291,7 +654,7 @@ B diarreia bacteriana; prescrever metronidazol.
 C linfoma intestinal; solicitar trânsito intestinal. D retocolite ulcerativa; realizar colonoscopia. 
 E estrongiloidíase; prescrever tiabendazol. 
 
-Questão 59
+QUESTÃO 59
   Homem com 29 anos de idade reside em cidade de 
 grande porte da região Sudeste, onde trabalha como administrador de empresas. No próximo final de semana, 
 vai viajar para um município da região Norte. Preocupado 
@@ -1319,7 +682,7 @@ E orientar quanto às medidas de proteção individual
 como: não se aproximar de áreas de risco após o entardecer e logo ao nascer do dia; usar roupas claras e de mangas longas; aplicar repelentes nas partes do 
 corpo expostas e utilizar mosquiteiro para dormir.
 
-Questão 60
+QUESTÃO 60
   Lactente com seis meses de idade é trazido à 
 Unidade Básica de Saúde pela mãe porque há um dia 
 apresentava diarreia com seis a sete evacuações, com 
@@ -1342,7 +705,7 @@ C hidratação intravenosa com fase rápida.
 D reidratação intravenosa com fase de reposição. 
 E reidratação intravenosa com fase de manutenção. 
 
-Questão 61
+QUESTÃO 61
   Mulher com 18 anos de idade, solteira, primigesta, decidiu interromper sua gravidez indesejada, procurando 
 uma clínica clandestina de aborto. Após o procedimento, a 
 paciente foi liberada para casa com fortes dores pélvicas. 
@@ -1383,7 +746,7 @@ E se trata de morte materna de causa inevitável devido a
 quadro séptico generalizado. 
  
  
-Questão 62  
+QUESTÃO 62
   Mulher com 56 anos de idade, ex-tabagista (40 
 maços/ano), apresenta dispneia aos pequenos esforços e tosse matinal com expectoração clara. Faz uso de 
 salbutamol inalatório para alívio da dispneia. Ao exame 
@@ -1417,7 +780,7 @@ C pH 7,35; PaCO2 43 mmHg; PaO2 60 mmHg; HCO3 24 mEq/L.
 D pH 7,38; PaCO2 36 mmHg; PaO2 62 mmHg; HCO3 24 mEq/L. 
 E pH 7,37; PaCO2 47 mmHg; PaO2 55 mmHg; HCO3 28 mEq/L.
 
-Questão 63
+QUESTÃO 63
   Homem de 34 anos de idade foi submetido, há 
 cinco dias, a correção cirúrgica de úlcera perfurada. Vem 
 evoluindo com vômitos desde a operação, acompanhados de dor abdominal difusa e distensão 
@@ -1442,7 +805,7 @@ antibiótico e instituir reposição volêmica.
 E chamar o cirurgião responsável, mudar esquema 
 antibiótico e instituir reposição volêmica. 
 
-Questão 64
+QUESTÃO 64
   Médica com 24 anos de idade, recém-formada em 
 escola do Sudeste brasileiro, foi convocada pelo Exército 
 para servir, durante o próximo ano, na base da segunda 
@@ -1474,7 +837,7 @@ reforço vacinal a cada cinco anos. Orientar sobre a
 importância de portar cartão de vacinação durante a 
 viagem. 
 
-Questão 65  
+QUESTÃO 65
   Estudante com 9 anos de idade vem apresentando 
 dificuldades de aprendizagem e atos de indisciplina frequentes em relação aos professores, principalmente aos novos, que tiveram de ser substituidos por três vezes nos últimos dois meses por problemas de saúde. A escola solicitou que a mãe procurasse um "neurologista" para o menino e esta levou a criança inicialmente ao pediatra, referindo que ele tinha boa índole, ajudava nas tarefas de casa e tomava conta do irmão com 5 anos. Notou que tem apresentado notas mais baixas e reclama muito dos professores ultimamente. Nega atos indisciplinares que não sejam próprios da idade. O menino não gosta de ficar na rua, costuma brincar em casa e jogar futebol no final de 
 semana com os amigos e primos. Em casa não tem 
@@ -1489,7 +852,7 @@ familiar; encaminhar de imediato para avaliação com o psiquiatra infantil.
 E transtorno de conduta (comportamento desafiador 
 opositor); encaminhar para avaliação com o psiquiatra infantil. 
 
-Questão 66
+QUESTÃO 66
 Paciente com 65 anos de idade, menopausa ocorrida há doze anos, comparece ao Pronto-Socorro com história de sangramento vaginal esporádico e leve há sete meses, com piora do sangramento há dois dias, acompanhado de fraqueza e mal-estar. Nega dor pélvica ou outros sintomas. Tem hipertensão arterial sistêmica controlada e obesidade 
 (IMC = 38 kg/m
 2). Ao exame ginecológico verifica-se saída 
@@ -1504,7 +867,7 @@ C atrofia do endométrio.
 D câncer de endométrio.
 E hiperplasia endometrial.
 
-Questão 67
+QUESTÃO 67
 Homem com 45 anos de idade procurou a Unidade Básica de Saúde com queixa de “manchas brancas pelo corpo” que persistem há aproximadamente dois anos e que foram aumentando em número e tamanho. Ao exame verificou-se a presença de quatro lesões, todas apresentando as mesmas características, sendo duas máculas hipocrômicas na face anterior da coxa direita e duas em região dorsal. As lesões apresentavam bordas bem definidas e ausência de pelos. O teste de sensibilidade térmica demonstrou anestesia em toda a extensão das lesões e a avaliação do grau de incapacidade física foi zero. A baciloscopia foi positiva.  Em relação ao tratamento indicado para este paciente, podemos afirmar que:
 
 A o tratamento deverá ser feito por seis meses, usando-se doses supervisionadas e autoadministradas.
@@ -1517,7 +880,7 @@ D a clofazimina deverá ser usada na dose de
 E a ofloxacina poderá ser usada em substituição à 
 rifampicina nos casos de intolerância, na dose de 200 mg/mês supervisionada e 200 mg/dia autoadministrada. 
 
-Questão 68
+QUESTÃO 68
   Lactente de nove meses, do sexo masculino, é admitido no Pronto-Socorro com história de irritabilidade, febre e choro persistente. Ao exame físico, apresenta-se pálido, discreta hiperemia de orofaringe, discreta limitação à flexão do pescoço e fontanela abaulada. O hemograma realizado no atendimento mostra discreta leucocitose (11.000 leucócitos/mm
 3) sem desvio à esquerda. Punção 
 lombar mostrou líquor hipertenso e turvo, com 1.250 células, com 95% de neutrófilos; glicorraquia = 15 mg/dL, dosagem de proteínas no líquor = 345 mg/dL, presença de diplococos gram-negativos.  Qual a hipótese diagnóstica mais provável?
@@ -1528,7 +891,7 @@ C Meningite bacteriana meningocócica.
 D Meningite por Mycobacterium tuberculosis .
 E Meningite sem agente etiológico determinado.
  
-Questão 69  
+QUESTÃO 69
   Menino com 8 meses de idade é levado à 
 Emergência com quadro de febre alta (39 ºC) há dois dias. Não aceita alimentação e está irritado. Ao exame, criança em regular estado geral, hidratada, eupneica, apresentando temperatura = 39 ºC. Há hiperemia em orofaringe posterior e tonsilas, sendo observados pontos brancos bilateralmente. Otoscopia mostra, bilateralmente, hiperemia da membrana timpânica. A ausculta dos campos pulmonares mostra roncos de transmissão. O exame físico não mostra outros achados anormais.  
 Com base na principal hipótese diagnóstica, a conduta 
@@ -1540,7 +903,7 @@ C antibiótico por via oral.
 D anti-inflamatório por via oral.
 E antibiótico por via intramuscular.
 
-Questão 70
+QUESTÃO 70
   Lactente com 8 meses de idade, previamente hígido, foi admitido no Pronto-Socorro com história de febre não 
 aferida, recusa alimentar, irritabilidade e vômitos há dois 
 dias. A mãe informou que a criança não foi vacinada adequadamente. Ao exame físico foi observado choro intenso e fontanela abaulada, sem outros sinais. Foi realizada punção lombar que mostrou líquor (LCR) com aspecto turvo, citometria de 2.300 células/mm
@@ -1551,10 +914,10 @@ C Haemophilus influenzae.
 D Streptococcus pneumoniae . 
 E Mycobacterium tuberculosis. 
 
-Questão 71
+QUESTÃO 71
   Considere que um médico é convidado para participar da reunião da Comissão Intergestores Bipartite (CIB) para explicar sobre o fluxograma de atendimento dos pacientes diabéticos sem complicações crônicas residentes na capital. 
  
-Segundo o Decreto Presidencial n.° 7.508, de 28/06/2011, que regulamentou a Lei Orgânica da Saúde (Lei n.° 8.080, de 19/09/1990) para garantir o princípio da integralidade, este grupo de pacientes deverá, no acompanhamento inicial, ser referenciado para a seguinte porta de entrada do Sistema Único de Saúde (SUS):  A atenção primária. B atenção secundária. C atenção domiciliar. D vigilância de doenças crônicas. E atenção em ambulatório especializado. Questão 72
+Segundo o Decreto Presidencial n.° 7.508, de 28/06/2011, que regulamentou a Lei Orgânica da Saúde (Lei n.° 8.080, de 19/09/1990) para garantir o princípio da integralidade, este grupo de pacientes deverá, no acompanhamento inicial, ser referenciado para a seguinte porta de entrada do Sistema Único de Saúde (SUS):  A atenção primária. B atenção secundária. C atenção domiciliar. D vigilância de doenças crônicas. E atenção em ambulatório especializado. QUESTÃO 72
   Primigesta com 18 anos de idade, 22 semanas de 
 idade gestacional, comparece à Unidade Básica de Saúde 
 para realização de vacinação antitetânica. Traz consigo 
@@ -1575,7 +938,7 @@ prévia.
 E aplicar a vacina antitetânica, pois cobrir o risco fetal é 
 a prioridade. 
 
-Questão 73
+QUESTÃO 73
   Homem com 40 anos de idade, portador de cirrose 
 alcoólica, encontra-se em avaliação para transplante 
 hepático. Relata abstinência de álcool há dois anos. Há 
@@ -1604,7 +967,7 @@ paciente, prescrever propranolol, inibidor de bomba de
 prótons, antibiótico profilático, diuréticos, agendar nova endoscopia em 6 meses e manter avaliação para 
 transplante hepático. 
 
-Questão 74  
+QUESTÃO 74
   Mulher com 57 anos de idade, portadora de 
 diabetes tipo II não controlado, apresenta quadro de febre associada a dor, edema e eritema de limites mal 
 definidos em coxa esquerda, medindo 20 cm em seu 
@@ -1618,7 +981,7 @@ C Haptoglobina.
 D Ferritina sérica.
 E Proteína C reativa.
 
-Questão 75
+QUESTÃO 75
   Mulher de 33 anos de idade, desempregada, refere 
 dor à deglutição há 2,5 semanas, com piora acentuada há três dias. Tem tido um pico de febre diária há uma semana, que coincidiu com uma discreta irritação e embaçamento visual no olho esquerdo. Refere ser portadora do vírus HIV há onze anos. Tem histórico de 
 tratamento prévio para pneumonia por Pneumocystis 
@@ -1631,7 +994,7 @@ A Fluconazol. B Ganciclovir. C Pantoprazol.
 D Sulfametoxazol/trimetoprim. 
 E Zidovudina + lamivudina.
 
-Questão 76
+QUESTÃO 76
   Menino com 7 meses de idade é levado pela mãe à Unidade Básica de Saúde em consulta de Puericultura. A mãe está preocupada, pois acha que ele é mais lento que
 os irmãos. Após anamnese detalhada, o pediatra realizou 
 o exame físico e afirmou que o exame neurológico e o desenvolvimento neuropsicomotor estavam condizentes com a idade. 
@@ -1649,7 +1012,7 @@ mão para outra; reflexo de preensão plantar.
 E Emissão de palavras-frase; capacidade de andar com 
 apoio observada na consulta; bate palmas; reflexo do paraquedista. 
 
-Questão 77
+QUESTÃO 77
   Homem com 18 anos de idade apresenta diagnóstico recente de diabetes mellitus tipo I e encontra-se em acompanhamento na Unidade Básica de Saúde. Foram prescritas insulina NPH 16U + insulina regular 6U 
 antes do café e insulina NPH 8U + insulina regular 4U 
 antes do jantar. O paciente foi orientado a verificar a glicemia capilar antes das refeições e ao deitar, fazendo aplicação de insulina regular adicional conforme resultado 
@@ -1673,7 +1036,7 @@ E associar 4U de insulina regular antes do almoço e ao
 deitar caso a medida da glicemia matinal em jejum 
 tenha sido superior a 120mg/dL na maioria dos dias. 
 
-Questão 78  
+QUESTÃO 78
   Paciente primigesta, 32 anos de idade, na segunda 
 semana pós-parto, está apresentando quadro de dor na mama esquerda, febre (temperatura axilar = 38.4
 oC), 
@@ -1692,7 +1055,7 @@ ordenha do excesso de leite.
 E mastite; indicar retirada manual do leite após 
 mamadas e antibioticoterapia. 
 
-Questão 79
+QUESTÃO 79
   Homem com 45 anos de idade, obeso, procura consulta médica por apresentar episódios de cólica em 
 hipocôndrio direito há seis meses. Trouxe consigo um 
 resultado de ultrassonografia que mostra múltiplos pequenos cálculos em vesícula biliar sem outros achados anormais. O paciente inicia a consulta dizendo que não quer realizar cirurgia.  Qual a melhor orientação para esse paciente?
@@ -1708,7 +1071,7 @@ orientar para tomar medicamentos sintomáticos com continuação de acompanhamen
 E Encaminhar para psiquiatra a fim de descartar 
 síndrome do pânico e prescrever medicamentos sintomáticos até o paciente decidir submeter-se à cirurgia.
 
-Questão 80
+QUESTÃO 80
   Mulher com 36 anos de idade, secundigesta, na 27.ª 
 semana de gestação, está realizando pré-natal em Unidade Básica de Saúde. Relata que sua primeira gestação transcorreu de forma tranquila e que seu filho 
 nasceu bem, de parto vaginal, pesando 4.200 gramas. Ao 
@@ -1729,7 +1092,7 @@ com 28 semanas de gestação.
 E solicitar dosagem de glicemia pós-prandial, com 34 
 semanas de gestação. 
 
-Questão 81
+QUESTÃO 81
   Menino com 8 anos de idade é trazido ao Ambulatório de Pediatria com queixa de oligúria e urina espumosa, bem como quadro de edema, iniciado há 7 dias. A mãe nega outras alterações ou patologias prévias. 
 Ao exame físico: PA = 99 X 56 mmHg, edema palpebral e 
 de membros inferiores, sem ascite. Exame de urina: densidade urinária: 1.015, hemácias: 2/campo, leucócitos: 3/campo, proteinuria +++/++++. 
@@ -1741,7 +1104,7 @@ C anti-hipertensivo.
 D corticosteroide.
 E anti-inflamatório não hormonal. 
 
-Questão 82
+QUESTÃO 82
   Mulher com 52 anos de idade, previamente hígida, há 3 meses queixa-se de astenia, sonolência e ganho de 
 peso, constipação, além de artralgias e mialgias. Ao exame, nota-se pele seca e frequência cardíaca de 62 bpm, além de não apresentar sinais de artrite ou 
 deformidades articulares. 
@@ -1753,7 +1116,7 @@ C cálcio sérico e PTH; hiperparatireoidismo.
 D TSH e T4 livre; hipotireoidismo secundário. 
 E cortisol e potássio séricos; insuficiência adrenal. 
 
-Questão 83  
+QUESTÃO 83
   Homem com 35 anos de idade, no 3.º dia pós-
 operatório de apendicectomia, encontra-se internado em enfermaria coletiva de pequeno hospital secundário. O 
 achado cirúrgico foi de uma apendicite aguda em fase 
@@ -1773,7 +1136,7 @@ de imagem pelo risco de infecção intracavitária.
 E manter antibiotioterapia, indicar a exploração cirúrgica 
 da ferida operatória pelo risco de infecção intracavitária. 
 
-Questão 84
+QUESTÃO 84
   A tuberculose (TB) é um problema de Saúde Pública no Brasil. A identificação precoce de pessoas com TB é imprescindível para a quebra da cadeia de transmissão da 
 doença. No Brasil, em 2008, a TB foi a quarta causa de 
 morte por doenças infecciosas e a primeira causa de morte em pacientes com Aids. 
@@ -1788,7 +1151,7 @@ C morbidade.
 D prevalência.
 E mortalidade.
 
-Questão 85
+QUESTÃO 85
   Menina com 1 ano de idade, em bom estado geral, é 
 levada à consulta médica. Tem história de infecção urinária (ITU) de repetição e investigação radiológica demonstrando refluxo vesico-ureteral grau II.  Considerando as evidências mais recentes quanto à eficácia e segurança da profilaxia com antibióticos para crianças com infecção urinária, escolha a conduta mais adequada para esta criança.
 
@@ -1803,7 +1166,7 @@ de uma menina, apesar de sua segurança ter sido demonstrada em estudos.
 E A profilaxia deve ser indicada neste caso e nos demais 
 casos de refluxo vesico-ureteral até sua resolução ou correção cirúrgica. 
 
-Questão 86
+QUESTÃO 86
   Secundigesta, com 18 semanas de idade gestacional, comparece à segunda consulta de pré-natal em Unidade Básica de Saúde. Traz resultado de exame de urocultura com mais de 100 mil unidades formadoras de colônias bacterianas por mL. Nega queixas urinárias e febre. Ao exame físico: bom estado geral, corada, hidratada, eupneica, pressão arterial = 120 x 80 mmHg. Exame obstétrico: altura uterina de 17 cm, batimentos cardíacos fetais presentes, rítmicos, 136 batimentos por minutos.
 
 A conduta indicada é:
@@ -1819,7 +1182,7 @@ uroculturas bimensais para monitoramento do quadro.
 E solicitar sedimento urinário para confirmar infecção 
 urinária e, se mostrar a presença de nitritos, iniciar tratamento. 
 
-Questão 87  
+QUESTÃO 87
   Em uma reunião de planejamento com os gerentes 
 das Unidades de Atenção Básica de um município de 
 médio porte, são avaliados os motivos das falhas nos 
@@ -1852,7 +1215,7 @@ atenção são igualmente importantes para que se cumpram os objetivos do cuidad
 pelas distintas densidades tecnológicas que os 
 caracterizam.
 
-Questão 88
+QUESTÃO 88
   Primigesta, com 39 semanas de gestação, encontra-
 se em trabalho de parto há seis horas. Nas últimas três 
 horas, manteve a dilatação cervical de 6 cm, sem que 
@@ -1877,7 +1240,7 @@ cesariana.
 E parada secundária de descida; indicar operação 
 cesariana. 
 
-Questão 89
+QUESTÃO 89
   Homem com 28 anos de idade chega ao Serviço de Urgência de um hospital de atenção secundária 
 cerca de 30 minutos após colisão automobilística. Está 
 confuso, queixando-se de muita falta de ar e dor no 
@@ -1904,7 +1267,7 @@ E drenagem pleural no 5.º espaço intercostal na linha
 axilar anterior, com preparo de material para 
 autotransfusão. 
 
-Questão 90  
+QUESTÃO 90
   Recém-nascido com 36 semanas de idade 
 gestacional, parto cesariano, Apgar 6 e 8, peso de nascimento= 2.100 g, evoluiu com sintomas precoces e 
 graves nas primeiras 24 horas de vida (icterícia, 
@@ -1918,7 +1281,7 @@ C rubéola e tratamento de suporte.
 D sífilis congênita e penicilina cristalina.
 E toxoplasmose e piremetamina/sulfadiazina.
 
-Questão 91
+QUESTÃO 91
   Paciente com 17 anos de idade, primípara, encontra-se no 7.º dia pós-parto e permanece internada no alojamento conjunto, acompanhando seu recém-nascido, em tratamento de sepse neonatal. Nesse período, a paciente começa a apresentar quadro de insônia, delírios de grandeza, alternados com manifestações paranoides. 
 Diz que ouve vozes e vê sombras que querem pegá-la e 
 trocar seu bebê. Durante o dia, apresenta agitação psicomotora ininterrupta. Ela não apresenta nenhum sintoma associado a infanticídio ou ideário negativo em relação à sua maternidade, mas diz que prefere morrer a ser "pega pelas sombras". A família nega qualquer quadro anterior semelhante. 
@@ -1931,7 +1294,7 @@ C depressão pós-parto.
 D transtorno de ansiedade. 
 E transtorno bipolar (psicose maníaco-depressiva). 
 
-Questão 92
+QUESTÃO 92
   A Unidade Básica de Saúde de uma pequena cidade 
 é responsável pela atenção a um asilo municipal. Em uma 
 das visitas ao asilo, o médico atende um homem de 78 anos de idade com quadro de tosse produtiva há aproximadamente um mês. O paciente dorme em um quarto com outros três idosos, e, na instituição, vivem ao todo 23 idosos. Já fez uso de antialérgico e azitromicina - 500 mg por 5 dias, sem melhora. Após coleta de escarro, é feito diagnóstico de tuberculose pulmonar e iniciado 
@@ -1950,7 +1313,7 @@ D Contatos assintomáticos devem realizar prova
 tuberculínica. 
 E Todos os contatos devem realizar raio-X de tórax.
 
-Questão 93
+QUESTÃO 93
   Primigesta com 30 anos de idade, 38 semanas de 
 gestação e pré-natal sem intercorrências, é admitida na 
 Maternidade em trabalho de parto. Ao exame físico na 
@@ -2005,7 +1368,7 @@ Vulva10
 100
 80De Lee
 
-Questão 94  
+QUESTÃO 94
   Homem com 27 anos de idade, sem antecedentes 
 patológicos, é admitido no Hospital com quadro de dor e 
 edema em membros inferiores. O paciente informa ter corrido uma maratona sob tempo chuvoso há cinco dias. 
@@ -2039,7 +1402,7 @@ D desidratação; hidratação endovenosa.
 E síndrome hepatorrenal; albumina associada à 
 terlipressina.
 
-Questão 95
+QUESTÃO 95
   Homem com 20 anos de idade, vítima de colisão 
 motociclística em via pública, foi levado ao hospital pela equipe de suporte básico de vida, que relatou inconsciência durante todo o atendimento. Apresenta 
 abertura ocular à dor, emite palavras inapropriadas e 
@@ -2067,7 +1430,7 @@ E fixação de parâmetros ventilatórios para manter a
 pCO2 entre 25 e 30 mmHg, manitol endovenoso em bolus, craniotomia imediata para drenagem do 
 hematoma e instalação de monitorização de pressão intracraniana
 
-Questão 96  
+QUESTÃO 96
   Um médico que trabalha em uma comunidade 
 urbana de médio porte foi convidado para participar de uma entrevista numa rádio local. O objetivo da entrevista 
 era conscientizar a população sobre o enfrentamento de 
@@ -2096,7 +1459,7 @@ procedimentos básicos de cuidado à saúde de forma
 individual, atuando na epidemia da dengue através de 
 consultas e procedimentos médicos. 
 
-Questão 97
+QUESTÃO 97
   Mãe comparece à Unidade Básica de Saúde com 
 filha de 7 meses, previamente hígida, com quadro de 
 diarreia há 12 dias, com fezes líquidas desde o início do quadro. Nega cirurgias prévias, vômitos, febre ou presença de sangue nas fezes. Atualmente apresenta dermatite em 
@@ -2113,7 +1476,7 @@ C alergia ao leite de vaca; dieta isenta de leite.
 D fibrose cística; terapia de reposição enzimática. 
 E doença inflamatória intestinal; antibioticoterapia.
 
-Questão 98
+QUESTÃO 98
   Adolescente, 16 anos de idade, vai à consulta 
 ginecológica buscando orientação. Relata estar namorando há três meses, nunca teve atividade sexual, mas pretende começar a ter relações com o namorado em alguns meses.
 
@@ -2128,7 +1491,7 @@ C Fazer uso de anticoncepcional combinado oral.
 D Realizar exame citopatológico de colo uterino anual.
 E Recomendar que a paciente oriente o namorado a procurar um urologista para realização de peniscopia.
 
-Questão 99
+QUESTÃO 99
   Homem com 75 anos, casado, empresário, exercendo sua atividade profissional regular, sem comorbidades, vai à consulta ambulatorial apresentando déficit de memória e lapsos quando conversa, por 
 dificuldade de lembrar as pal avras. A esposa refere que 
 frequentemente o paciente não lembra onde guardou suas 
@@ -2147,7 +1510,7 @@ informe, progressivamente, o diagnóstico ao marido.
 E Aguardar a evolução, postergando a informação do 
 diagnóstico ao paciente até que o quadro clínico tenha se agravado. 
 
-Questão 100  
+QUESTÃO 100
   Mulher com 45 anos de idade, em preparo para 
 colecistectomia por doença calculosa, procura o médico da Unidade Básica de Saúde de seu bairro, apresentando os 
 resultados dos exames laboratoriais solicitados. O 
@@ -2169,7 +1532,7 @@ anemia leve, por isso é correto reservar sangue para a cirurgia.
 E a transfusão poderá ser indicada com a finalidade de 
 proporcionar a mais rápida recuperação da paciente. 
 
-Questão 101
+QUESTÃO 101
   A Equipe de Saúde da Família foi chamada para realizar visita domiciliar a um paciente idoso que acaba de retornar de uma internação hospitalar. O paciente tem 80 
 anos, apresenta-se ativo e é portador de hipertensão 
 arterial e diabetes mellitus tipo II que, devido à falta de adesão ao tratamento proposto, teve sua condição crônica agudizada, evoluindo para a amputação distal de falanges 
@@ -2193,14 +1556,14 @@ E orientação à família para fazer o curativo da ferida
 cirúrgica e solicitar transporte para aplicação diária da 
 insulina na Unidade de Saúde.
 
-Questão 102
+QUESTÃO 102
   Homem com 38 anos de idade, pedreiro, vem à 
 Unidade Básica de Saúde com relato de dor lombar contínua há uma semana, aos esforços acentuados, a qual não causa limitação de suas atividades diárias. Informa, com bastante firmeza, diminuição da sensibilidade na face lateral da perna esquerda. Ao exame físico apresenta dor à digitopressão lombar com teste de Lasègue negativo bilateralmente.  A conduta a ser adotada na sequência deve ser:  A prescrever anti-inflamatórios não-esteróides e 
 fisioterapia. 
 B solicitar ressonância nuclear magnética da coluna 
 vertebral. 
 C prescrever infiltração com corticoesteroides. D afastar o paciente do trabalho por 30 dias. E solicitar cintilografia de coluna vertebral. 
-Questão 103 
+QUESTÃO 103
   No final do ano passado, um médico foi contratado pela Secretaria Estadual de Saúde para trabalhar numa Unidade de Saúde dentro do presídio da capital. Para estabelecer uma estratégia de controle da tuberculose, solicitou os dados registrados no Ambulatório da unidade. Os dados encontrados revelam que, em julho de 2012, existiam 240 casos de tuberculose em tratamento e ao longo do período foram notificados 60 novos casos, 12 óbitos e 40 pacientes obtiveram alta por cura. A população prisional no ano de 2012 era de cerca de 2.400 presos. 
  
 Nesse cenário, qual a taxa de letalidade de tuberculose, em 2012, nesse presídio? 
@@ -2211,7 +1574,7 @@ C 5,0%.
 D 6,0%.
 E 10,0%.
  
-Questão 104  
+QUESTÃO 104
   Lactente com 6 meses de idade, chega ao Pronto-
 Socorro com história de irritabilidade e febre de 38 oC há 
 dois dias. A mãe refere que hoje notou lesões avermelhadas e vesiculares em toda a região de cabeça e 
@@ -2242,7 +1605,7 @@ de sintomáticos.
 E exantema súbito; prescrição de sintomáticos e 
 observação de sinais de piora.
 
-Questão 105
+QUESTÃO 105
   Mulher com 60 anos de idade, hipertensa, vai à 
 consulta em Unidade Básica de Saúde porque apresentou 
 quadro de parestesias e hemiparesia no membro superior esquerdo há uma semana, com reversão espontânea 
@@ -2265,7 +1628,7 @@ B Clopidogrel. C Ticlopidina.
 D Atorvastatina. 
 E Ácido acetilsalicílico. 
 
-Questão 106
+QUESTÃO 106
   Mulher, com 25 anos de idade, vem ao Ambulatório de Ginecologia para fazer o seu "preventivo" ( sic). Relata 
 ciclos menstruais regulares a cada 28 - 30 dias. Refere que nos dias que antecedem a menstruação sente-se mais inchada, com mastalgia e que, nos dois primeiros dias de 
 fluxo menstrual, sente cólicas. 
@@ -2291,7 +1654,7 @@ B diagnóstico de uma cervicite inespecífica.
 C existência de baixos níveis estrogênicos. D período pré-ovulatório imediato. 
 E fase lútea do ciclo menstrual. 
 
-Questão 107  
+QUESTÃO 107
   Criança com 2 anos de idade foi vítima de 
 atropelamento por automóvel há 20 minutos, sendo 
 trazida pelo SAMU, juntamente com a mãe. Ao chegar ao 
@@ -2317,7 +1680,7 @@ D Laparotomia se ocorrer distensão abdominal
 importante. 
 E Laparotomia exploradora imediata. 
 
-Questão 108
+QUESTÃO 108
   Mulher com 50 anos de idade procura Ambulatório de Clínica Médica com queixa de fadiga e dispneia aos 
 esforços. Informa ser portadora de refluxo gastroesofágico, 
 em uso frequente de cimetidina para alívio sintomático. Tem endoscopia digestiva normal. Não tem outras queixas. 
@@ -2338,7 +1701,7 @@ B Anemia aplásica. C Anemia hemolítica.
 D Anemia de doença crônica. 
 E Anemia por deficiência de folato.
 
-Questão 109
+QUESTÃO 109
   Lactente com 8 meses de idade é trazido à consulta 
 na Unidade Básica de Saúde pela mãe por apresentar regurgitação frequente, de grande intensidade. O lactente mama ao seio e come papa de legumes duas vezes ao dia, além de frutas. A mãe refere que a criança não está ganhando peso adequadamente, o que foi confirmado após exame físico. O déficit ponderal da criança é de cerca de 3% em três meses.  Considerando o desenvolvimento pondero-estatural da criança, o custo-benefício e seu pleno desenvolvimento, a conduta adequada inicial para abordar o problema deve 
 ser: 
@@ -2354,7 +1717,7 @@ legumes, iniciar fórmula antirregurgitação e solicitar endoscopia digestiva a
 E manter a alimentação e acrescentar mamadeira com 
 fórmula para a idade, solicitando retorno em 30 dias para reavaliar peso. 
 
-Questão 110
+QUESTÃO 110
   Mulher com 30 anos de idade, nulípara, última menstruação há sete dias, usuária de anticoncepcional hormonal combinado, relata dor em baixo ventre, de forte intensidade. A dor é acompanhada de náuseas e vômitos, tendo o quadro se iniciado há quatro dias, com piora significativa nas últimas 12 horas. Ao exame físico, pressão arterial =110 x 70 mmHg, temperatura = 38,7
  oC, 
 abdome com dor intensa à palpação no andar inferior e à descompressão brusca em fossas ilíacas. Ao exame especular, presença de conteúdo amarelado com um pouco de sangue e conteúdo purulento exteriorizando-se 
