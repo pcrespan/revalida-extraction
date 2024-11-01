@@ -1,10 +1,12 @@
 import json
 import re
 
-def processar_arquivo_texto(nome_arquivo):
+tests = [2011, 2012, 2013, 2014, 2015, 2016]
+
+def processar_arquivo_texto(nome_arquivo, ano):
     questoes = []
     with open(nome_arquivo, 'r', encoding='utf-8') as file:
-        with open('answers/extracted/2011.txt', 'r', encoding='utf-8') as txt:
+        with open('answers/extracted/{}.txt'.format(ano), 'r', encoding='utf-8') as txt:
             respostas = {}
             questao = {}
             alternativas = {}
@@ -48,12 +50,9 @@ def salvar_json(questoes, nome_arquivo_json):
     with open(nome_arquivo_json, 'w', encoding='utf-8') as file:
         json.dump({"questoes": questoes}, file, ensure_ascii=False, indent=4)
 
-#tests = [2011, 2012, 2013, 2014, 2015, 2016]
-tests = [2011]
-
 for test in tests:
     arquivo_texto = "tests/{}.txt".format(test)
     arquivo_json = "questoes{}.json".format(test)
-    questoes_processadas = processar_arquivo_texto(arquivo_texto)
+    questoes_processadas = processar_arquivo_texto(arquivo_texto, test)
     salvar_json(questoes_processadas, arquivo_json)
     print(f"Questões processadas e salvas em {arquivo_json}")

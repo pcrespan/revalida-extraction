@@ -206,9 +206,7 @@ D Repassar à gestão estadual o serviço de auditoria dos prestadores locais.
 E Incorporar recursos financeiros do fundo estadual de saúde.
 
 QUESTÃO 24
-Paciente, com 45 anos de idade, sexo masculino, comerciante, vem a consulta na Unidade Básica de Saúde e informa que vem apresentando dispneia progressiva a médios esforços, “inchaço” nas pernas e diminuição da diurese. Relata que, em consultas anteriores, foi orientado a realizar periodicamente medidas de sua pressão arterial, que se encontrava, na época, no limite da normalidade. Não realizou o procedimento solicitado, retornando, hoje, para consulta. História pessoal: tabagista desde os 14 anos, um maço de cigarro por dia. Dieta rica em gorduras e pobre em frutas e vegetais. Informa que não é etilista e não usa drogas. História familiar: mãe hipertensa e pai falecido de infarto agudo do miocárdio.
-Ao exame: Pressão arterial 165 x 110 mmHg, Frequência cardíaca: 55 bpm, Frequência respiratória 14 irpm, ritmo cardíaco regular em dois tempos, bradicárdico, sem sopros ou extrassístoles, murmúrio vesicular fisiológico, com discretas crepitações bibasais, abdome com ruídos hidroaéreos positivos, com hepatomegalia dolorosa a 2 cm do rebordo costal direito, membros inferiores com edema (++/+++).
-Os exames complementares demonstram que há uma sobrecarga de ventrículo esquerdo ao ECG; bloqueio atrioventricular de primeiro grau; clearance de creatinina 45 ml/min (normal 90 -139 ml/min); urina de 24 horas com microalbuminúria de 250 mg/24h. Qual o tratamento farmacológico a ser prescrito, no que se refere à pressão arterial desse paciente?
+Paciente, com 45 anos de idade, sexo masculino, comerciante, vem a consulta na Unidade Básica de Saúde e informa que vem apresentando dispneia progressiva a médios esforços, “inchaço” nas pernas e diminuição da diurese. Relata que, em consultas anteriores, foi orientado a realizar periodicamente medidas de sua pressão arterial, que se encontrava, na época, no limite da normalidade. Não realizou o procedimento solicitado, retornando, hoje, para consulta. História pessoal: tabagista desde os 14 anos, um maço de cigarro por dia. Dieta rica em gorduras e pobre em frutas e vegetais. Informa que não é etilista e não usa drogas. História familiar: mãe hipertensa e pai falecido de infarto agudo do miocárdio. Ao exame: Pressão arterial 165 x 110 mmHg, Frequência cardíaca: 55 bpm, Frequência respiratória 14 irpm, ritmo cardíaco regular em dois tempos, bradicárdico, sem sopros ou extrassístoles, murmúrio vesicular fisiológico, com discretas crepitações bibasais, abdome com ruídos hidroaéreos positivos, com hepatomegalia dolorosa a 2 cm do rebordo costal direito, membros inferiores com edema (++/+++). Os exames complementares demonstram que há uma sobrecarga de ventrículo esquerdo ao ECG; bloqueio atrioventricular de primeiro grau; clearance de creatinina 45 ml/min (normal 90 -139 ml/min); urina de 24 horas com microalbuminúria de 250 mg/24h. Qual o tratamento farmacológico a ser prescrito, no que se refere à pressão arterial desse paciente?
 
 A Captopril + losartana.
 B Propranolol + enalapril.
@@ -307,8 +305,7 @@ D medida do pico de fluxo expiratório (PFE) e saturação de oxigênio no sangu
 E eletrocardiograma e medida do pico de fluxo expiratório (PFE).
 
 QUESTÃO 35
-Uma mulher, com 36 anos de idade, casada, procura a Unidade de Pronto Atendimento com dor tipo cólica, intensa e constante há três dias, náuseas, vômitos, tendo feito várias aplicações de analgésicos parenterais. Há cerca de seis meses, vem apresentando crises de dor abdominal semelhantes, porém de intensidade menor, em hipocôndrio direito, com irradiação para o dorso, do tipo cólica, predominantemente noturnas e após a ingestão de alimentos gordurosos. No momento, ela está com temperatura de 38,1°C, com fácies de dor, taquicárdica, com dor intensa à palpação do hipocôndrio direito e com a presença de sinal de Murphy.
-Com base nessas informações, a conduta mais adequada é:
+Uma mulher, com 36 anos de idade, casada, procura a Unidade de Pronto Atendimento com dor tipo cólica, intensa e constante há três dias, náuseas, vômitos, tendo feito várias aplicações de analgésicos parenterais. Há cerca de seis meses, vem apresentando crises de dor abdominal semelhantes, porém de intensidade menor, em hipocôndrio direito, com irradiação para o dorso, do tipo cólica, predominantemente noturnas e após a ingestão de alimentos gordurosos. No momento, ela está com temperatura de 38,1°C, com fácies de dor, taquicárdica, com dor intensa à palpação do hipocôndrio direito e com a presença de sinal de Murphy. Com base nessas informações, a conduta mais adequada é:
 
 A administrar novamente analgésicos, com alta e orientação para procurar ambulatório de cirurgia para programar colecistectomia eletiva.
 B administrar analgésicos e antibióticos, com alta e orientação para procurar ambulatório de cirurgia para programar colecistectomia eletiva.
@@ -317,9 +314,7 @@ D administrar analgésicos e antibióticos, com internação hospitalar até “
 E administrar analgésicos e antibióticos, com internação hospitalar e programar colecistectomia.
 
 QUESTÃO 36
-Paciente, com 32 anos de idade, hígida anteriormente, deu entrada em serviço de urgência municipal com quadro clínico de febre alta, mialgia, artralgia, cefaleia, prostração, dor retroorbitária e exantema. Apresentava-se lúcida e orientada. Ao exame físico, constatou-se desidratação, temperatura = 39,5°C, frequência cardíaca = 102 bpm, frequência respiratória = 20 irpm e pressão arterial = 90 x 60 mmHg. Ausculta cardiopulmonar normal.
-A avaliação laboratorial mostrou: Hematócrito = 35%; leucócitos totais = 1.900/mm³; plaquetas = 102.000/mm³.
-Diante do quadro, neste momento, qual a prioridade no manuseio da paciente?
+Paciente, com 32 anos de idade, hígida anteriormente, deu entrada em serviço de urgência municipal com quadro clínico de febre alta, mialgia, artralgia, cefaleia, prostração, dor retroorbitária e exantema. Apresentava-se lúcida e orientada. Ao exame físico, constatou-se desidratação, temperatura = 39,5°C, frequência cardíaca = 102 bpm, frequência respiratória = 20 irpm e pressão arterial = 90 x 60 mmHg. Ausculta cardiopulmonar normal. A avaliação laboratorial mostrou: Hematócrito = 35%; leucócitos totais = 1.900/mm³; plaquetas = 102.000/mm³. Diante do quadro, neste momento, qual a prioridade no manuseio da paciente?
 
 A Solicitar sorologia para dengue.
 B Prescrever paracetamol para controle da temperatura e analgesia.
@@ -328,8 +323,7 @@ D Orientar hidratação vigorosa, em domicílio.
 E Encaminhar para unidade hospitalar do nível.
 
 QUESTÃO 37
-A enfermeira de uma equipe de Saúde da Família aborda o médico para saber o que deve ser feito com um paciente que atendeu hoje. Trata-se de homem recém-chegado do interior, em tratamento para tuberculose e AIDS. O relatório trazido por ele informa que há cinco anos iniciou terapia antirretroviral. Há seis meses, iniciou tratamento para tuberculose, não tendo apresentado intolerância a nenhum medicamento.
-A medida a ser adotada em relação ao paciente é:
+A enfermeira de uma equipe de Saúde da Família aborda o médico para saber o que deve ser feito com um paciente que atendeu hoje. Trata-se de homem recém-chegado do interior, em tratamento para tuberculose e AIDS. O relatório trazido por ele informa que há cinco anos iniciou terapia antirretroviral. Há seis meses, iniciou tratamento para tuberculose, não tendo apresentado intolerância a nenhum medicamento. A medida a ser adotada em relação ao paciente é:
 
 A dar continuidade aos dois tratamentos sob responsabilidade da equipe de Saúde da Família.
 B dar continuidade apenas ao tratamento antirretroviral, pois a tuberculose já foi adequadamente tratada (seis meses).
@@ -338,8 +332,7 @@ D investigar situação dos comunicantes quanto à tuberculose, como forma indir
 E encaminhar o paciente para tratamento conjunto com os serviços de referência local de DST/AIDS e de tuberculose.
 
 QUESTÃO 38
-Paciente, com 49 anos de idade, sexo masculino, lavrador, vem à consulta com queixa de lesão em face que iniciou-se como uma pápula, posteriormente evoluindo com ulceração e indolor. A primeira lesão apareceu há 3 meses, sendo seguida de mais duas com as mesmas características. Associado ao aparecimento das lesões, evoluiu com emagrecimento, não sabendo quantificar, porém notou que suas roupas estão mais largas que o habitual. Não apresentou quadro semelhante antes. Relata tabagismo e etilismo desde a infância. Não refere uso de medicamentos. Durante o exame físico, foram visualizadas lesões ulceradas, de bordas elevadas, com fundo granuloso em região labial inferior e mentoniana. Foi realizado raspado para exame direto e biópsia da lesão. Em ambos os exames foram encontradas formas leveduriformes com múltiplos brotamentos pequenos, em roda de leme. Reação de Montenegro negativa.
-Qual o diagnóstico e tratamento de escolha?
+Paciente, com 49 anos de idade, sexo masculino, lavrador, vem à consulta com queixa de lesão em face que iniciou-se como uma pápula, posteriormente evoluindo com ulceração e indolor. A primeira lesão apareceu há 3 meses, sendo seguida de mais duas com as mesmas características. Associado ao aparecimento das lesões, evoluiu com emagrecimento, não sabendo quantificar, porém notou que suas roupas estão mais largas que o habitual. Não apresentou quadro semelhante antes. Relata tabagismo e etilismo desde a infância. Não refere uso de medicamentos. Durante o exame físico, foram visualizadas lesões ulceradas, de bordas elevadas, com fundo granuloso em região labial inferior e mentoniana. Foi realizado raspado para exame direto e biópsia da lesão. Em ambos os exames foram encontradas formas leveduriformes com múltiplos brotamentos pequenos, em roda de leme. Reação de Montenegro negativa. Qual o diagnóstico e tratamento de escolha?
 
 A Paracoccidioidomicose e itraconazol.
 B Esporotricose e solução saturada de iodeto de potássio.
@@ -348,9 +341,7 @@ D Tuberculose cutânea e R (Rifampicina) – H (Isoniazida) – Z (Pirazinamida)
 E Leishmaniose cutânea e glucantime.
 
 QUESTÃO 39
-Uma criança nascida de parto cesáreo, a termo, com Apgar 8/9, pesando 3500g, apresenta, nas primeiras 24 horas de vida, cianose associada com desconforto respiratório. Durante o exame físico, o recém-nascido encontra-se cianótico, taquidispneico (frequência respiratória = 65 irpm), taquicárdico (frequência cardíaca = 160 bpm), com retrações subdiafragmáticas e intercostais. A ausculta pulmonar é normal e não é observada a presença de sopro à ausculta cardíaca.
-A saturação de oxigênio inicial era de 70%, passando a 72% após iniciar a oxigenoterapia com FiO2 de 100%. Foi feita a hipótese diagnóstica de cardiopatia congênita, sendo solicitados radiografia de tórax e ecocardiograma. A radiografia de tórax mostrou área cardíaca aparentemente sem alterações e aumento da trama pulmonar. O ecocardiograma não pôde ser realizado.
-A hipótese diagnóstica principal e a conduta terapêutica indicada são, respectivamente:
+Uma criança nascida de parto cesáreo, a termo, com Apgar 8/9, pesando 3500g, apresenta, nas primeiras 24 horas de vida, cianose associada com desconforto respiratório. Durante o exame físico, o recém-nascido encontra-se cianótico, taquidispneico (frequência respiratória = 65 irpm), taquicárdico (frequência cardíaca = 160 bpm), com retrações subdiafragmáticas e intercostais. A ausculta pulmonar é normal e não é observada a presença de sopro à ausculta cardíaca. A saturação de oxigênio inicial era de 70%, passando a 72% após iniciar a oxigenoterapia com FiO2 de 100%. Foi feita a hipótese diagnóstica de cardiopatia congênita, sendo solicitados radiografia de tórax e ecocardiograma. A radiografia de tórax mostrou área cardíaca aparentemente sem alterações e aumento da trama pulmonar. O ecocardiograma não pôde ser realizado. A hipótese diagnóstica principal e a conduta terapêutica indicada são, respectivamente:
 
 A atresia pulmonar; administração de indometacina para fechamento do canal arterial.
 B tetralogia de Fallot; administração de indometacina para fechamento do canal arterial.
@@ -368,8 +359,7 @@ D Alertar a mãe que aumente seus cuidados para evitar acidentes.
 E Solicitar realização de perícia médico-legal.
 
 QUESTÃO 41
-Paciente de 57 anos, sexo masculino, chega ao pronto atendimento queixando-se de palpitações iniciadas há três dias, associadas à tontura e à dispneia. Relata uso de metimazol 10 mg/dia há um mês devido a hipertireoidismo, além de enalapril 20 mg para hipertensão desde os 45 anos. Ao exame: Pressão arterial = 110 x 70 mmHg; Frequência cardíaca = 160 bpm; Frequência respiratória = 26 irpm; ritmo cardíaco taquicárdico, irregular, em dois tempos, sem sopros; murmúrio vesicular fisiológico com crepitações bibasais; abdome livre, indolor, com ruídos hidroaéreos presentes; aparelho locomotor sem alterações. Saturação periférica de oxigênio = 87%. Solicitado ECG.
-Instalada a suplementação de oxigênio e monitorização cardíaca. Assinale a alternativa que identifica a arritmia e a conduta a ser tomada ainda na sala de pronto atendimento.
+Paciente de 57 anos, sexo masculino, chega ao pronto atendimento queixando-se de palpitações iniciadas há três dias, associadas à tontura e à dispneia. Relata uso de metimazol 10 mg/dia há um mês devido a hipertireoidismo, além de enalapril 20 mg para hipertensão desde os 45 anos. Ao exame: Pressão arterial = 110 x 70 mmHg; Frequência cardíaca = 160 bpm; Frequência respiratória = 26 irpm; ritmo cardíaco taquicárdico, irregular, em dois tempos, sem sopros; murmúrio vesicular fisiológico com crepitações bibasais; abdome livre, indolor, com ruídos hidroaéreos presentes; aparelho locomotor sem alterações. Saturação periférica de oxigênio = 87%. Solicitado ECG. Instalada a suplementação de oxigênio e monitorização cardíaca. Assinale a alternativa que identifica a arritmia e a conduta a ser tomada ainda na sala de pronto atendimento.
 
 A Flutter atrial e amiodarona.
 B Taquicardia supraventricular paroxística e procainamida.
@@ -378,8 +368,7 @@ D Taquicardia atrial multifocal e bloqueadores de canais de cálcio.
 E Fibrilação atrial e digitálico.
 
 QUESTÃO 42
-Mulher de 35 anos procura atendimento médico por dor súbita, inicialmente epigástrica e acompanhada de vômitos, com rápida expansão para o flanco, fossa ilíaca direita e posteriormente para todo o abdome. A paciente apresenta extremidades frias, respiração superficial, busca manter-se imóvel e adota posição antálgica com pernas flexionadas sobre o tronco. Abdome difusamente doloroso, com contratura e rigidez muscular evidentes à palpação e respiração. Radiografias de tórax e abdome, em ortostatismo, mostram pneumoperitôneo.
-Com relação à complicação apresentada pela paciente, é correto afirmar que:
+Mulher de 35 anos procura atendimento médico por dor súbita, inicialmente epigástrica e acompanhada de vômitos, com rápida expansão para o flanco, fossa ilíaca direita e posteriormente para todo o abdome. A paciente apresenta extremidades frias, respiração superficial, busca manter-se imóvel e adota posição antálgica com pernas flexionadas sobre o tronco. Abdome difusamente doloroso, com contratura e rigidez muscular evidentes à palpação e respiração. Radiografias de tórax e abdome, em ortostatismo, mostram pneumoperitôneo. Com relação à complicação apresentada pela paciente, é correto afirmar que:
 
 A Figura entre as causas mais frequentes de abdome agudo não traumático, com metade dos casos ocorrendo em pacientes entre 20 e 40 anos.
 B Nas úlceras duodenais, as perfurações ocorrem geralmente na parede posterior e na curvatura do duodeno.
@@ -388,8 +377,7 @@ D A área mais acometida por perfurações de úlceras pépticas é o estômago,
 E A mortalidade é proporcionalmente maior nas perfurações duodenais, em torno de 20%, especialmente em pacientes idosos.
 
 QUESTÃO 43
-Paciente de 35 anos, sexo masculino, etilista, é trazido ao hospital após crise convulsiva generalizada e perda de consciência. Sua esposa relata que ele não fazia uso de medicamentos e nega quedas ou traumatismos recentes. Ao exame: Pressão arterial = 190 x 100 mmHg; Frequência cardíaca = 50 bpm, ritmo regular em dois tempos, sem sopros; murmúrio vesicular fisiológico sem ruídos adventícios; Escala de coma de Glasgow: 7, pupilas anisocóricas (maior à direita) e fotorreagentes; hemiplegia à esquerda. Saturação periférica de oxigênio = 98%.
-Qual a conduta a ser tomada na admissão do paciente?
+Paciente de 35 anos, sexo masculino, etilista, é trazido ao hospital após crise convulsiva generalizada e perda de consciência. Sua esposa relata que ele não fazia uso de medicamentos e nega quedas ou traumatismos recentes. Ao exame: Pressão arterial = 190 x 100 mmHg; Frequência cardíaca = 50 bpm, ritmo regular em dois tempos, sem sopros; murmúrio vesicular fisiológico sem ruídos adventícios; Escala de coma de Glasgow: 7, pupilas anisocóricas (maior à direita) e fotorreagentes; hemiplegia à esquerda. Saturação periférica de oxigênio = 98%. Qual a conduta a ser tomada na admissão do paciente?
 
 A Intubação orotraqueal + hiperventilação mecânica + manitol.
 B Ventilação não invasiva + manitol + solução hipertônica.
@@ -398,8 +386,7 @@ D Intubação orotraqueal + ventilação mecânica.
 E Intubação orotraqueal + ventilação mecânica + antihipertensivo.
 
 QUESTÃO 44
-Homem assintomático de 45 anos, com tumor renal, procura atendimento médico portando documento que o identifica como Testemunha de Jeová, declarando que não deve ser submetido a transfusão de sangue. O documento foi registrado em cartório e enumera os motivos pelos quais ele tem o direito de recusar a transfusão. É provável que seja submetido a tratamento cirúrgico, o qual oferece melhor sobrevida, mas ele se recusa veementemente a receber transfusão, caso necessário.
-Qual a conduta baseada nos princípios éticos do Código de Ética Médica brasileiro?
+Homem assintomático de 45 anos, com tumor renal, procura atendimento médico portando documento que o identifica como Testemunha de Jeová, declarando que não deve ser submetido a transfusão de sangue. O documento foi registrado em cartório e enumera os motivos pelos quais ele tem o direito de recusar a transfusão. É provável que seja submetido a tratamento cirúrgico, o qual oferece melhor sobrevida, mas ele se recusa veementemente a receber transfusão, caso necessário. Qual a conduta baseada nos princípios éticos do Código de Ética Médica brasileiro?
 
 A Não dar certeza ao paciente de que não será transfundido e realizar o procedimento cirúrgico.
 B Garantir ao paciente que tentará ao máximo evitar a transfusão, mas transfundir se necessário.
@@ -408,8 +395,7 @@ D Realizar o procedimento cirúrgico e, se necessário, transfundir, informando 
 E Negar-se a realizar o procedimento e orientar o paciente a procurar outra equipe.
 
 QUESTÃO 45
-Mulher de 32 anos, três gestações, dois partos e zero abortos, com idade gestacional de nove semanas, confirmada por ultrassonografia. Deu entrada na emergência com dor abdominal em cólica, sangramento transvaginal moderado com odor fétido e relato de febre e calafrios. Informa que foi manipulada em tentativa de abortamento há dois dias. Exame clínico: dor à manipulação do útero, colo uterino pérvio, presença de sangramento fétido. Frequência cardíaca = 110 bpm, Pressão arterial = 85 x 40 mmHg, temperatura axilar = 39 ºC. Exames laboratoriais: Leucócitos = 18.000 cel/mm³, com desvio à esquerda; Proteína C Reativa = 18 mg/dL (VN < 0,1 mg/dL).
-Diante do quadro, o diagnóstico e a conduta são, respectivamente:
+Mulher de 32 anos, três gestações, dois partos e zero abortos, com idade gestacional de nove semanas, confirmada por ultrassonografia. Deu entrada na emergência com dor abdominal em cólica, sangramento transvaginal moderado com odor fétido e relato de febre e calafrios. Informa que foi manipulada em tentativa de abortamento há dois dias. Exame clínico: dor à manipulação do útero, colo uterino pérvio, presença de sangramento fétido. Frequência cardíaca = 110 bpm, Pressão arterial = 85 x 40 mmHg, temperatura axilar = 39 ºC. Exames laboratoriais: Leucócitos = 18.000 cel/mm³, com desvio à esquerda; Proteína C Reativa = 18 mg/dL (VN < 0,1 mg/dL). Diante do quadro, o diagnóstico e a conduta são, respectivamente:
 
 A Abortamento incompleto por manipulação. O conteúdo uterino deve ser esvaziado, e se a febre persistir por mais 48 horas, iniciar antibioticoterapia com ampicilina EV.
 B Abortamento séptico por manipulação. Esvaziar o conteúdo uterino após estabilidade hemodinâmica e 12 horas de antibioticoterapia (metronidazol e gentamicina). Alta com medicação antimicrobiana após 48 horas.
@@ -419,6 +405,7 @@ E Abortamento infectado por manipulação. Realizar curetagem após estabilizaç
 
 QUESTÃO 46
 Criança, com 15 meses de idade, foi à Unidade Básica de Saúde para receber as vacinas do Programa Nacional de Imunização. A mãe da criança perguntou se ele podia tomar todas as vacinas, porque seu filho mais velho, de 10 anos de idade, encontra-se em tratamento quimioterápico para leucemia aguda. Qual a conduta recomendada?
+
 A A criança pode receber todas as vacinas previstas.
 B A criança pode receber todas as vacinas, com exceção da Sabin.
 C A criança deve adiar a vacinação contra difteria, tétano e coqueluche.
@@ -426,8 +413,8 @@ D A criança pode receber somente a tríplice viral.
 E A criança deve adiar a vacinação para o próximo mês.
 
 QUESTÃO 47
-Mulher, com 19 anos de idade, procura o pronto-socorro de um hospital secundário com queixa de dor abdominal e vômitos há dois dias. Há cerca de quinze dias, apresenta tosse e coriza amarelada e, há dez dias, poliúria e polidipsia. Comenta ter emagrecido 12 kg (18% do peso) nas últimas duas semanas. Informa não ter tido febre. Não relata antecedentes mórbidos pessoais ou familiares relevantes. Ao exame clínico, aparece vigil, consciente, orientada. Pontuação na escala de coma de Glasgow = 15. Corada, desidratada 2+/4+, taquipneica. Pressão arterial = 106 x 62 mmHg, pulso = 104 bpm, frequência respiratória = 28 irpm. Abdome doloroso à palpação profunda de epigástrio, sem dor à descompressão brusca. Semiologia cardíaca, pulmonar e de membros, normais. Saturação de oxigênio em ar ambiente: 99%. Glicemia capilar à entrada = 364 mg/dL. Foram solicitadas dosagens séricas de eletrólitos, exame sumário de urina e gasometria venosa.
-Além de se considerar o início de antibioticoterapia para o quadro respiratório alto, a conduta terapêutica imediata adequada é
+Mulher, com 19 anos de idade, procura o pronto-socorro de um hospital secundário com queixa de dor abdominal e vômitos há dois dias. Há cerca de quinze dias, apresenta tosse e coriza amarelada e, há dez dias, poliúria e polidipsia. Comenta ter emagrecido 12 kg (18% do peso) nas últimas duas semanas. Informa não ter tido febre. Não relata antecedentes mórbidos pessoais ou familiares relevantes. Ao exame clínico, aparece vigil, consciente, orientada. Pontuação na escala de coma de Glasgow = 15. Corada, desidratada 2+/4+, taquipneica. Pressão arterial = 106 x 62 mmHg, pulso = 104 bpm, frequência respiratória = 28 irpm. Abdome doloroso à palpação profunda de epigástrio, sem dor à descompressão brusca. Semiologia cardíaca, pulmonar e de membros, normais. Saturação de oxigênio em ar ambiente: 99%. Glicemia capilar à entrada = 364 mg/dL. Foram solicitadas dosagens séricas de eletrólitos, exame sumário de urina e gasometria venosa. Além de se considerar o início de antibioticoterapia para o quadro respiratório alto, a conduta terapêutica imediata adequada é
+
 A aguardar os exames, antes de outras etapas do tratamento.
 B iniciar insulinoterapia, em bolus endovenoso, a ser mantida por infusão contínua.
 C aguardar resultado da dosagem de eletrólitos (K+) e iniciar expansão com soro fisiológico.
@@ -436,6 +423,7 @@ E introduzir expansão com soro fisiológico, reposição de potássio e insulin
 
 QUESTÃO 48
 Homem, com 45 anos de idade, é submetido à cirurgia pélvica com duração de uma hora. No segundo dia de pós-operatório, desenvolve quadro de dor na panturrilha, aumento de temperatura e edemas locais. Clinicamente, apresenta Pressão arterial = 140 x 90 mmHg, com Frequência cardíaca = 120 bpm e Frequência respiratória = 30 irpm. Realizado eletrocardiograma, observa-se taquicardia com ritmo sinusal. O método de escolha para o diagnóstico primário da intercorrência apresentada no segundo dia de pós-operatório é
+
 A a venografia por ter maior acurácia no diagnóstico e localização do problema e ser pouco invasiva.
 B a dosagem de D-dímero por ter alto valor preditivo positivo e ser bastante específica.
 C a pletismografia de bioimpedância por medir a capacitância venosa e ser pouco invasiva.
@@ -449,6 +437,7 @@ Eritrograma: Hb: 11,5 g/dL Ht: 37,5 %. Leucograma: 25.000/mm³, com 10% de basto
 Exame sumário de urina (colhido com saco coletor): nitrito positivo; leucócitos: 430.000/ml; eritrócitos: 15.000/ml
 Urocultura: em execução
 Com base na suspeita de infecção urinária, qual é a conduta a ser adotada?
+
 A Colher novo exame de urina por meio de punção supra-púbica, internar o paciente e instituir a hidratação e a antibioticoterapia parenteral, prescrevendo cefalosporina.
 B Internar o paciente, instituir hidratação parenteral e aguardar o resultado da urocultura colhida no pronto-socorro, para iniciar a antibioticoterapia de acordo com antibiograma.
 C Hidratar o paciente no pronto-socorro e, após melhora clínica, liberá-lo com prescrição de cefalosporina por via oral. Pedir à responsável pelo menino que leve o resultado da urocultura, assim que esteja pronto, ao médico assistente.
@@ -456,8 +445,8 @@ D Hidratar o paciente no pronto-socorro, colher novo exame de urina por sondagem
 E Hidratar o paciente no pronto-socorro, colher novo exame de urina por sondagem vesical ou punção supra-púbica e, após melhora clínica, liberá-lo; aguardar o resultado da urocultura, para definir sobre uso de antibioticoterapia.
 
 QUESTÃO 50
-Um médico da Unidade Básica de Saúde encontrava-se diante de uma difícil situação que envolvia o atendimento de uma criança de dois anos de idade, em que a melhor medicação disponível para o tratamento não estava disponível gratuitamente para pacientes nessa idade, apesar das evidências científicas mostrarem que, para outras faixas etárias, há benefício com seu uso. O médico orientou a mãe sobre a necessidade da medicação, seus importantes efeitos benéficos e os possíveis efeitos adversos, esclarecendo que utilizá-la seria o ideal para a criança, permitindo que ela optasse pelo uso de medicação fornecida gratuitamente ou pela medicação que deveria ser adquirida. Por confiar na opinião do profissional, com base na relação de parceria na atenção a seus doentes, a mãe decidiu comprar a medicação. A atitude do médico, nesta situação, considerou os princípios fundamentais da Ética Médica contemporânea e da Bioética.
-Nesta situação, evidencia-se o princípio
+Um médico da Unidade Básica de Saúde encontrava-se diante de uma difícil situação que envolvia o atendimento de uma criança de dois anos de idade, em que a melhor medicação disponível para o tratamento não estava disponível gratuitamente para pacientes nessa idade, apesar das evidências científicas mostrarem que, para outras faixas etárias, há benefício com seu uso. O médico orientou a mãe sobre a necessidade da medicação, seus importantes efeitos benéficos e os possíveis efeitos adversos, esclarecendo que utilizá-la seria o ideal para a criança, permitindo que ela optasse pelo uso de medicação fornecida gratuitamente ou pela medicação que deveria ser adquirida. Por confiar na opinião do profissional, com base na relação de parceria na atenção a seus doentes, a mãe decidiu comprar a medicação. A atitude do médico, nesta situação, considerou os princípios fundamentais da Ética Médica contemporânea e da Bioética. Nesta situação, evidencia-se o princípio
+
 A da beneficência.
 B da não-maleficência.
 C da justiça.
@@ -465,8 +454,8 @@ D do assentimento.
 E da autonomia.
 
 QUESTÃO 51
-Mulher, com 44 anos de idade, apresenta quadro de dor epigástrica, com irradiação em faixa para hipocôndrio direito e esquerdo, com vômitos e distensão abdominal, de início súbito sem relação com esforço, ocorrendo há seis horas. Relata dois episódios semelhantes anteriores, de menor intensidade, nos últimos três anos, dos quais se recuperou apenas com restrição de dieta. Relata ainda trombose de retina à esquerda após um desses episódios. Durante o exame físico, foram visualizadas mucosas descoradas, anictérica, pele com turgor e elasticidade reduzidos. Pressão arterial = 40x90 mmHg. Pulso radial = 120 bpm, rítmico e fino. Ausculta respiratória - expansibilidade reduzida em base de hemitórax esquerdo, com submacicez local. Ausculta cardíaca - bulhas taquicárdicas em dois tempos. Abdome distendido, com equimoses nos flancos. Ruídos hidroaéreos diminuídos e dor difusa à palpação. Extremidades: pulsos periféricos palpáveis e simétricos. Exames laboratoriais mostram Ht = 52%, Hb = 14 g/dL. Amilase = 104 U/L (Valor normal = 27 a 131 U/L). Glicemia na admissão = 230 mg/dL. Creatinina = 1,5 mg/dL (Valor normal = 0,7 a 1,3 mg/dL). Troponina Sérica = 0,5 ng/mL (Valor normal < 0,1 ng/mL). ECG sem alterações. O laboratório informa que o soro apresenta aspecto francamente leitoso na centrifugação. Ultrassonografia de abdome mostra vias biliares não dilatadas e vesícula biliar de paredes finas, sem cálculos. O retroperitôneo não foi visualizado.
-Qual o diagnóstico compatível com o quadro descrito?
+Mulher, com 44 anos de idade, apresenta quadro de dor epigástrica, com irradiação em faixa para hipocôndrio direito e esquerdo, com vômitos e distensão abdominal, de início súbito sem relação com esforço, ocorrendo há seis horas. Relata dois episódios semelhantes anteriores, de menor intensidade, nos últimos três anos, dos quais se recuperou apenas com restrição de dieta. Relata ainda trombose de retina à esquerda após um desses episódios. Durante o exame físico, foram visualizadas mucosas descoradas, anictérica, pele com turgor e elasticidade reduzidos. Pressão arterial = 40x90 mmHg. Pulso radial = 120 bpm, rítmico e fino. Ausculta respiratória - expansibilidade reduzida em base de hemitórax esquerdo, com submacicez local. Ausculta cardíaca - bulhas taquicárdicas em dois tempos. Abdome distendido, com equimoses nos flancos. Ruídos hidroaéreos diminuídos e dor difusa à palpação. Extremidades: pulsos periféricos palpáveis e simétricos. Exames laboratoriais mostram Ht = 52%, Hb = 14 g/dL. Amilase = 104 U/L (Valor normal = 27 a 131 U/L). Glicemia na admissão = 230 mg/dL. Creatinina = 1,5 mg/dL (Valor normal = 0,7 a 1,3 mg/dL). Troponina Sérica = 0,5 ng/mL (Valor normal < 0,1 ng/mL). ECG sem alterações. O laboratório informa que o soro apresenta aspecto francamente leitoso na centrifugação. Ultrassonografia de abdome mostra vias biliares não dilatadas e vesícula biliar de paredes finas, sem cálculos. O retroperitôneo não foi visualizado. Qual o diagnóstico compatível com o quadro descrito?
+
 A Pancreatite aguda.
 B Dissecção de aorta.
 C Infarto do miocárdio.
@@ -474,8 +463,8 @@ D Colecistite aguda.
 E Infarto mesentérico.
 
 QUESTÃO 52
-Paciente do sexo masculino, com 22 anos de idade, submetido a tratamento cirúrgico de apendicite aguda há oito dias, procura a Unidade Básica de Saúde queixando-se de dor intensa e "inflamação" no local da incisão cirúrgica que ainda encontra-se com pontos. Relata que evoluiu bem após a cirurgia, recebendo alta no segundo dia pós-operatório com prescrição de dipirona, se necessário. Desde então, retomava as atividades habituais até que há um dia começou a notar aumento de volume no local da ferida operatória. Não informa febre e apresenta boa aceitação alimentar. Durante o exame físico, nota-se ferida operatória de aproximadamente 7 cm, oblíqua em fossa ilíaca direita discretamente elevada, hiperemiada, com calor local e saída de pequena quantidade de secreção amarelada, sem brilho, viscosa e que suja a roupa. Abdome flácido e indolor fora da área de incisão. Temperatura axilar normal. Frequência cardíaca = 72 bpm, Frequência respiratória = 16 irpm.
-Diante do quadro, qual o diagnóstico e a conduta para o caso nesse momento?
+Paciente do sexo masculino, com 22 anos de idade, submetido a tratamento cirúrgico de apendicite aguda há oito dias, procura a Unidade Básica de Saúde queixando-se de dor intensa e "inflamação" no local da incisão cirúrgica que ainda encontra-se com pontos. Relata que evoluiu bem após a cirurgia, recebendo alta no segundo dia pós-operatório com prescrição de dipirona, se necessário. Desde então, retomava as atividades habituais até que há um dia começou a notar aumento de volume no local da ferida operatória. Não informa febre e apresenta boa aceitação alimentar. Durante o exame físico, nota-se ferida operatória de aproximadamente 7 cm, oblíqua em fossa ilíaca direita discretamente elevada, hiperemiada, com calor local e saída de pequena quantidade de secreção amarelada, sem brilho, viscosa e que suja a roupa. Abdome flácido e indolor fora da área de incisão. Temperatura axilar normal. Frequência cardíaca = 72 bpm, Frequência respiratória = 16 irpm. Diante do quadro, qual o diagnóstico e a conduta para o caso nesse momento?
+
 A Infecção de sítio cirúrgico e iniciar antibioticoterapia.
 B Seroma e colocar dreno laminar pela incisão, após retirada de um dos pontos.
 C Infecção de sítio cirúrgico e abrir a incisão, seguida de lavagem com soro fisiológico.
@@ -484,6 +473,7 @@ E Hérnia incisional e orientar o paciente a procurar imediatamente o cirurgião
 
 QUESTÃO 53
 Homem, com 55 anos de idade, alcoólatra, em acompanhamento ambulatorial devido a cirrose hepática, comparece ao Pronto-Socorro com hematêmese. Clinicamente se apresenta taquipneico, descorado, pulso fino, pressão arterial de 90 x 60 mmHg. Foi submetido a endoscopia digestiva alta que mostrou varizes esofágicas, com sangramento ativo. A próxima conduta para esse paciente deve ser
+
 A iniciar antibioticoterapia profilática.
 B iniciar somatostatina.
 C iniciar reposição volêmica.
@@ -492,6 +482,7 @@ E realizar escleroterapia endoscópica.
 
 QUESTÃO 54
 Paciente do sexo feminino, assintomática, em avaliação de rotina, determinada pelo seu médico assistente, é submetida à coleta de duas amostras de urocultura, que revelam crescimento de >100.000 Unidades Formadoras de Colônias/ml de Escherichia coli, nas duas amostras, com o mesmo perfil de sensibilidade. A solicitação das uroculturas e o tratamento antibiótico da bactéria isolada são justificados, se a paciente em questão for
+
 A muito idosa, moradora de asilo.
 B diabética, insulino-dependente.
 C portadora de cateter vesical de demora.
@@ -500,6 +491,7 @@ E jovem, sexualmente ativa.
 
 QUESTÃO 55
 Paciente, com 23 anos de idade, encontra-se na nona semana de gestação e comparece à Unidade Básica de Saúde para sua primeira consulta de pré-natal. Dentre os exames de rotina para essa idade gestacional, o médico solicita
+
 A sorologia para hepatite B e C.
 B citologia oncótica e creatinina.
 C sorologia para HIV e VDRL.
@@ -507,8 +499,8 @@ D glicemia de jejum e teste de tolerância oral a glicose.
 E exame sumário de urina e ecografia obstétrica.
 
 QUESTÃO 56
-Mulher, com 58 anos de idade, diabética, é admitida no Pronto-Socorro com dor precordial opressiva, intensa, irradiada para membro superior esquerdo há 40 minutos, associada a sudorese fria e sensação de morte iminente. Durante o exame clínico, encontra-se em bom estado geral, eupneica, Pressão arterial = 100 x 70 mmHg, Frequência cardíaca = 92 bpm, Frequência respiratória = 20 irpm. Pulmões limpos. Ritmo cardíaco regular, dois tempos, sem sopros. Abdome flácido, sem visceromegalias, ruídos hidroaéreos presentes. Sem edemas de membros inferiores, panturrilhas livres. Fez uso de dinitrato de isossorbida 5 mg sublingual, tendo cessado a dor. Eletrocardiograma realizado na admissão está normal.
-Qual a recomendação para o acompanhamento desta paciente?
+Mulher, com 58 anos de idade, diabética, é admitida no Pronto-Socorro com dor precordial opressiva, intensa, irradiada para membro superior esquerdo há 40 minutos, associada a sudorese fria e sensação de morte iminente. Durante o exame clínico, encontra-se em bom estado geral, eupneica, Pressão arterial = 100 x 70 mmHg, Frequência cardíaca = 92 bpm, Frequência respiratória = 20 irpm. Pulmões limpos. Ritmo cardíaco regular, dois tempos, sem sopros. Abdome flácido, sem visceromegalias, ruídos hidroaéreos presentes. Sem edemas de membros inferiores, panturrilhas livres. Fez uso de dinitrato de isossorbida 5 mg sublingual, tendo cessado a dor. Eletrocardiograma realizado na admissão está normal. Qual a recomendação para o acompanhamento desta paciente?
+
 A Acompanhamento ambulatorial, se Troponina e CKMB massa colhidas na admissão estiverem normais.
 B Internação hospitalar, monitorização cardíaca contínua, mesmo com troponina normal à admissão.
 C Acompanhamento ambulatorial especializado, com cardiologista, se Troponina colhida na admissão estiver normal.
@@ -521,6 +513,7 @@ I. Médico recebe comunicado do diretor clínico da clínica onde trabalha de qu
 II. Mãe traz a filha de 16 anos de idade, aluna do segundo ano do ensino médio, para consulta ginecológica. A adolescente não apresenta alterações ao exame clínico. Após a consulta, a mãe procura o médico para obter informações sobre o que foi discutido pelo médico com a filha em relação à sexualidade. O médico se nega a fornecer as informações sem a autorização da filha menor.
 III. Um médico especialista é chamado para falar sobre um tema de saúde em uma emissora de rádio. Durante o programa, atendendo a solicitação de ouvintes do programa, realizado ao vivo, o médico informa o telefone do seu consultório.
 Qual(is) desta(s) situação(ões) constitui(em) infrações do Código Brasileiro de Ética Médica?
+
 A I e II.
 B I e III.
 C II e III.
@@ -586,8 +579,7 @@ D Glomerulopatia por lesões mínimas.
 E Lupus eritematoso sistêmico.
 
 QUESTÃO 63
-Paciente do sexo masculino, com 59 anos de idade, tabagista há mais de 10 anos, hipertenso e dislipidêmico, procura a Unidade Básica de Saúde relatando o aparecimento, há um mês, de lesão ulcerada em dorso de pé esquerdo, após pequeno trauma abrasivo com sandália mal-adaptada. A lesão é seca, dolorosa, com fundo sujo e pálido. Há um discreto halo de eritema ao seu redor. Evolui há uma semana com piora do aspecto e do tamanho da lesão, com dor de repouso, edema de pé e tornozelo. Os pulsos arteriais não são perceptíveis (palpáveis) abaixo dos joelhos, bilateralmente.
-Qual a hipótese diagnóstica e conduta para esse paciente?
+Paciente do sexo masculino, com 59 anos de idade, tabagista há mais de 10 anos, hipertenso e dislipidêmico, procura a Unidade Básica de Saúde relatando o aparecimento, há um mês, de lesão ulcerada em dorso de pé esquerdo, após pequeno trauma abrasivo com sandália mal-adaptada. A lesão é seca, dolorosa, com fundo sujo e pálido. Há um discreto halo de eritema ao seu redor. Evolui há uma semana com piora do aspecto e do tamanho da lesão, com dor de repouso, edema de pé e tornozelo. Os pulsos arteriais não são perceptíveis (palpáveis) abaixo dos joelhos, bilateralmente. Qual a hipótese diagnóstica e conduta para esse paciente?
 
 A Doença aterosclerótica obliterante periférica (DAOP) com isquemia crítica; referenciar para revascularização de urgência.
 B Trombose venosa profunda; referenciar para consulta em ambulatório de especialidades e prescrição de anticoagulantes.
@@ -650,8 +642,7 @@ D Trata-se de otite serosa. É indicado, portanto, o uso de antibioticoterapia n
 E Trata-se de otite serosa. É indicado, portanto, o uso de sintomáticos, pois o abaulamento da membrana timpânica, patognomônico da otite serosa, deverá regridir com essa medida.
 
 QUESTÃO 70
-Homem, com 45 anos de idade, com dor epigástrica diária, ocorrendo no período pós-prandial e à noite, e perda ponderal de 4 kg, começou uso de inibidor de bomba de próton (IBP) com alguma melhora. Informa que não usa álcool ou anti-inflamatórios não hormonais. Ainda na vigência da medicação, realizou endoscopia digestiva alta que revelou gastrite nodosa de antro e corpo, e úlcera duodenal em fase de cicatrização. Biópsias de mucosa gástrica foram realizadas durante o procedimento, e submetidas ao teste rápido de urease em fase líquida, cujo resultado foi negativo.
-Quanto ao tratamento para Helicobacter pylori nesse paciente, conclui-se que:
+Homem, com 45 anos de idade, com dor epigástrica diária, ocorrendo no período pós-prandial e à noite, e perda ponderal de 4 kg, começou uso de inibidor de bomba de próton (IBP) com alguma melhora. Informa que não usa álcool ou anti-inflamatórios não hormonais. Ainda na vigência da medicação, realizou endoscopia digestiva alta que revelou gastrite nodosa de antro e corpo, e úlcera duodenal em fase de cicatrização. Biópsias de mucosa gástrica foram realizadas durante o procedimento, e submetidas ao teste rápido de urease em fase líquida, cujo resultado foi negativo. Quanto ao tratamento para Helicobacter pylori nesse paciente, conclui-se que:
 
 A Não há necessidade de tratamento, pois o agente etiológico não é o Helicobacter pylori.
 B Não há necessidade de tratamento, pois a cicatrização da úlcera ocorre após a erradicação da bactéria.
@@ -660,8 +651,7 @@ D Há necessidade de tratamento profilático contra reinfecção, mesmo havendo 
 E Há necessidade de tratamento especial para Helicobacter pylori resistente aos antibióticos.
 
 QUESTÃO 71
-Criança em idade pré-escolar foi atendida na Unidade Básica de Saúde, por diversas vezes, com quadro diarreico semelhante: diarreia importante e evacuações explosivas logo após a ingestão de alimentos. No atendimento atual, a criança encontra-se desidratada, apresenta assadura perianal e distensão abdominal. Os exames laboratoriais evidenciaram a presença de substâncias redutoras nas fezes e pH fecal menor do que 5,5.
-Qual a suspeita diagnóstica principal?
+Criança em idade pré-escolar foi atendida na Unidade Básica de Saúde, por diversas vezes, com quadro diarreico semelhante: diarreia importante e evacuações explosivas logo após a ingestão de alimentos. No atendimento atual, a criança encontra-se desidratada, apresenta assadura perianal e distensão abdominal. Os exames laboratoriais evidenciaram a presença de substâncias redutoras nas fezes e pH fecal menor do que 5,5. Qual a suspeita diagnóstica principal?
 
 A Diarreia infecciosa persistente.
 B Diarreia aguda recorrente.
@@ -670,8 +660,7 @@ D Intolerância à lactose.
 E Doença inflamatória pélvica.
 
 QUESTÃO 72
-Criança, com seis anos de idade, é atendida em Serviço de Urgência. A mãe informa que a criança apresenta “chiado no peito, tosse e falta de ar”. Ao exame, você constata Frequência cardíaca = 125 bpm, Frequência respiratória = 50 irpm, sibilos expiratórios, tiragem intercostal e batimento de asas do nariz.
-Qual deve ser a conduta clínica para iniciar o tratamento da criança?
+Criança, com seis anos de idade, é atendida em Serviço de Urgência. A mãe informa que a criança apresenta “chiado no peito, tosse e falta de ar”. Ao exame, você constata Frequência cardíaca = 125 bpm, Frequência respiratória = 50 irpm, sibilos expiratórios, tiragem intercostal e batimento de asas do nariz. Qual deve ser a conduta clínica para iniciar o tratamento da criança?
 
 A Salbutamol 5 mg/ml, 1 gota/2 kg e brometo de Ipratrópio 0,25 mg/ml, 20 a 40 gotas; hidrocortisona 4 mg/2 kg.
 B Fenoterol 5 mg/ml, 1 gota/3 kg; hidrocortisona 4 mg/2 kg.
@@ -680,9 +669,7 @@ D Fenoterol 5 mg/ml, 1 gota/kg; hidrocortisona 4 mg/kg.
 E Salbutamol 5 mg/ml, 1 gota/3 kg e brometo de Ipratrópio 0,25 mg/ml, 20 a 40 gotas; metilprednisolona 2 mg/kg.
 
 QUESTÃO 73
-Menina, com seis anos de idade, foi levada pela mãe à consulta em Unidade Básica de Saúde por apresentar, há uma semana, intensa adinamia, quadro febril intermitente (temperatura = 38 °C) e dor articular, localizada inicialmente no joelho esquerdo, acompanhada de calor e rubor discreto e que, há dois dias, acomete o tornozelo direito. A mãe informa que, há cerca de seis semanas, a criança apresentou quadro de infecção de vias aéreas superiores (faringite), que regrediu com o uso de amoxicilina durante cinco dias. Ao exame físico, a criança encontrava-se afebril, eupneica, hidratada, com intensa adinamia, hipocorada (+/4), Frequência cardíaca = 125 bpm, Pressão arterial = 100 x 60 mmHg. A ausculta cardíaca e a ausculta pulmonar foram normais. Foi observada hiperemia, calor e dor no tornozelo direito, com limitação de movimentos e a presença de áreas eritematosas com centros esbranquiçados no tronco e na região proximal de membros superiores e inferiores.
-Os exames laboratoriais revelaram: hemoglobina = 10 g/dL, hematócrito = 34%, leucócitos = 14.000/mm³, velocidade de hemossedimentação = 26 mm/h, proteína C reativa = 2,0 ng/mL (valor de referência <0,1 ng/mL); glicose, ureia e creatinina normais. O eletrocardiograma mostra um prolongamento do intervalo P-R (0,20 s).
-Com base no quadro clínico descrito e nos exames complementares realizados, qual o provável diagnóstico dessa criança?
+Menina, com seis anos de idade, foi levada pela mãe à consulta em Unidade Básica de Saúde por apresentar, há uma semana, intensa adinamia, quadro febril intermitente (temperatura = 38 °C) e dor articular, localizada inicialmente no joelho esquerdo, acompanhada de calor e rubor discreto e que, há dois dias, acomete o tornozelo direito. A mãe informa que, há cerca de seis semanas, a criança apresentou quadro de infecção de vias aéreas superiores (faringite), que regrediu com o uso de amoxicilina durante cinco dias. Ao exame físico, a criança encontrava-se afebril, eupneica, hidratada, com intensa adinamia, hipocorada (+/4), Frequência cardíaca = 125 bpm, Pressão arterial = 100 x 60 mmHg. A ausculta cardíaca e a ausculta pulmonar foram normais. Foi observada hiperemia, calor e dor no tornozelo direito, com limitação de movimentos e a presença de áreas eritematosas com centros esbranquiçados no tronco e na região proximal de membros superiores e inferiores. Os exames laboratoriais revelaram: hemoglobina = 10 g/dL, hematócrito = 34%, leucócitos = 14.000/mm³, velocidade de hemossedimentação = 26 mm/h, proteína C reativa = 2,0 ng/mL (valor de referência <0,1 ng/mL); glicose, ureia e creatinina normais. O eletrocardiograma mostra um prolongamento do intervalo P-R (0,20 s). Com base no quadro clínico descrito e nos exames complementares realizados, qual o provável diagnóstico dessa criança?
 
 A Artrite idiopática juvenil.
 B Lupus eritematoso sistêmico.
@@ -691,8 +678,7 @@ D Síndrome de Reiter.
 E Espondilartrose.
 
 QUESTÃO 74
-Paciente do sexo feminino, com 14 anos de idade, recebe atendimento médico por apresentar quadro de hematúria macroscópica acompanhada de mialgia discreta, adinamia, discreta hipertermia (temperatura axilar = 37,8 °C). A mãe informa que a paciente apresentou infecção de vias aéreas superiores há cerca de um mês, que regrediu após tratamento com amoxicilina durante sete dias. Por ocasião dessa primeira consulta, a paciente apresenta hipertensão arterial (Pressão arterial = 150 x 110 mmHg), o fundo de olho é normal e não há outras alterações do exame físico. A paciente é hospitalizada, pois os primeiros exames laboratoriais já mostram creatinina sérica elevada (8,4 mg/dL) e ela evolui rapidamente com oligoanúria, edema e agravamento da função renal. A hematúria macroscópica regride, mas persiste hematúria microscópica, com presença de cilindros hemáticos e a paciente passa a apresentar também proteinúria (3 g/24 h). A investigação clínico-laboratorial não evidencia presença de vasculite ou doença sistêmica. A dosagem de complemento sérico (C3, CH50) é normal; anticorpos antinucleares ausentes, pesquisa de fator anti-nuclear negativa. A paciente foi submetida à biópsia renal - fragmento com 30 glomérulos, com proliferação das células epiteliais da cápsula de Bowman e infiltração por macrófagos e linfócitos, configurando a presença de crescentes epiteliais em 70% dos glomérulos, alguns com aspecto fibrocelular. A imunofluorescência da biópsia renal evidencia deposição linear de IgG - não há depósitos mesangiais; imunofluorescência negativa para IgM, IgA e C3.
-Com base na história clínica, evolução e na biópsia renal e imunofluorescência, pergunta-se qual o mecanismo responsável pelo dano glomerular?
+Paciente do sexo feminino, com 14 anos de idade, recebe atendimento médico por apresentar quadro de hematúria macroscópica acompanhada de mialgia discreta, adinamia, discreta hipertermia (temperatura axilar = 37,8 °C). A mãe informa que a paciente apresentou infecção de vias aéreas superiores há cerca de um mês, que regrediu após tratamento com amoxicilina durante sete dias. Por ocasião dessa primeira consulta, a paciente apresenta hipertensão arterial (Pressão arterial = 150 x 110 mmHg), o fundo de olho é normal e não há outras alterações do exame físico. A paciente é hospitalizada, pois os primeiros exames laboratoriais já mostram creatinina sérica elevada (8,4 mg/dL) e ela evolui rapidamente com oligoanúria, edema e agravamento da função renal. A hematúria macroscópica regride, mas persiste hematúria microscópica, com presença de cilindros hemáticos e a paciente passa a apresentar também proteinúria (3 g/24 h). A investigação clínico-laboratorial não evidencia presença de vasculite ou doença sistêmica. A dosagem de complemento sérico (C3, CH50) é normal; anticorpos antinucleares ausentes, pesquisa de fator anti-nuclear negativa. A paciente foi submetida à biópsia renal - fragmento com 30 glomérulos, com proliferação das células epiteliais da cápsula de Bowman e infiltração por macrófagos e linfócitos, configurando a presença de crescentes epiteliais em 70% dos glomérulos, alguns com aspecto fibrocelular. A imunofluorescência da biópsia renal evidencia deposição linear de IgG - não há depósitos mesangiais; imunofluorescência negativa para IgM, IgA e C3. Com base na história clínica, evolução e na biópsia renal e imunofluorescência, pergunta-se qual o mecanismo responsável pelo dano glomerular?
 
 A Reação antígeno-anticorpo in situ ao longo da membrana basal glomerular.
 B Deposição de complexos imunes circulantes ao longo da membrana basal glomerular.
@@ -737,10 +723,7 @@ D Encaminhar a paciente para a maternidade, pois as características da gestaç�
 E Solicitar os exames de rotina pré-natal, encaminhar para acompanhamento psico-social, prescrever sulfato ferroso e solicitar retorno antecipado ao pré-natal.
 
 QUESTÃO 79
-Mulher, com 20 anos de idade, branca, é recebida no pronto-socorro com queixa de edema há uma semana. Inicialmente, o edema era nos membros inferiores, porém, agora, nota a face edemaciada. Relata, ainda, diminuição do volume urinário, astenia, hiporexia, mal-estar e febre baixa. Quanto aos antecedentes patológicos, artralgia de interfalangeanas proximais há cerca de oito meses. Na ocasião, fez uso de prednisona com desaparecimento do quadro. Não usa nenhuma medicação no momento. O exame clínico demonstra estado geral regular, hipocorada (++/4), edema de membros inferiores (++/4) e de face. Ausculta pulmonar com murmúrio vesicular presente e simétrico, sem ruídos adventícios. Ausculta cardíaca com ritmo cardíaco regular, em 2 tempos, sem sopros, Pressão arterial = 160x110 mmHg, Frequência cardíaca = 120 bpm. Abdome flácido, sem visceromegalias.
-
-Exames no pronto-socorro:
-Hemoglobina = 8,0 g/L, Hematócrito 24,0 %, Leucócitos totais = 2.400/mm³ (Segmentados = 84%, Bastões = 2%, Linfócitos = 8%, Eosinófilos = 2%, Monócitos = 2%), Plaquetas = 100.000/mm³ (Valor de Referência = 150.000 – 300.000/mm³). Ureia = 140 mg/dL (Valor de Referência: 15-40 mg/dL), Creatinina = 2,0 mg/dL (Valor de Referência: 0,6-1,2 mg/dL), Potássio = 5,5 mEq/L (Valor de Referência: 3,5-5,0 mEq/L). Qual a hipótese diagnóstica para o caso?
+Mulher, com 20 anos de idade, branca, é recebida no pronto-socorro com queixa de edema há uma semana. Inicialmente, o edema era nos membros inferiores, porém, agora, nota a face edemaciada. Relata, ainda, diminuição do volume urinário, astenia, hiporexia, mal-estar e febre baixa. Quanto aos antecedentes patológicos, artralgia de interfalangeanas proximais há cerca de oito meses. Na ocasião, fez uso de prednisona com desaparecimento do quadro. Não usa nenhuma medicação no momento. O exame clínico demonstra estado geral regular, hipocorada (++/4), edema de membros inferiores (++/4) e de face. Ausculta pulmonar com murmúrio vesicular presente e simétrico, sem ruídos adventícios. Ausculta cardíaca com ritmo cardíaco regular, em 2 tempos, sem sopros, Pressão arterial = 160x110 mmHg, Frequência cardíaca = 120 bpm. Abdome flácido, sem visceromegalias. Exames no pronto-socorro: Hemoglobina = 8,0 g/L, Hematócrito 24,0 %, Leucócitos totais = 2.400/mm³ (Segmentados = 84%, Bastões = 2%, Linfócitos = 8%, Eosinófilos = 2%, Monócitos = 2%), Plaquetas = 100.000/mm³ (Valor de Referência = 150.000 – 300.000/mm³). Ureia = 140 mg/dL (Valor de Referência: 15-40 mg/dL), Creatinina = 2,0 mg/dL (Valor de Referência: 0,6-1,2 mg/dL), Potássio = 5,5 mEq/L (Valor de Referência: 3,5-5,0 mEq/L). Qual a hipótese diagnóstica para o caso?
 
 A Endocardite infecciosa.
 B Dengue.
@@ -749,8 +732,7 @@ D Insuficiência renal crônica.
 E Lupus Eritematoso Sistêmico.
 
 QUESTÃO 80
-Paciente, com 25 anos de idade, secundigesta, com parto cesáreo anterior (G2P1C1), pré-natal sem intercorrências, foi internada em trabalho de parto e apresenta evolução de acordo com partograma, apresentado abaixo. Na décima hora de evolução, apresenta atividade uterina regular de 5 contrações/45 segundos/10 minutos/fortes e batimentos cardiofetais de 150 bpm.
-Analisando o partograma, qual é o diagnóstico e a conduta para o caso?
+Paciente, com 25 anos de idade, secundigesta, com parto cesáreo anterior (G2P1C1), pré-natal sem intercorrências, foi internada em trabalho de parto e apresenta evolução de acordo com partograma, apresentado abaixo. Na décima hora de evolução, apresenta atividade uterina regular de 5 contrações/45 segundos/10 minutos/fortes e batimentos cardiofetais de 150 bpm. Analisando o partograma, qual é o diagnóstico e a conduta para o caso?
 
 A Parada secundária da descida e fórceps.
 B Parada secundária da dilatação e ocitocina.
@@ -759,8 +741,7 @@ D Parada secundária da descida e cesárea.
 E Período expulsivo prolongado e cesárea.
 
 QUESTÃO 81
-Homem, com 65 anos de idade, tabagista, internado com suspeita de trombose venosa profunda, realizou tomografia de tórax e angiotomografia de membro inferior com contraste. Dois dias após o procedimento, houve redução de volume urinário para 400mL, em 24 horas. Exames solicitados em caráter de urgência evidenciam creatinina = 2,5 mg/dL, K = 5,7 mEq/L e Ureia = 112 mg/dL. O eletrocardiograma realizado mostra hemibloqueio de ramo esquerdo e alterações inespecíficas da repolarização ventricular.
-Para o caso, considerando os níveis de potássio sérico, a intervenção apropriada, neste momento, é:
+Homem, com 65 anos de idade, tabagista, internado com suspeita de trombose venosa profunda, realizou tomografia de tórax e angiotomografia de membro inferior com contraste. Dois dias após o procedimento, houve redução de volume urinário para 400mL, em 24 horas. Exames solicitados em caráter de urgência evidenciam creatinina = 2,5 mg/dL, K = 5,7 mEq/L e Ureia = 112 mg/dL. O eletrocardiograma realizado mostra hemibloqueio de ramo esquerdo e alterações inespecíficas da repolarização ventricular. Para o caso, considerando os níveis de potássio sérico, a intervenção apropriada, neste momento, é:
 
 A Furosemida EV.
 B Gluconato de cálcio EV.
@@ -778,8 +759,7 @@ D Manter infusão de volume e iniciar dopamina dose alfa adrenérgica ou norepin
 E Manter infusão de volume e iniciar dopamina dose alfa adrenérgica.
 
 QUESTÃO 83
-Paciente, com 29 anos de idade, procura o pronto-socorro local em virtude de queimadura com água quente na coxa direita, ocorrida há 10 minutos enquanto preparava café. Queixa-se de dores no local da queimadura. Informa ter dado à luz há dois anos e o cartão de acompanhamento da gestante mostra que todo o esquema vacinal foi realizado adequadamente. A paciente está consciente, orientada, eupneica, hidratada, normocorada e afebril, Frequência cardíaca = 79 bpm, Pressão arterial = 120x80 mmHg. Ao exame local apresenta flictenas, eritema e edema em face anterior de coxa direita.
-Qual a conduta para o caso descrito?
+Paciente, com 29 anos de idade, procura o pronto-socorro local em virtude de queimadura com água quente na coxa direita, ocorrida há 10 minutos enquanto preparava café. Queixa-se de dores no local da queimadura. Informa ter dado à luz há dois anos e o cartão de acompanhamento da gestante mostra que todo o esquema vacinal foi realizado adequadamente. A paciente está consciente, orientada, eupneica, hidratada, normocorada e afebril, Frequência cardíaca = 79 bpm, Pressão arterial = 120x80 mmHg. Ao exame local apresenta flictenas, eritema e edema em face anterior de coxa direita. Qual a conduta para o caso descrito?
 
 A Realizar lavagem da ferida com solução fisiológica a 0,9%. Analgesia endovenosa com dipirona. Recomendar não romper as flictenas e realizar curativo com solução fisiológica a 0,9%, associada a sulfadiazina de prata. Analgesia domiciliar com dipirona, se necessário.
 B Realizar a limpeza da ferida com clorhexidina. Analgesia endovenosa com meperidina endovenosa e antibioticoterapia oral com cefalexina - 500 mg por via oral, de 6/6h durante 7 dias. Recomendar não romper as flictenas e realizar curativo com solução fisiológica a 0,9% e neomicina. Analgesia domiciliar com cloridrato de tramadol.
@@ -788,8 +768,7 @@ D Realizar lavagem da ferida com soro fisiológico a 0,9%. Analgesia oral com pa
 E Realizar limpeza da ferida com soro fisiológico a 0,9%. Analgesia oral com dipirona. Recomendar não romper as flictenas. Realizar curativo com PVPI (polivinilpirrolidona-iodo, lauril éster sulfato de sódio) e lidocaína tópica. Prescrever analgesia oral com tramadol e antibioticoterapia com amoxicilina + ácido clavulânico - 500 mg por via oral, de 8/8h durante 7 dias.
 
 QUESTÃO 84
-Um lactente, com nove meses de idade, foi levado ao Pronto Atendimento porque, há 5 horas vem apresentando choro inconsolável, vômitos, fezes com sangue e distensão abdominal. A mãe refere que a criança ficou gripada há uma semana. Durante o exame físico, o pediatra palpou massa abdominal e solicitou radiografia simples de abdome que foi inespecífica e ultrassonografia de abdome total que mostrou anéis concêntricos de camadas hipoecóicas e hiperecóicas alternantes, com porção central hiperecóica (sinal da “rosquinha/alvo/olho de boi”). Foi encaminhado ao centro cirúrgico para laparotomia.
-Baseado nos sintomas apresentados, o quadro descrito é compatível com abdome agudo, tendo como causa:
+Um lactente, com nove meses de idade, foi levado ao Pronto Atendimento porque, há 5 horas vem apresentando choro inconsolável, vômitos, fezes com sangue e distensão abdominal. A mãe refere que a criança ficou gripada há uma semana. Durante o exame físico, o pediatra palpou massa abdominal e solicitou radiografia simples de abdome que foi inespecífica e ultrassonografia de abdome total que mostrou anéis concêntricos de camadas hipoecóicas e hiperecóicas alternantes, com porção central hiperecóica (sinal da “rosquinha/alvo/olho de boi”). Foi encaminhado ao centro cirúrgico para laparotomia. Baseado nos sintomas apresentados, o quadro descrito é compatível com abdome agudo, tendo como causa:
 
 A Vólvulo do intestino médio.
 B Hérnia inguinal estrangulada.
@@ -798,8 +777,7 @@ D Intussuscepção intestinal.
 E Oclusão intestinal por Ascaris lumbricoides.
 
 QUESTÃO 85
-Primigesta, com 23 anos de idade, 27 semanas de gestação, procura serviço de urgência relatando que, há dois dias, apresenta dor na região lombar à direita. Relata, ainda, que há um dia vem se sentindo muito mal, com calafrios e náuseas. Hoje, pela manhã, apresentou febre de 38,5 ºC, tendo feito uso de antitérmico. Ao exame físico: estado geral regular; descorada +/4+; levemente desidratada; afebril, eupneica; frequência cardíaca de 104 bpm; Pressão arterial = 110 x 70 mmHg. Relatou dor intensa à punho percussão na região lombar direita. Ao exame obstétrico: altura uterina de 28 cm, 156 batimentos cardíacos fetais por minuto, movimentos fetais presentes, ausência de contrações uterinas.
-Qual a conduta a ser tomada?
+Primigesta, com 23 anos de idade, 27 semanas de gestação, procura serviço de urgência relatando que, há dois dias, apresenta dor na região lombar à direita. Relata, ainda, que há um dia vem se sentindo muito mal, com calafrios e náuseas. Hoje, pela manhã, apresentou febre de 38,5 ºC, tendo feito uso de antitérmico. Ao exame físico: estado geral regular; descorada +/4+; levemente desidratada; afebril, eupneica; frequência cardíaca de 104 bpm; Pressão arterial = 110 x 70 mmHg. Relatou dor intensa à punho percussão na região lombar direita. Ao exame obstétrico: altura uterina de 28 cm, 156 batimentos cardíacos fetais por minuto, movimentos fetais presentes, ausência de contrações uterinas. Qual a conduta a ser tomada?
 
 A Solicitar exame sumário de urina e de urocultura e retorno em 24 horas para resultado de exames.
 B Hemograma, urocultura, antibioticoterapia e retorno em 24 horas para resultado de urocultura.
@@ -817,8 +795,7 @@ D as infecções são as complicações mais frequentes, e o uso de profilaxia c
 E as infecções são as complicações mais frequentes, o que leva à necessidade de profilaxia com penicilina, recomendada do momento do diagnóstico da anemia falciforme e mantida por toda a vida.
 
 QUESTÃO 87
-Gestante de 39 semanas, com quatro gestações e três partos, foi internada no pré-parto com dinâmica uterina de três contrações fortes em 10 minutos, cervicodilatação de 5 cm, bolsa íntegra e cardiotocografia com padrão ativo. Em uma hora evoluiu para 7 cm de dilatação, apresentando quatro contrações fortes em 10 minutos.
-Qual deve ser a indicação de analgesia obstétrica para essa paciente?
+Gestante de 39 semanas, com quatro gestações e três partos, foi internada no pré-parto com dinâmica uterina de três contrações fortes em 10 minutos, cervicodilatação de 5 cm, bolsa íntegra e cardiotocografia com padrão ativo. Em uma hora evoluiu para 7 cm de dilatação, apresentando quatro contrações fortes em 10 minutos. Qual deve ser a indicação de analgesia obstétrica para essa paciente?
 
 A Bloqueio de pudendo no segundo período do parto, visto que a paciente é multípara.
 B Bloqueio peridural com anestésico local e cateter para complementação anestésica subsequente.
@@ -827,8 +804,7 @@ D Analgesia endovenosa com meperidina.
 E Não há necessidade de analgesia e o parto ocorrerá rapidamente se considerarmos a evolução do trabalho de parto na última hora.
 
 QUESTÃO 88
-Homem, com 25 anos de idade, solteiro, procura atendimento na unidade básica de saúde, queixando-se de ferida genital. Ao exame clínico, foi observada lesão peniana ulcerada, eritematosa, com diâmetro de 1 cm, sem secreção, base endurecida, limites nítidos, bordas a pique, não dolorosa, nem pruriginosa.
-Qual o diagnóstico clínico principal?
+Homem, com 25 anos de idade, solteiro, procura atendimento na unidade básica de saúde, queixando-se de ferida genital. Ao exame clínico, foi observada lesão peniana ulcerada, eritematosa, com diâmetro de 1 cm, sem secreção, base endurecida, limites nítidos, bordas a pique, não dolorosa, nem pruriginosa. Qual o diagnóstico clínico principal?
 
 A Sífilis primária.
 B Sífilis secundária.
@@ -837,8 +813,7 @@ D Cancro misto.
 E Linfogranuloma venéreo.
 
 QUESTÃO 89
-Adolescente do sexo masculino, com 14 anos de idade, busca atendimento em Unidade Básica de Saúde por considerar sua estatura muito baixa. O seu peso ao nascer foi de 3 kg e o comprimento, de 50 cm. Manteve-se com velocidade de crescimento adequada até os dois anos de vida. Depois desse período, o pediatra constatou desaceleração no padrão de crescimento. Atualmente, apresenta velocidade de crescimento e estatura compatíveis com a idade óssea. Estágio de Tanner = 1; idade óssea = 13,5 anos; radiografia de crânio normal.
-Qual a conduta adequada para essa situação?
+Adolescente do sexo masculino, com 14 anos de idade, busca atendimento em Unidade Básica de Saúde por considerar sua estatura muito baixa. O seu peso ao nascer foi de 3 kg e o comprimento, de 50 cm. Manteve-se com velocidade de crescimento adequada até os dois anos de vida. Depois desse período, o pediatra constatou desaceleração no padrão de crescimento. Atualmente, apresenta velocidade de crescimento e estatura compatíveis com a idade óssea. Estágio de Tanner = 1; idade óssea = 13,5 anos; radiografia de crânio normal. Qual a conduta adequada para essa situação?
 
 A Encaminhar o paciente para endocrinologista para indução puberal imediata com testosterona.
 B Referenciar o paciente para endocrinologista para indução imediata do crescimento com sulfato de zinco.
@@ -866,8 +841,7 @@ D II, III, IV e VI.
 E III, V, VI e VII.
 
 QUESTÃO 91
-Paciente, com 25 anos de idade, sem queixas, retorna para consulta de rotina na Unidade Básica de Saúde trazendo o resultado do exame citopatológico do colo uterino que apresentou amostra satisfatória, com atipia de células escamosas de significado indeterminado (ASCUS). O exame especular vaginal feito na consulta em que o material foi colhido era normal. O citopatológico anterior da paciente havia sido colhido dois anos antes e não apresentava sinais de malignidade.
-Qual a conduta a ser adotada?
+Paciente, com 25 anos de idade, sem queixas, retorna para consulta de rotina na Unidade Básica de Saúde trazendo o resultado do exame citopatológico do colo uterino que apresentou amostra satisfatória, com atipia de células escamosas de significado indeterminado (ASCUS). O exame especular vaginal feito na consulta em que o material foi colhido era normal. O citopatológico anterior da paciente havia sido colhido dois anos antes e não apresentava sinais de malignidade. Qual a conduta a ser adotada?
 
 A Encaminhar a paciente para colposcopia com biópsia dirigida.
 B Solicitar retorno da paciente em seis meses para repetir o exame citopatológico.
@@ -939,8 +913,7 @@ D Exame clínico e mamografia a cada dois anos.
 E Exame clínico anual e ressonância magnética de mamas a cada dois anos.
 
 QUESTÃO 99
-Paciente, internado há oito dias em hospital secundário, vítima de politraumatismo por queda de moto, apresentava trauma torácico e abdominal contusos. Foi submetido a drenagem torácica direita devido a hemotórax, com sucesso, sendo o dreno retirado sem intercorrências, há dois dias. Foi submetido a laparotomia exploradora, sendo realizada rafia de lesão hepática e limpeza da cavidade. O paciente evoluía satisfatoriamente, alimentando-se, deambulando e evacuando normalmente, porém há 24 horas queixa-se de dor torácica à inspiração, com irradiação para o dorso, tosse seca, fôlego curto e falta de ar. Apresentou dois picos febris nas últimas 24 horas. O abdome é indolor, depressível, com ruídos hidroaéreos presentes e normais. A ausculta do tórax revela murmúrio vesicular discretamente diminuído em base pulmonar direita.
-Diante desta situação, pergunta-se qual a hipótese diagnóstica e a conduta?
+Paciente, internado há oito dias em hospital secundário, vítima de politraumatismo por queda de moto, apresentava trauma torácico e abdominal contusos. Foi submetido a drenagem torácica direita devido a hemotórax, com sucesso, sendo o dreno retirado sem intercorrências, há dois dias. Foi submetido a laparotomia exploradora, sendo realizada rafia de lesão hepática e limpeza da cavidade. O paciente evoluía satisfatoriamente, alimentando-se, deambulando e evacuando normalmente, porém há 24 horas queixa-se de dor torácica à inspiração, com irradiação para o dorso, tosse seca, fôlego curto e falta de ar. Apresentou dois picos febris nas últimas 24 horas. O abdome é indolor, depressível, com ruídos hidroaéreos presentes e normais. A ausculta do tórax revela murmúrio vesicular discretamente diminuído em base pulmonar direita. Diante desta situação, pergunta-se qual a hipótese diagnóstica e a conduta?
 
 A Empiema pleural. Radiografia simples de tórax. Drenagem torácica.
 B Pneumonia hospitalar. Raio X simples de tórax. Iniciar ceftriaxona 2g/dia por via endovenosa.
@@ -949,8 +922,7 @@ D Atelectasia pulmonar à direita. Raio X simples de tórax. Fisioterapia respir
 E Abscesso pulmonar. Tomografia de tórax. Lobectomia de urgência.
 
 QUESTÃO 100
-Mulher, com 25 anos de idade, apresenta ciclos menstruais irregulares, com atrasos menstruais frequentes, oleosidade da pele, acantose nigricante e hirsutismo leve em região mentoniana. Exame ecográfico demonstra características compatíveis com ovários micropolicísticos bilateralmente.
-Assinale a alternativa em que as observações, em relação ao seguimento e tratamento desta paciente, são corretas.
+Mulher, com 25 anos de idade, apresenta ciclos menstruais irregulares, com atrasos menstruais frequentes, oleosidade da pele, acantose nigricante e hirsutismo leve em região mentoniana. Exame ecográfico demonstra características compatíveis com ovários micropolicísticos bilateralmente. Assinale a alternativa em que as observações, em relação ao seguimento e tratamento desta paciente, são corretas.
 
 A A recomendação de perda de peso, atividade física e alimentação rica em fibra deve ser restrita aos casos de ganho de peso recente.
 B Deve ser alertada para a possibilidade de maior risco cardiovascular por alterações no perfil lipídico e maior risco oncogênico, principalmente para endométrio.
@@ -959,8 +931,7 @@ D Caso a paciente tenha desejo de engravidar, a regularização do ciclo e o uso
 E Em se tratando de paciente com infertilidade caracterizada, a ressecção em cunha dos ovários é o tratamento preferencial.
 
 QUESTÃO 101
-Criança do sexo masculino, com quatro anos de idade, é atendido na Unidade Básica de Saúde com história de febre há três dias, cansaço, tosse seca frequente, às vezes seguida de vômitos, astenia, anorexia e dor abdominal. Há dez dias apresentou “resfriado febril” com duração de cinco dias, tendo usado Ampicilina por dois dias. No momento, o estado geral é regular, apresenta dispneia leve, palidez e hipoatividade. A ausculta pulmonar revela diminuição do murmúrio vesicular em terço inferior do hemitórax dorsal direito. Peso e estatura adequados para a idade. Não informa doenças anteriores. Tem mais dois irmãos saudáveis. Está em uso de salbutamol, de 6/6 horas, há três dias.
-A conduta apropriada para a criança é
+Criança do sexo masculino, com quatro anos de idade, é atendido na Unidade Básica de Saúde com história de febre há três dias, cansaço, tosse seca frequente, às vezes seguida de vômitos, astenia, anorexia e dor abdominal. Há dez dias apresentou “resfriado febril” com duração de cinco dias, tendo usado Ampicilina por dois dias. No momento, o estado geral é regular, apresenta dispneia leve, palidez e hipoatividade. A ausculta pulmonar revela diminuição do murmúrio vesicular em terço inferior do hemitórax dorsal direito. Peso e estatura adequados para a idade. Não informa doenças anteriores. Tem mais dois irmãos saudáveis. Está em uso de salbutamol, de 6/6 horas, há três dias. A conduta apropriada para a criança é
 
 A Apenas sintomático e manter o salbutamol.
 B Internação e uso de penicilina endovenosa.
@@ -978,8 +949,7 @@ D O uso de reposição de cálcio e vitamina D aliada ao uso de bifosfonatos dev
 E Os efeitos de depleção óssea, induzidos pelo uso prolongado de corticóides, no hipotireoidismo e na doença renal crônica podem ser evitados pela ingesta complementar de cálcio.
 
 QUESTÃO 103
-Paciente, com 55 anos de idade, procurou consultório médico referindo o aparecimento de nódulo na região cervical à direita. O exame físico constatou que o paciente apresentava nódulo tireoideano à direita, de aproximadamente 6 cm. A ultrassonografia revelou nódulo isoecogênico, de 6 cm, no lobo inferior da tireoide. O estudo citológico, realizado em material colhido por punção aspirativa de agulha fina, foi sugestivo de carcinoma papilífero. O paciente foi então submetido a tireoidectomia, sem registro de intercorrências no ato operatório. No pós-operatório imediato, o paciente passou a apresentar rouquidão e a laringoscopia realizada revelou paralisia de prega vocal à direita.
-Mediante o quadro clínico e considerando a anatomia cirúrgica, qual a causa prevalente de rouquidão nesses casos?
+Paciente, com 55 anos de idade, procurou consultório médico referindo o aparecimento de nódulo na região cervical à direita. O exame físico constatou que o paciente apresentava nódulo tireoideano à direita, de aproximadamente 6 cm. A ultrassonografia revelou nódulo isoecogênico, de 6 cm, no lobo inferior da tireoide. O estudo citológico, realizado em material colhido por punção aspirativa de agulha fina, foi sugestivo de carcinoma papilífero. O paciente foi então submetido a tireoidectomia, sem registro de intercorrências no ato operatório. No pós-operatório imediato, o paciente passou a apresentar rouquidão e a laringoscopia realizada revelou paralisia de prega vocal à direita. Mediante o quadro clínico e considerando a anatomia cirúrgica, qual a causa prevalente de rouquidão nesses casos?
 
 A Lesão do ramo tireoideano do gânglio simpático cervical durante o ato cirúrgico.
 B Lesão da alça cervical do nervo parasimpático cervical durante o ato cirúrgico.
@@ -988,8 +958,7 @@ D Lesão do nervo laríngeo superior durante o ato cirúrgico.
 E Lesão do nervo laríngeo recorrente durante o ato cirúrgico.
 
 QUESTÃO 104
-Gestante, primigesta, 18 anos de idade, com dezessete semanas de gestação, traz cartão de vacinação para a consulta de pré-natal, mostrando esquema vacinal completo para tétano aos 10 anos de idade.
-Em relação à recomendação do esquema vacinal da dupla adulto (difteria e tétano), durante a gravidez, qual a conduta correta para essa gestante?
+Gestante, primigesta, 18 anos de idade, com dezessete semanas de gestação, traz cartão de vacinação para a consulta de pré-natal, mostrando esquema vacinal completo para tétano aos 10 anos de idade. Em relação à recomendação do esquema vacinal da dupla adulto (difteria e tétano), durante a gravidez, qual a conduta correta para essa gestante?
 
 A Repetir esquema vacinal completo, composto por três doses.
 B Repetir esquema vacinal modificado, composto por duas doses.
@@ -999,7 +968,6 @@ E Não realizar vacinação, pois a vacina dupla adulto não faz parte dos cuida
 
 QUESTÃO 105
 Para a resolução da questão a seguir, primeiro leia o caso clínico, depois analise as assertivas relacionadas a ele e, em seguida, marque a alternativa correta.
-
 Caso: Gestante, com 18 anos de idade, primigesta, gestação com 39 semanas e 6 dias, foi admitida no Setor de Emergência Obstétrica apresentando convulsões tônico-clônicas generalizadas. Ao exame físico: Pressão arterial = 180 x 120 mmHg, BCF = 65 bpm; hipertonia uterina franca, toque vaginal: colo uterino fechado, grosso e posterior. Após administração endovenosa de sulfato de magnésio e controle da crise convulsiva, a paciente foi encaminhada ao Centro Obstétrico para resolução por via alta, com as hipóteses diagnósticas de eclâmpsia, descolamento prematuro de placenta e sofrimento fetal agudo. O parto cesáreo ocorreu de forma rápida, através de incisão mediana, após anestesia geral. Não havia acompanhantes da gestante na sala de parto. O recém-nascido nasceu com peso de 3.850g, medindo 50cm, pálido, hipotônico, não responsivo, sem choro. Foi imediatamente atendido pelo pediatra que identificou ausência de batimentos cardíacos e procedeu às manobras de ressuscitação neonatal, sem sucesso. Após o nascimento, confirmou-se o descolamento extenso da placenta, com grande quantidade de sangue e coágulos retroplacentários. Na evolução do parto operatório, não houve contração do útero, e após exaustivas manobras e medicamentos uterotônicos, não houve controle da hemorragia uterina profusa, que levou a equipe médica a realizar histerectomia puerperal. A hemorragia foi então controlada e a intervenção concluída sem outras intercorrências. Todo o suporte de vida necessário durante o trans e o pós-operatório foi disponibilizado. A parturiente foi encaminhada à Unidade de Terapia Intensiva (UTI), em estado grave, sob ventilação mecânica e apresentando quadro de coagulação intravascular disseminada. Após dez dias, obteve alta da UTI e foi encaminhada para a enfermaria obstétrica, ainda com estado geral comprometido e, pela primeira vez, consciente após o parto. Chegando à enfermaria, perguntou pelo recém-nascido.
 
 Assertivas:
@@ -1036,8 +1004,7 @@ D Mães agricultoras têm risco 150% maior de conceber filhos com má formação
 E Mães agricultoras têm risco 257% maior de conceber filhos com má formação congênita em relação a mães não-agricultoras.
 
 QUESTÃO 108
-Criança, com 5 anos de idade, mora com os pais em bairro de periferia. Seu pai é fumante, há três meses apresenta tosse crônica, produtiva, sudorese noturna e febre diária e não procura cuidados médicos. Sua mãe é aparentemente saudável. Há três semanas, a criança iniciou tosse produtiva com escarro purulento, febre ao final da tarde e emagrecimento. O cartão de vacinas demonstra que ele foi vacinado com BCG ID no primeiro ano de vida. No atendimento, é constatada temperatura oral de 37,5°C, taquipneia e redução de murmúrio vesicular em terço médio do hemitórax direito. O exame radiológico do tórax mostra condensação homogênea em ápice de pulmão direito. O PPD é de 10 mm.
-Qual a conduta terapêutica para essa criança?
+Criança, com 5 anos de idade, mora com os pais em bairro de periferia. Seu pai é fumante, há três meses apresenta tosse crônica, produtiva, sudorese noturna e febre diária e não procura cuidados médicos. Sua mãe é aparentemente saudável. Há três semanas, a criança iniciou tosse produtiva com escarro purulento, febre ao final da tarde e emagrecimento. O cartão de vacinas demonstra que ele foi vacinado com BCG ID no primeiro ano de vida. No atendimento, é constatada temperatura oral de 37,5°C, taquipneia e redução de murmúrio vesicular em terço médio do hemitórax direito. O exame radiológico do tórax mostra condensação homogênea em ápice de pulmão direito. O PPD é de 10 mm. Qual a conduta terapêutica para essa criança?
 
 A Quimioprofilaxia primária.
 B Quimioprofilaxia secundária e controle com exames a cada 2 meses.
@@ -1046,8 +1013,7 @@ D Esquema tríplice (2HRZ) e duplo (4HR) e controle com exames a cada 2 meses.
 E Esquema quádruplo 2(HRZE) e duplo (5HR).
 
 QUESTÃO 109
-No atendimento do Pronto-Socorro, é admitido um jovem de 19 anos, de origem indígena, que narra ter sido vítima de uma picada de cobra na mão direita, há aproximadamente 30 minutos, relatando dor local. Você constata edema e equimose local. Outros habitantes da aldeia onde reside o rapaz trouxeram a cobra sem vida ao hospital na esperança de que isso pudesse ajudar na identificação da espécie da cobra que o havia picado. À observação, nota-se que a cobra tem fosseta loreal e cauda lisa.
-Considerando o quadro clínico, as características da cobra e a epidemiologia brasileira dos envenenamentos por animais peçonhentos, que tipo de soro antiofídico deverá ser administrado?
+No atendimento do Pronto-Socorro, é admitido um jovem de 19 anos, de origem indígena, que narra ter sido vítima de uma picada de cobra na mão direita, há aproximadamente 30 minutos, relatando dor local. Você constata edema e equimose local. Outros habitantes da aldeia onde reside o rapaz trouxeram a cobra sem vida ao hospital na esperança de que isso pudesse ajudar na identificação da espécie da cobra que o havia picado. À observação, nota-se que a cobra tem fosseta loreal e cauda lisa. Considerando o quadro clínico, as características da cobra e a epidemiologia brasileira dos envenenamentos por animais peçonhentos, que tipo de soro antiofídico deverá ser administrado?
 
 A Soro antilonômico.
 B Soro anticrotálico.
