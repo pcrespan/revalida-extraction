@@ -1,0 +1,25 @@
+eu tenho uma questão de prova de medicina no seguinte formato:
+
+Um menino, com um ano de idade, está sendo atendido no Pronto-Socorro de Pediatria com histórico de febre alta, falta de apetite e irritabilidade há dois dias. A mãe informou que hoje a criança apresentou vômitos, tremores e recusou toda a alimentação. Ao exame físico, apresenta-se hipoativo, com desidratação de primeiro grau e febre (39 ºC). Para a investigação desse quadro febril, sem foco aparente, foram realizados os seguintes exames:
+Estudo do líquor: normal
+Eritrograma: Hb: 11,5 g/dL Ht: 37,5 %. Leucograma: 25.000/mm³, com 10% de bastonetes. Plaquetas: normais
+Exame sumário de urina (colhido com saco coletor): nitrito positivo; leucócitos: 430.000/ml; eritrócitos: 15.000/ml
+Urocultura: em execução
+Com base na suspeita de infecção urinária, qual é a conduta a ser adotada?
+
+preciso passar ela para JSON, mantendo a estrutura da descrição de múltiplas linhas, então gostaria que ficasse assim:
+
+{
+            "numero": 49,
+            "resposta": "A",
+            "enunciado": "Um menino, com um ano de idade, está sendo atendido no Pronto-Socorro de Pediatria com histórico de febre alta, falta de apetite e irritabilidade há dois dias. A mãe informou que hoje a criança apresentou vômitos, tremores e recusou toda a alimentação. Ao exame físico, apresenta-se hipoativo, com desidratação de primeiro grau e febre (39 ºC). Para a investigação desse quadro febril, sem foco aparente, foram realizados os seguintes exames: \nEstudo do líquor: normal \nEritrograma: Hb: 11,5 g/dL Ht: 37,5 %. \nLeucograma: 25.000 /mm3, com 10% de bastonetes. \nPlaquetas: normais \nExame sumário de urina (colhido com saco coletor): nitrito \npositivo; leucócitos: 430.000 /ml; eritrócitos: 15.000 /ml \nUrocultura: em execução",
+            "alternativas": {
+                "E": "Hidratar o paciente no pronto-socorro, colher novo exame de urina por sondagem vesical ou punção supra-púbica e, após melhora clínica, liberá-lo; aguardar o resultado da urocultura, para definir sobre uso de antibioticoterapia.",
+                "C": "Hidratar o paciente no pronto-socorro e, após melhora clínica, liberá-lo com prescrição de cefalosporina por via oral. Pedir à responsável pelo menino que leve o resultado da urocultura, assim que esteja pronto, ao médico assistente.",
+                "A": "Colher novo exame de urina por meio de punção supra-púbica, internar o paciente e instituir a hidratação e a antibioticoterapia parenteral, prescrevendo cefalosporina.",
+                "B": "Internar o paciente, instituir hidratação parenteral e aguardar o resultado da urocultura colhida no pronto-socorro, para iniciar a antibioticoterapia de acordo com antibiograma.",
+                "D": "Hidratar o paciente no pronto-socorro, colher novo exame de urina por sondagem vesical ou punção supra-púbica e, após melhora clínica, liberá-lo com prescrição de cefalosporina por via oral. Orientar a mãe que leve o resultado da urocultura, assim que esteja pronto, ao médico assistente."
+            }
+        },
+
+sabendo disso, eu quero que você deixe a seguinte questão nesse mesmo formato json, mas quero apenas o atributo "enunciado", e também quero que mantenha as palavras exatamente iguais, sem reescrever:
