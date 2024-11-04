@@ -1,11 +1,11 @@
 QUESTÃO 1
-Uma paciente de 17 anos de idade, estudante, é atendida em Unidade Básica de Saúde (UBS) com queixa de disúria, polaciúria e urgência urinária há 48 horas. Nega febre ou corrimento vaginal. Informa que tem vida sexual ativa e que seu namorado faz uso sistemático de preservativo. Não apresenta, ao exame físico, qualquer alteração relevante.
+Uma paciente de 17 anos de idade, estudante, é atendida em Unidade Básica de Saúde (UBS) com queixa de disúria, polaciúria e urgência urinária há 48 horas. Nega febre ou corrimento vaginal. Informa que tem vida sexual ativa e que seu namorado faz uso sistemático de preservativo. Não apresenta, ao exame físico, qualquer alteração relevante. A conduta médica mais adequada para essa jovem é
 
-A solicitar urocultura por micção espontânea e aguardar resultado para iniciar antibioticoterapia.
+A solicitar urinocultura por micção espontânea e aguardar resultado para iniciar antibioticoterapia.
 B não solicitar qualquer exame complementar no momento e prescrever nitrofurantoína empiricamente.
 C solicitar sedimento urinário e, se piúria e bacteriúria presentes, prescrever sulfametoxazol e trimetoprima.
 D prescrever ciprofloxacina e azitromicina em dose única e encaminhar a paciente para exame ginecológico.
-E prescrever antiespasmódico via oral e solicitar ultrassonografia.
+E prescrever antiespasmódico via oral e solicitar ultrassonografia e radiografia simples de vias urinárias.
 
 QUESTÃO 2
 A prefeitura de um pequeno município do interior contratou profissionais de saúde para implantar três equipes da Estratégia da Saúde da Família que atuarão junto a uma Unidade Básica de Saúde (UBS). Para iniciar as suas atividades, essas equipes precisam definir os territórios de abrangência e a população de cada uma delas, conforme preconiza a Política Nacional da Atenção Básica. Que estratégias devem orientar a definição do território?
@@ -23,7 +23,7 @@ A meningite bacteriana; tratamento hospitalar com antibioticoterapia, com necess
 B meningite bacteriana; tratamento hospitalar com antibioticoterapia, sem necessidade de isolamento.
 C meningite viral; tratamento hospitalar sem antibioticoterapia, sem necessidade de isolamento.
 D meningite viral; tratamento hospitalar sem antibioticoterapia, com necessidade de isolamento.
-E meningite tuberculosa; tratamento hospitalar com antibioticoterapia.
+E meningite tuberculosa; tratamento hospitalar com antibioticoterapia e com necessidade de isolamento.
 
 QUESTÃO 4
 Uma gestante de 32 anos de idade, gesta = 2, para = 1, hoje com 15 semanas de gestação, comparece à sua segunda consulta de pré-natal. Encontra-se assintomática. Tem histórico de parto pré-termo há 4 anos devido a descolamento prematuro de placenta, com complicação de hemorragia pós-parto. Nega história de hipertensão, pré-eclâmpsia e diabetes gestacional anterior. O filho anterior nasceu com 36 semanas, pesou 2.050 g e mediu 40 cm. A gestante nega o uso, na gravidez anterior, de quaisquer medicações, exceto sulfato ferroso e ácido fólico. Ao exame clínico apresentou: PA = 110 x 60 mmHg; FC = 80 bpm; altura uterina = 15 cm; batimentos cardiofetais = 152 bpm; toque: colo fechado, grosso e posterior. A paciente traz os resultados dos seguintes exames laboratoriais: glicemia de jejum = 65 mg/dL (valor de referência < 99 mg/dL); sorologia para toxoplasma gondii = IgM não reagente/IgG reagente; sorologia rubéola = IgG reagente/IgM não reagente; VDRL não reagente; TSH = 15 UI/ml (valor de referência = 0,4 a 5,0 UI/ml), hemograma com Hb = 12,0 g/dL (valor de referência = 11,3 a 16,3 g/dL), leucócitos e plaquetas normais. Com base na história clínica e nos resultados dos exames acima apresentados é correto afirmar que:
@@ -32,7 +32,7 @@ A a gestante deve iniciar reposição de hormônio tireoidiano.
 B os níveis de T4 livre da gestante estão necessariamente elevados.
 C o quadro clínico apresentado não sugere risco de parto prematuro.
 D a mesma rotina laboratorial deve ser repetida após 30 dias para nova avaliação.
-E a gestante está assintomática, fato que não indica reposição de hormônio tireoidiano.
+E a gestante está assintomática, fato que não indica reposição de hormônio tiroidiano.
 
 QUESTÃO 5
 Um homem de 21 anos de idade está internado no Pronto Socorro de um hospital terciário após adequada atenção pré-hospitalar e remoção feita pelo SAMU local. Ele foi vítima de acidente de trânsito devido a queda de moto, ocorrido há 15 horas, e apresenta traumatismo raquimedular cervical grave. Ao repetir o exame físico do paciente, o médico constata o retorno do reflexo bulbocavernoso ainda nas primeiras 24 horas do evento traumático. O que sugere este último achado clínico?
@@ -53,7 +53,7 @@ D Descolamento prematuro de placenta; solicitar ultrassonografia para confirmaç
 E Placenta prévia; realizar internação para monitorização do sangramento e solicitar ultrassonografia para avaliação do bem-estar fetal.
 
 QUESTÃO 7
-Uma mulher de 40 anos de idade, branca, casada, procura o Serviço de Emergência queixando-se de dor abdominal epigástrica em todo o hemiabdome superior, intensa, contínua, com irradiação para o dorso e acompanhada de náuseas e vômitos há 24 horas. Não refere história de doença pregressa, etilismo, tabagismo e uso de medicamentos. Informa ter 4 filhos. Ao exame físico apresenta-se desconfortável no leito. Encontra-se afebril, com FC = 110 bpm, PA = 100 x 60 mmHg, pele com discreta sudorese, mucosas coradas e escleróticas ictéricas 1+/4+. Ao exame do abdome observam-se ruídos hidroaéreos presentes; abdome flácido, com dor à palpação no hemiabdome superior e ausência de visceromegalias. Os exames laboratoriais mostram: hemograma com 15.400 leucócitos/mm³ (valores de referência = 3.800 a 10.600/mm³) com neutrofilia; glicose = 130 mg/dL (valor de referência = 99 mg/dL); amilase = 1.240 U/L (valor de referência = 30 a 225 U/L); lipase = 600 U/L (valor de referência = 3 a 43 U/L), bilirrubinas totais = 5,2 mg/dL (valor de referência < 1,3 mg/dL), com fração direta de 2,0 mg/dL (valor de referência < 0,4 mg/dL); alanino-aminotransferase = 162 UI/L (valor de referência = < 35 UI/L); aspartato-aminotransferase = 87 UI/L (valor de referência < 30 UI/L). A radiografia simples de abdome mostra padrão inespecífico de distribuição de gases, sem evidência de pneumoperitônio. Diante do quadro apresentado, a principal hipótese diagnóstica é:
+Uma mulher de 40 anos de idade, branca, casada, procura o Serviço de Emergência queixando-se de dor abdominal epigástrica em todo o hemiabdome superior, intensa, contínua, com irradiação para o dorso e acompanhada de náuseas e vômitos há 24 horas. Não refere história de doença pregressa, etilismo, tabagismo e uso de medicamentos. Informa ter 4 filhos. Ao exame físico apresenta-se desconfortável no leito. Encontra-se afebril, com FC = 110 bpm, PA = 100 x 60 mmHg, pele com discreta sudorese, mucosas coradas e escleróticas ictéricas 1+/4+. Ao exame do abdome observam-se ruídos hidroaéreos presentes; abdome flácido, com dor à palpação no hemiabdome superior e ausência de visceromegalias. Os exames laboratoriais mostram: hemograma com 15.400 leucócitos/mm³ (valores de referência = 3.800 a 10.600/mm³) com neutrofilia; glicose = 130 mg/dL (valor de referência = 99 mg/dL); amilase = 1.240 U/L (valor de referência = 30 a 225 U/L); lipase = 600 U/L (valor de referência = 3 a 43 U/L), bilirrubinas totais = 5,2 mg/dL (valor de referência < 1,3 mg/dL), com fração direta de 2,0 mg/dL (valor de referência < 0,4 mg/dL); alanino-amino-transferase = 162 UI/L (valor de referência = < 35 UI/L); aspartato-amino-transferase = 87 UI/L (valor de referência < 30 UI/L). A radiografia simples de abdome mostra padrão inespecífico de distribuição de gases, sem evidência de pneumoperitônio. Diante do quadro apresentado, a principal hipótese diagnóstica é:
 
 A cólica biliar.
 B pancreatite biliar.
@@ -89,12 +89,12 @@ D Cricotireoidotomia.
 E Ventilação não invasiva com CPAP e máscara.
 
 QUESTÃO 11
-Um menino de dois anos de idade é levado à Unidade Básica de Saúde (UBS) próxima ao assentamento onde sua família reside, com queixa de diarreia intermitente, com restos alimentares em alguns episódios, sem sangue ou muco, associada a dor epigástrica e hiporexia, iniciada há 15 dias. No último ano, a criança foi levada à UBS duas vezes pelo mesmo motivo. A genitora relata que, há dois meses, a criança também apresentou lesões de pele muito pruriginosas, seguidas de tosse, com resolução espontânea em 3 dias. O padrão alimentar inclui alimentos da família e leite de vaca engrossado com farináceos desde que foi suspenso o aleitamento materno aos 3 meses de vida. A situação vacinal está adequada à idade. O médico observou: peso = 11 kg (percentil 15); turgor e elasticidade da pele um pouco diminuídos, mucosas hipocoradas, distensão abdominal moderada, com dolorimento discreto e difuso e ausência de edema, de lesões de pele significativas ou de sinais de instabilidade respiratória ou hemodinâmica. Para esse paciente, foram prescritas reidratação oral e orientação higiênico-sanitária. Qual a hipótese diagnóstica que melhor explica o quadro descrito acima e qual a conduta que deve ser aplicada?
+Um menino de dois anos de idade é levado à Unidade Básica de Saúde (UBS) próxima ao assentamento onde sua família reside, com queixa de diarreia intermitente, com restos alimentares em alguns episódios, sem sangue ou muco, associada a dor epigástrica e hiporexia, iniciada há 15 dias. No último ano, a criança foi levada à UBS duas vezes pelo mesmo motivo. A genitora relata que, há dois meses, a criança também apresentou lesões de pele muito pruriginososas, seguidas de tosse, com resolução espontânea em 3 dias. O padrão alimentar inclui alimentos da família e leite de vaca engrossado com farináceos desde que foi suspenso o aleitamento materno aos 3 meses de vida. A situação vacinal está adequada à idade. O médico observou: peso = 11 kg (percentil 15); turgor e elasticidade da pele um pouco diminuídos, mucosas hipocoradas, distensão abdominal moderada, com dolorimento discreto e difuso e ausência de edema, de lesões de pele significativas ou de sinais de instabilidade respiratória ou hemodinâmica. Para esse paciente, foram prescritas reidratação oral e orientação higiênico-sanitária. Qual a hipótese diagnóstica que melhor explica o quadro descrito acima e qual a conduta que deve ser aplicada?
 
 A Enteropatia ambiental; solicitar parasitológico de fezes e tratar com antiparasitário adequado ao agente identificado.
 B Enteropatia dependente do glúten; solicitar anticorpo antigliadina e antiendomísio e excluir da dieta glúten e farináceos em geral.
 C Enteropatia por alergia ao leite de vaca; solicitar dosagem de IgA secretora, excluir leite de vaca da dieta e prescrever fórmula isenta de proteínas do leite.
-D Enteropatia infecciosa aguda; solicitar coprocultura, iniciar sulfametoxazol-trimetoprim ou cefalosporina de primeira geração durante 7 a 10 dias.
+D Enteropatia infecciosa aguda; solicitar coprocultura, iniciar sulfametexazol-trimetoprim ou cefalosporina de primeira geração durante 7 a 10 dias.
 E Enteropatia dependente da lactose; excluir fontes de lactose da dieta, prescrever probióticos, prebióticos e usar leite de soja ou fórmula láctea isenta de lactose.
 
 QUESTÃO 12
@@ -200,7 +200,7 @@ D toracostomia secundária.
 E toracostomia de urgência.
 
 QUESTÃO 21
-Um homem de 55 anos de idade, portador de infecção pelo HIV, diabético do tipo II, hipertenso, em terapia antirretroviral, estável há 6 anos, com contagem de linfócitos CD4 de 980 células/mm³ (valor de referência < 1.000 células/mm³) e carga viral indetectável (< 25 cópias/mL), apresentou quadro de perda súbita e transitória da consciência, com queda da própria altura e recuperação espontânea. Na semana seguinte ao episódio, procurou o médico clínico que o acompanha; a hipertensão arterial e o diabetes mellitus mantinham-se controlados. O paciente relatou que, desde o episódio mencionado, sente “palpitações” e “pulso acelerado”. O médico observou no exame cardiovascular: frequência cardíaca = 105 bpm; pressão arterial = 140 x 90 mmHg, ritmo cardíaco irregular, achados que não haviam sido até então documentados em 10 anos de seguimento ambulatorial do paciente. O eletrocardiograma realizado naquela ocasião mostra ausência de ondas P e intervalos RR muito irregulares. A conduta imediata mais adequada é:
+Um homem de 55 anos de idade, portador de infecção pelo HIV, diabético do tipo II, hipertenso, em terapia antiretroviral, estável há 6 anos, com contagem de linfócitos CD4 de 980 células/mm³ (valor de referência < 1.000 células/mm³) e carga viral indetectável (< 25 cópias/mL), apresentou quadro de perda súbita e transitória da consciência, com queda da própria altura e recuperação espontânea. Na semana seguinte ao episódio, procurou o médico clínico que o acompanha; a hipertensão arterial e o diabetes mellitus mantinham-se controlados. O paciente relatou que, desde o episódio mencionado, sente “palpitações” e “pulso acelerado”. O médico observou no exame cardiovascular: frequência cardíaca = 105 bpm; pressão arterial = 140 x 90 mmHg, ritmo cardíaco irregular, achados que não haviam sido até então documentados em 10 anos de seguimento ambulatorial do paciente. O eletrocardiograma realizado naquela ocasião mostra ausência de ondas P e intervalos RR muito irregulares. A conduta imediata mais adequada é:
 
 A monitorizar o paciente por 48 horas, para observar a possibilidade de reversão espontânea da arritmia.
 B encaminhar o paciente para a emergência cardiológica, para ser submetido à cardioversão elétrica.
@@ -266,7 +266,7 @@ QUESTÃO 28
 Um homem de 65 anos de idade, com diabetes e hipertensão arterial não controladas, é trazido à Emergência de um hospital terciário com hemiplegia direita e afasia iniciadas há 2 horas. Ao exame, encontra-se sonolento, acorda ao estímulo verbal, obedece aos comandos. Apresenta afasia de expressão, pupilas isocóricas e fotorreagentes, hemiplegia do dimídio direito. Pressão arterial = 190 x 120 mmHg, frequência cardíaca = 100 bpm, saturação de oxigênio de 96% em ar ambiente, auscultas cardíaca e pulmonar normais. A tomografia computadorizada de crânio sem contraste, realizada na Emergência, foi normal. Qual a melhor conduta a ser realizada na sequência do atendimento?
 
 A Indicação de trombólise intravenosa, por estar na janela terapêutica.
-B Prescrição de ácido acetilsalicílico, por via oral, como antiagregante plaquetário.
+B Prescrição de ácido acetilssalicílico, por via oral, como antiagregante plaquetário.
 C Prescrição de heparina de baixo peso molecular para anticoagulação.
 D Prescrição de dexametasona para prevenir edema cerebral.
 E Administração de nitroprussiato de sódio, por via endovenosa.
@@ -299,11 +299,11 @@ D Atipia linfocitária > 30%.
 E Idade do paciente > 1 ano.
 
 QUESTÃO 32
-Um homem de 22 anos de idade desenvolveu escoriações de pele que se infectaram, melhorando com o uso de pomada de antibiótico. Cerca de uma semana após o aparecimento das lesões de pele, passou a apresentar cefaleia, edema periorbitário matinal e urina escura, "cor de coca-cola". O volume urinário diminuiu para menos de 1.000 mL/dia. Em consulta médica, foi verificada pressão arterial = 150 x 110 mmHg, bem como edema de membros inferiores (++/4). O achado no exame do sedimento urinário característico do processo que acomete o paciente é a presença de
+Um homem de 22 anos de idade desenvolveu escoriações de pele que se infectaram, melhorando com o uso de pomada de antibiótico (sic). Cerca de uma semana após o aparecimento das lesões de pele, passou a apresentar cefaleia, edema periorbitário matinal e urina escura, "cor de coca-cola". O volume urinário diminuiu para menos de 1.000 mL/dia. Em consulta médica, foi verificada pressão arterial = 150 x 110 mmHg, bem como edema de membros inferiores (++/4). O achado no exame do sedimento urinário característico do processo que acomete o paciente é a presença de
 
 A pigmentos hemáticos.
 B cilindros hemáticos.
-C proteinúria (+++/4+).
+C proteinúria (++++/4+).
 D células epiteliais com lesões de bordos.
 E hemácias bem conservadas em número superior a 10/campo.
 
@@ -326,7 +326,7 @@ D laceração de canal de parto.
 E carcinoma de células claras de vagina.
 
 QUESTÃO 35
-Um homem de 46 anos de idade comparece à Unidade Básica de Saúde (UBS) queixando-se de episódio de vômito em grande quantidade, com sangue vivo, há um dia, após libação alcoólica. Nega episódio similar anterior, mas já foi internado para "tratar doença no fígado". Hoje apresentou fezes diarreicas em grande volume, fétidas e enegrecidas. Sente-se fraco e a "vista escurece" sempre que se levanta. Ainda não urinou hoje. Ao exame físico: regular estado geral, emagrecido, palidez cutâneo-mucosa (++/4+), desidratado (+++/4+), anictérico, descamação superficial da pele em extremidades, PA = 90 x 60 mmHg, pulso = 110 bpm, abdome globoso, presença de ascite, aranhas vasculares e circulação colateral periumbilical. O paciente foi transferido para uma Unidade de Emergência, onde se firmou o seu diagnóstico e foram tomadas as medidas emergenciais adequadas ao caso. Qual o diagnóstico mais provável e que medidas emergenciais devem ter sido adotadas?
+Um homem de 46 anos de idade comparece à Unidade Básica de Saúde (UBS) queixando-se de episódio de vômito em grande quantidade, com sangue vivo, há um dia, após libação alcoólica. Nega episódio similar anterior, mas já foi internado para "tratar doença no fígado" (sic). Hoje apresentou fezes diarreicas em grande volume, fétidas e enegrecidas. Sente-se fraco e a "vista escurece" sempre que se levanta. Ainda não urinou hoje. Ao exame físico: regular estado geral, emagrecido, palidez cutâneo-mucosa (++/4+), desidratado (+++/4+), anictérico, descamação superficial da pele em extremidades, PA = 90 x 60 mmHg, pulso = 110 bpm, abdome globoso, presença de ascite, aranhas vasculares e circulação colateral periumbilical. O paciente foi transferido para uma Unidade de Emergência, onde se firmou o seu diagnóstico e foram tomadas as medidas emergenciais adequadas ao caso. Qual o diagnóstico mais provável e que medidas emergenciais devem ter sido adotadas?
 
 A Trata-se da síndrome de Mallory-Weiss. As medidas emergenciais incluem lavagem gástrica com solução salina gelada, reposição volêmica e inibidores de bomba de prótons.
 B Trata-se da síndrome de Mallory-Weiss. As medidas emergenciais incluem reposição volêmica e endoscopia para cauterização dos pontos de sangramento.
@@ -362,10 +362,10 @@ D hipertensão antes das 20 semanas de gestação com proteinúria de 24 horas c
 E acréscimo na pressão diastólica de 15 mmHg e na sistólica de 30 mmHg, com edema, apresenta características de doença hipertensiva específica da gestação.
 
 QUESTÃO 39
-Mulher de 48 anos de idade, obesa, procura ambulatório de Clínica Médica, acompanhada da irmã, com queixas de sentir-se cansada, sem ânimo e interesse para suas atividades corriqueiras e sociais, apresentando constante vontade de dormir, sem conseguir concentrar-se nas suas atividades. Seu peso aumentou de 75 para 82 kg em um mês. A irmã relata que a paciente "está fazendo as coisas de maneira lenta", passa os dias em um quarto escuro e verbalizou vontade de morrer. Exame físico: IMC = 31 kg/m² (valor de referência < 25 kg/m²), sem outras alterações. A paciente tem histórico de arritmia cardíaca. Avaliação recente de função tireoidiana revelou resultados normais para TSH, T3 e T4. No caso descrito acima, qual a conduta terapêutica mais adequada?
+Mulher de 48 anos de idade, obesa, procura ambulatório de Clínica Médica, acompanhada da irmã, com queixas de sentir-se cansada, sem ânimo e interesse para suas atividades corriqueiras e sociais, apresentando constante vontade de dormir, sem conseguir concentrar-se nas suas atividades. Seu peso aumentou de 75 para 82 kg em um mês. A irmã relata que a paciente "está fazendo as coisas de maneira lenta", passa os dias em um quarto escuro e verbalizou vontade de morrer. Exame físico: IMC = 31 kg/m² (valor de referência < 25 kg/m²), sem outras alterações. A paciente tem histórico de arritmia cardíaca. Avaliação recente de função tiroidiana revelou resultados normais para TSH, T3 e T4. No caso descrito acima, qual a conduta terapêutica mais adequada?
 
 A Indicação de psicoterapia de apoio e de antidepressivo tricíclico.
-B Indicação de psicoterapia cognitivo-comportamental e inibidor da monoamina oxidase.
+B Indicação de psicoterapia cognitivo-comportamental e inibidor da mono-amino-oxidase.
 C Prescrição de antidepressivo inibidor seletivo da recaptação de dopamina.
 D Indicação de psicoterapia e antidepressivo inibidor seletivo da recaptação de serotonina.
 E Prescrição de associação de antidepressivo inibidor de serotonina e antipsicótico.
@@ -413,7 +413,7 @@ A Chlamydia; tratamento com tinidazol.
 B Candidíase; tratamento com cetoconazol.
 C Gonococo; tratamento com metronidazol.
 D Trichomoníase; tratamento com ampicilina.
-E Gardnerella; tratamento com secnidazol.
+E Gardenerella; tratamento com secnidazol.
 
 QUESTÃO 45
 Uma mulher de 57 anos de idade, portadora de litíase biliar diagnosticada há 12 anos por ultrassonografia abdominal, tem antecedentes de três episódios sugestivos de colecistite aguda tratados clinicamente. Não tem outras comorbidades. Submetida à ultrassonografia abdominal há cerca de duas semanas, em decorrência de novo quadro de dor abdominal em cólica, o exame mostrou, além de vários cálculos pequenos no interior da vesícula, placas opacificando os contornos da parede, sugerindo "vesícula em porcelana". Qual a conduta mais indicada nesse caso?
@@ -421,7 +421,7 @@ Uma mulher de 57 anos de idade, portadora de litíase biliar diagnosticada há 1
 A Litotripsia extracorpórea.
 B Tratamento cirúrgico.
 C Emprego do ácido ursodesoxicólico.
-D Colangiorressonância.
+D Colangioressonância.
 E Mudanças de dieta e analgésicos sob demanda.
 
 QUESTÃO 46
@@ -455,10 +455,10 @@ QUESTÃO 49
 O pediatra da Emergência de um Hospital Infantil recebeu uma criança com 2 anos de idade que tinha sido atropelada havia 60 minutos. Ao exame físico, a criança encontrava-se sonolenta e respondendo mal às solicitações. Apresentava-se pálida, desidratada e com sudorese fria. Pupilas isocóricas e fotorreativas. Mímica facial preservada. Fundo de olho sem sinais de hemorragia ou edema de papila. Pressão arterial = 40 x 20 mmHg; frequência cardíaca = 160 bpm. Ausculta cardíaca sem sopros e ausculta pulmonar normal. Ao exame do abdome, observa-se distensão importante e diminuição dos ruídos hidroaéreos. A criança reage à palpação superficial difusa do abdome e não se palpam visceromegalias. A criança mobiliza os quatro membros e apresenta reflexos profundos 2+/4+, globalmente. Apresenta também reflexo cutâneo-plantar em flexão bilateralmente. Após a infusão de cristaloides e de concentrado de hemácias, já com três horas de evolução, a criança apresentava frequência cardíaca = 120 bpm, frequência respiratória = 40 irpm e pressão arterial = 80 x 40 mmHg. O abdome continuava distendido e difusamente doloroso à palpação, com hiperemia periumbilical e irritação peritoneal. Os exames laboratoriais colhidos na terceira hora de evolução mostravam: hemoglobina = 9 g/dL (valor de referência: 10,6 a 13,0 g/dL); hematócrito = 27% (valor de referência: 32 a 40%); leucócitos = 20 000/mm³ (valor de referência: 5 000 a 15 000/mm³); plaquetas = 150 000/mm³ (valor de referência: 140 000 a 400 000/mm³); nível de bilirrubinas e transaminases hepáticas normais; hiperamilasemia e hiperlipasemia. Com base no quadro clínico e no resultado dos exames laboratoriais, a suspeita diagnóstica é de lesão
 
 A hepática e de lojas renais.
-B de bexiga e retroperitônio.
+B de bexiga e retroperitôneo.
 C hepática e de vias biliares.
 D de ureteres e vias biliares.
-E pancreática e pneumoperitônio.
+E pancreática e pneumoperitôneo.
 
 QUESTÃO 50
 Um homem de 70 anos de idade, tabagista há mais de trinta anos, com doença pulmonar obstrutiva crônica, chega ao Pronto Atendimento com queixa de "dor na virilha" e "caroço duro" no local, que surgiram após acesso de tosse importante, há cerca de 10 horas. O paciente informa que a intensidade da dor está aumentando. Ao exame físico: paciente hidratado, normocorado, frequência cardíaca = 92 bpm, pressão arterial = 140 x 80 mmHg. O paciente apresenta tumoração endurecida na fossa ilíaca direita, dolorosa e irredutível; ruídos hidroaéreos presentes na ausculta abdominal. Qual a conduta mais indicada para o caso?
@@ -485,7 +485,7 @@ A lítio.
 B fluoxetina.
 C paroxetina.
 D amitriptilina.
-E inibidores da monoaminoxidase.
+E inibidores da mono-amino-oxidase.
 
 QUESTÃO 53
 Uma mulher de 40 anos, multípara, com menstruações regulares, comparece a uma consulta para realizar exame de prevenção do câncer de colo uterino. No exame especular, o médico observou um colo cilíndrico, sem corrimento vaginal. Ele colheu material para a colpocitologia oncótica, e o resultado do exame mostrou lesão intraepitelial de alto grau. Qual a conduta mais adequada nesse caso?
