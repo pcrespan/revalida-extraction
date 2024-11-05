@@ -53,7 +53,7 @@ D meningite estafilocócica.
 E meningite por bacilo gram-negativo.
 
 QUESTÃO 7
-Homem com 35 anos de idade, obeso, com hérnia de hiato, é acompanhado clinicamente há cerca de dez anos. Sua última endoscopia de controle mostrou esofagite com esôfago de Barrett em uma extensão de cerca de 5 cm. Foram colhidas biópsias cujo resultado foi metaplasia de Barrett. A conduta inicial para o seguimento deste paciente é:
+Homem com 35 anos de idade, obeso, com hérnia de hiato, é acompanhado clinicamente há cerca de dez anos. Sua última endoscopia de controle mostrou esofagite com esôfago de Barret em uma extensão de cerca de 5 cm. Foram colhidas biópsias cujo resultado foi metaplasia de Barret. A conduta inicial para o seguimento deste paciente é:
 
 A indicação imediata de cirurgia antirrefluxo.
 B indicação imediata de esofagectomia parcial.
@@ -188,7 +188,7 @@ D RNA do HCV detectável com > 2.000.000 cópias/ml, genótipo 1 e fígado com f
 E RNA do HCV detectável com < 2.000.000 cópias/ml, genótipo 2 e fígado com evidência de fibrose.
 
 QUESTÃO 22
-Criança do sexo masculino, com 7 meses de idade, começou a apresentar crises de choro injustificado intercaladas com períodos de acalmia. Tem leve distensão abdominal, principalmente em quadrante superior direito, e vômitos de conteúdo alimentar há cerca de dois dias. Hoje pela manhã, a mãe notou fezes contendo substância gelatinosa e de cor róseo-avermelhada, o que a motivou a procurar serviço de Pronto Atendimento. Ao exame, a criança se apresenta inquieta e chorosa, os ruídos abdominais estão presentes, levemente aumentados e com timbre metálico. Na palpação abdominal evidencia-se uma tumoração fusiforme em hipocôndrio direito, sem sinais de irritação peritoneal. Com base nessas informações, pode-se afirmar que, na investigação por imagem:
+Criança do sexo masculino, com 7 meses de idade, começou a apresentar crises de choro injustificado intercaladas com períodos de acalmia. Tem leve distensão abdominal, principalmente em quadrante superior direito, e vômitos de conteúdo alimentar há cerca de dois dias. Hoje pela manhã, a mãe notou fezes contendo substância gelatinosa e de cor róseo-avermelhada, o que a motivou a procurar serviço de Pronto Atendimento. Ao exame, a criança se apresenta inquieta e chorosa, os ruídos abdominais estão presentes, levemente aumentados e com timbre metálico. Na palpação abdominal evidencia-se uma tumoração fusiforme em hipocôndrio direito, sem sinais de irritação peritonial. Com base nessas informações, pode-se afirmar que, na investigação por imagem:
 
 A a presença de sangue nas fezes contraindica o enema baritado.
 B a radiografia simples de abdome deve mostrar uma imagem de dupla bolha.
@@ -199,7 +199,7 @@ E a ultrassonografia de abdome deve mostrar imagem de espessamento (hipertrofia)
 QUESTÃO 23
 Primípara, no 5.º dia pós-parto, procura a Unidade Básica de Saúde queixando-se de dor e inchaço nas mamas, com dificuldade para amamentar. Relata que seu filho chora constantemente e que ele é preguiçoso para sugar o leite. Ao exame físico apresenta mamas volumosas, brilhantes, endurecidas, doloridas, com calor local. As aréolas apresentam-se tensas e os mamilos planos. Com base nos dados clínicos apresentados, a conduta correta a ser orientada é:
 
-A manter o aleitamento exclusivo sob livre demanda; corrigir a pega; aumentar a frequência das mamadas; realizar ordenha manual antes da mamada para diminuir a tensão da aréola; e recomendar uso de sutiã com alças que suspendam as mamas.
+A manter o aleitamento exclusivo sob livre demanda; corrigir a pega; aumentar a frequência das mamadas; realizar ordenha manual antes da mamada para diminuir a tensão da auréola; e recomendar uso de sutiã com alças que suspendam as mamas.
 B introduzir antibioticoterapia associada com analgésicos e anti-inflamatórios não hormonais; administrar compressas frias nas mamas; e suspender a amamentação até que se garanta uma boa pega e ocorra melhora dos sinais flogísticos nas mamas.
 C suspender a amamentação até que se garanta uma boa pega e para que ocorra melhora dos sinais flogísticos nas mamas; administrar compressas mornas para reduzir os aglomerados de leite nos ductos; e realizar a ordenha manual.
 D suspender o aleitamento exclusivo até haver a melhora do processo inflamatório; administrar analgésicos e anti-inflamatórios; iniciar exercícios para correção dos mamilos planos; e realizar a ordenha manual.
@@ -242,7 +242,7 @@ D Aumentar líquidos e alimentos laxantes na dieta materna.
 E Administrar supositório de glicerina após 24h sem evacuações.
 
 QUESTÃO 28
-Mulher com 32 anos de idade procura ginecologista, queixando-se de irregularidade menstrual e dificuldade para engravidar. As menstruações frequentemente atrasam, chegando a ficar 120 dias sem menstruar. Gesta 1, Para 1, com antecedente de diabetes gestacional na primeira gestação, há oito anos. É sedentária, nega tabagismo e etilismo. Refere ter aumentado cerca de 15 kg desde o parto. Exame físico: presença de acne facial e hirsutismo, além de acantose nigricans nas axilas e região nucal. Trouxe resultado de ultrassonografia transvaginal mostrando ovários com volume aumentado e presença de mais de doze folículos, medindo 9 mm em ambos os ovários. Com base nos dados apresentados, é correto afirmar que a paciente apresenta risco aumentado para:
+Mulher com 32 anos de idade procura ginecologista, queixando-se de irregularidade menstrual e dificuldade para engravidar. As menstruações frequentemente atrasam, chegando a ficar 120 dias sem menstruar. Gesta 1, Para 1, com antecedente de diabetes gestacional na primeira gestação, há oito anos. É sedentária, nega tabagismo e etilismo. Refere ter aumentado cerca de 15 kg desde o parto. Exame físico: presença de acne facial e hirsutismo, além de Acantose nigricans nas axilas e região nucal. Trouxe resultado de ultrassonografia transvaginal mostrando ovários com volume aumentado e presença de mais de doze folículos, medindo 9 mm em ambos os ovários. Com base nos dados apresentados, é correto afirmar que a paciente apresenta risco aumentado para:
 
 A Adenomiose.
 B Endometriose pélvica.
@@ -269,7 +269,7 @@ D Sobrepeso e hipertensão; recomenda-se seguir plano alimentar com dieta balanc
 E Obesidade e pressão arterial limítrofe; recomenda-se seguir plano alimentar com dieta balanceada, atividade física regular e rastrear outras comorbidades.
 
 QUESTÃO 31
-Mulher com 25 anos de idade deu entrada no Serviço de Emergência, prostrada, com vômitos. Ao exame físico observou-se hipotensão arterial, febre de 39ºC, defesa na fossa ilíaca direita, distensão e irritação peritoneal difusas. O exame ginecológico e o toque retal evidenciaram a presença de dor no fundo de saco posterior à mobilização do colo uterino. A punho percussão lombar era negativa, bilateralmente. A melhor abordagem para o caso é:
+Mulher com 25 anos de idade deu entrada no Serviço de Emergência, prostrada, com vômitos. Ao exame físico observou-se hipotensão arterial, febre de 39ºC, defesa na fossa ilíaca direita, distensão e irritação peritonial difusas. O exame ginecológico e o toque retal evidenciaram a presença de dor no fundo de saco posterior à mobilização do colo uterino. A punho percussão lombar era negativa, bilateralmente. A melhor abordagem para o caso é:
 
 A reposição volêmica; realização de hemograma; solicitação de tomografia computadorizada do abdome para excluir o diagnóstico de pelvi-peritonite.
 B reposição volêmica; realização de hemograma; iniciar antibioticoterapia após coleta de sangue para hemocultura e indicar o tratamento cirúrgico.
@@ -310,7 +310,7 @@ Rapaz com 15 anos de idade, portador de cirrose biliar primária, com classifica
 
 A não há possibilidade de acelerar o transplante, pois o paciente é menor de idade e tem uma avaliação de menor gravidade clínica.
 B o transplante somente poderá ser antecipado se houver um doador com morte cerebral comprovada e consentimento da família.
-C o transplante poderá ser acelerado, pois o quadro clínico do paciente é grave e a doação em vida pelo pai é consentida.
+C o transplante poderá ser acelerado, pois o quadro clínico do paciente é grave e a doação intervivos pelo pai é consentida.
 D em hipótese alguma o transplante poderá ser antecipado, pois, para a fila do SUS, os critérios são bem definidos e éticos.
 E o transplante poderá ser antecipado somente com doador falecido HLA idêntico ou semi-idêntico.
 
@@ -330,7 +330,7 @@ A Ibuprofeno.
 B Diclofenaco.
 C Naproxeno.
 D Prednisona.
-E Ácido Acetilsalicílico.
+E Ácido Acetil Salicílico.
 
 QUESTÃO 38
 Mulher com 35 anos de idade, G2 P1 (parto vaginal há 4 anos), 41 semanas e 2 dias de idade gestacional (corrigida por ultrassonografia realizada no primeiro trimestre), vem à Unidade Básica de Saúde para mais uma consulta de pré-natal. Refere dor nas costas e cansaço. Nega contrações, disúria, perda líquida ou sangramento vaginal. Relata boa movimentação fetal. Ao exame: pressão arterial = 100x60 mmHg, peso = 68 kg, altura uterina = 34 cm, batimentos cardiofetais = 140 bpm, ausência de dinâmica uterina. Toque vaginal = colo grosso, centrado, 2 cm de dilatação, apresentação cefálica. A conduta indicada é:
@@ -551,7 +551,7 @@ E se trata de morte materna de causa inevitável devido a quadro séptico genera
 QUESTÃO 62
 Mulher com 56 anos de idade, ex-tabagista (40 maços/ano), apresenta dispneia aos pequenos esforços e tosse matinal com expectoração clara. Faz uso de salbutamol inalatório para alívio da dispneia. Ao exame físico apresenta pulso = 85 bpm, frequência respiratória = 24 irpm, ausculta pulmonar com murmúrio vesicular diminuído em bases, sem ruídos adventícios. Sem outras alterações no exame físico. Vem à consulta ambulatorial de revisão trazendo radiografia de tórax e gasometria arterial em ar ambiente. Após avaliação dos exames, foi prescrito tratamento farmacológico e indicada oxigenioterapia domiciliar prolongada – 1L/min durante pelo menos 15h/dia. Com base nessas informações, o resultado gasométrico que justificou a indicação de oxigenioterapia é:
 
-A pH 7,45; PaCO2 33 mmHg; PaO2 58 mmHg; HCO3 22 mEq/L.
+A pH 7,45; PaCO 33 mmHg; PaO2 58 mmHg; HCO3 22 mEq/L.
 B pH 7,34; PaCO2 45 mmHg; PaO2 57 mmHg; HCO3 26 mEq/L.
 C pH 7,35; PaCO2 43 mmHg; PaO2 60 mmHg; HCO3 24 mEq/L.
 D pH 7,38; PaCO2 36 mmHg; PaO2 62 mmHg; HCO3 24 mEq/L.
@@ -720,7 +720,7 @@ D solicitar teste oral de tolerância à glicose com 75g, com 28 semanas de gest
 E solicitar dosagem de glicemia pós-prandial, com 34 semanas de gestação.
 
 QUESTÃO 81
-Menino com 8 anos de idade é trazido ao Ambulatório de Pediatria com queixa de oligúria e urina espumosa, bem como quadro de edema, iniciado há 7 dias. A mãe nega outras alterações ou patologias prévias. Ao exame físico: PA = 99 x 56 mmHg, edema palpebral e de membros inferiores, sem ascite. Exame de urina: densidade urinária: 1.015, hemácias: 2/campo, leucócitos: 3/campo, proteinúria +++/++++. Considerando a principal hipótese diagnóstica, é indicado para tratamento da doença de base:
+Menino com 8 anos de idade é trazido ao Ambulatório de Pediatria com queixa de oligúria e urina espumosa, bem como quadro de edema, iniciado há 7 dias. A mãe nega outras alterações ou patologias prévias. Ao exame físico: PA = 99 x 56 mmHg, edema palpebral e de membros inferiores, sem ascite. Exame de urina: densidade urinária: 1.015, hemácias: 2/campo, leucócitos: 3/campo, proteinuria +++/++++. Considerando a principal hipótese diagnóstica, é indicado para tratamento da doença de base:
 
 A diurético.
 B antibiótico.
@@ -743,8 +743,8 @@ Homem com 35 anos de idade, no 3.º dia pós-operatório de apendicectomia, enco
 A manter a antibioticoterapia e curativos diários.
 B trocar antibioticoterapia, aplicar calor local e curativos diários.
 C manter a antibioticoterapia, retirar os pontos cirúrgicos para drenagem da secreção e curativos diários.
-D trocar antibioticoterapia, indicar a realização de exame de imagem pelo risco de infecção intracavitária.
-E manter antibioticoterapia, indicar a exploração cirúrgica da ferida operatória pelo risco de infecção intracavitária.
+D trocar antibiotioterapia, indicar a realização de exame de imagem pelo risco de infecção intracavitária.
+E manter antibiotioterapia, indicar a exploração cirúrgica da ferida operatória pelo risco de infecção intracavitária.
 
 QUESTÃO 84
 A tuberculose (TB) é um problema de saúde pública no Brasil. A identificação precoce de pessoas com TB é imprescindível para a quebra da cadeia de transmissão da doença. No Brasil, em 2008, a TB foi a quarta causa de morte por doenças infecciosas e a primeira causa de morte em pacientes com AIDS. Com o aumento do número de casos de pacientes com AIDS na população prisional, eleva-se a quantidade de pacientes com TB. Neste cenário, o indicador que expressa o número de casos novos da doença nesta população no período de 1 ano é:
@@ -794,20 +794,20 @@ E parada secundária de descida; indicar operação cesariana.
 QUESTÃO 89
 Homem com 28 anos de idade chega ao Serviço de Urgência de um hospital de atenção secundária cerca de 30 minutos após colisão automobilística. Está confuso, queixando-se de muita falta de ar e dor no hemitórax direito. Apresenta uma fratura fechada da tíbia direita, sem sangramento ativo. Ao exame físico mostra-se descorado (++/++++), frequência cardíaca = 128 bpm, pressão arterial = 90 x 60 mmHg e frequência respiratória = 40 irpm. A ausculta pulmonar revela murmúrio vesicular ausente à direita. A percussão mostra macicez do hemitórax direito. O oxímetro de pulso mostra saturação de oxigênio de 92% (ar ambiente). O paciente apresenta várias escoriações pelo corpo. A conduta mais adequada para este paciente, após aferição da permeabilidade de vias aéreas, estabilização da coluna cervical e oxigenoterapia suplementar, é a realização de:
 
-A punção pericárdica no espaço subxifoide.
+A punção pericárdica no espaço subxifóide.
 B drenagem pleural no 2.º espaço intercostal na linha hemiclavicular.
 C radiografia simples de tórax no leito para diagnóstico definitivo e posterior conduta.
 D punção torácica com cateter de grosso calibre no 2.º espaço intercostal na linha hemiclavicular.
 E drenagem pleural no 5.º espaço intercostal na linha axilar anterior, com preparo de material para autotransfusão.
 
 QUESTÃO 90
-Recém-nascido com 36 semanas de idade gestacional, parto cesariano, Apgar 6 e 8, peso de nascimento = 2.100 g, evoluiu com sintomas precoces e graves nas primeiras 24 horas de vida (icterícia, hepatoesplenomegalia, elevação das enzimas hepáticas, anemia, trombocitopenia e hemorragia), associados ao quadro de microcefalia com calcificações cerebrais periventriculares, microftalmia, coriorretinite e surdez. A principal hipótese diagnóstica para esta infecção congênita e o tratamento de escolha são, respectivamente:
+Recém-nascido com 36 semanas de idade gestacional, parto cesariano, Apgar 6 e 8, peso de nascimento = 2.100 g, evoluiu com sintomas precoces e graves nas primeiras 24 horas de vida (icterícia, hepatoesplenomegalia, elevação das enzimas hepáticas, anemia, trombocitopenia e hemorragia), associados ao quadro de microcefalia com calcificações cerebrais periventriculares, microftalmia, corriorretinite e surdez. A principal hipótese diagnóstica para esta infecção congênita e o tratamento de escolha são, respectivamente:
 
 A herpes simples e aciclovir.
 B citomegalovírus e ganciclovir.
 C rubéola e tratamento de suporte.
 D sífilis congênita e penicilina cristalina.
-E toxoplasmose e pirimetamina/sulfadiazina.
+E toxoplasmose e piremetamina/sulfadiazina.
 
 QUESTÃO 91
 Paciente com 17 anos de idade, primípara, encontra-se no 7.º dia pós-parto e permanece internada no alojamento conjunto, acompanhando seu recém-nascido, em tratamento de sepse neonatal. Nesse período, a paciente começa a apresentar quadro de insônia, delírios de grandeza, alternados com manifestações paranoides. Diz que ouve vozes e vê sombras que querem pegá-la e trocar seu bebê. Durante o dia, apresenta agitação psicomotora ininterrupta. Ela não apresenta nenhum sintoma associado a infanticídio ou ideário negativo em relação à sua maternidade, mas diz que prefere morrer a ser "pega pelas sombras". A família nega qualquer quadro anterior semelhante. Baseado na sintomatologia apresentada, o diagnóstico é:
@@ -945,7 +945,7 @@ Lactente com 6 meses de idade, chega ao Pronto-Socorro com história de irritabi
 
 A herpes zoster; internação para administração de analgésicos e corticoide endovenosos e lidocaína tópica.
 B herpes simples; internação para administração de medicação antiviral e corticoide endovenosos.
-C coxsackiose; tratamento domiciliar com antibiótico e embocação oral com anestésico.
+C coxsackiose; tratamento domiciliar com antibiótico e embrocação oral com anestésico.
 D varicela; acompanhamento ambulatorial e prescrição de sintomáticos.
 E exantema súbito; prescrição de sintomáticos e observação de sinais de piora.
 
