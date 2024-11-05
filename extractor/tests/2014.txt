@@ -23,7 +23,7 @@ Uma paciente com 23 anos de idade, branca, solteira, procura Unidade Básica de 
 A uso de camisinha; aplicação de nistatina local.
 B utilização de tampão vaginal; cefalexina por via endovenosa.
 C uso de anovulatórios orais; penicilina benzatínica por via intramuscular.
-D prática de relação sexual vaginal; trimetoprim com sulfametoxazol por via oral.
+D prática de relação sexual vaginal; trimetroprim com sulfametoxazol por via oral.
 
 QUESTÃO 4
 Uma mulher, com 25 anos de idade e seis semanas de atraso menstrual, compareceu ao Pronto Atendimento com queixa de dor em abdome inferior há quatro horas. A dor se irradia para o ombro esquerdo, acompanhada de sangramento vaginal de leve intensidade, há dois dias. A paciente fez teste de gravidez em urina, que revelou resultado positivo. Ao exame físico apresentou estado geral regular, mucosas hipocoradas ++/4+, pulso = 110 bpm, pressão arterial = 80 x 60 mmHg, abdome distendido e doloroso. O exame especular revelou sangramento em pequena quantidade pelo colo uterino. Ao toque vaginal apresentou útero aumentado em duas vezes o seu volume, globoso, com amolecimento do colo uterino, fundo de saco doloroso e abaulado. A conduta indicada é:
@@ -218,7 +218,7 @@ C decisões compartilhadas entre a ESF, os familiares e o idoso sobre as suas ne
 D restrição de cuidados médicos e de procedimentos de média e alta complexidade, como recomendam os princípios da referência e contrarreferência.
 
 QUESTÃO 28
-Um paciente com 50 anos de idade, com diagnóstico de hipertensão pulmonar idiopática, com antecedente de internação prévia há um ano, devido a dispneia aos esforços e anasarca, deu entrada no Pronto-Socorro por ter apresentado episódio de síncope durante relação sexual. Refere fazer uso de diltiazem regularmente e informa que nos últimos dois meses houve evolução da dispneia para pequenos esforços e surgimento de letargia. Nas últimas duas semanas, vem evoluindo com dor abdominal em hipocôndrio direito e edema de membros inferiores e apresentou ainda três episódios de dor precordial em aperto, sem irradiação, desencadeados por grandes esforços. Ao exame físico mostra-se com estado geral regular, eupneico em repouso, orientado, sem déficits neurológicos. A ausculta cardíaca revela ritmo regular, com hiperfonese de B2, sem sopros, frequência cardíaca = 92 bpm, pressão arterial = 100x65 mmHg. Observa-se turgência jugular a 45º e a ausculta pulmonar é normal. A palpação da borda hepática, a cerca de 5 cm do rebordo costal direito, é levemente dolorosa. Há edema de membros inferiores, atingindo até a coxa e parede abdominal, +++/4+, frio e indolor. Foram realizados radiografia de tórax (incidência póstero-anterior) e eletrocardiograma (ECG), mostrados a seguir. Os achados desses exames são
+Um paciente com 50 anos de idade, com diagnóstico de hipertensão pulmonar idiopática, com antecedente de internação prévia há um ano, devido a dispneia aos esforços e anasarca, deu entrada no Pronto-Socorro por ter apresentado episódio de síncope durante relação sexual. Refere fazer uso de diltiazen regularmente e informa que nos últimos dois meses houve evolução da dispneia para pequenos esforços e surgimento de letargia. Nas últimas duas semanas, vem evoluindo com dor abdominal em hipocôndrio direito e edema de membros inferiores e apresentou ainda três episódios de dor precordial em aperto, sem irradiação, desencadeados por grandes esforços. Ao exame físico mostra-se com estado geral regular, eupneico em repouso, orientado, sem déficits neurológicos. A ausculta cardíaca revela ritmo regular, com hiperfonese de B2, sem sopros, frequência cardíaca = 92 bpm, pressão arterial = 100x65 mmHg. Observa-se turgência jugular a 45º e a ausculta pulmonar é normal. A palpação da borda hepática, a cerca de 5 cm do rebordo costal direito, é levemente dolorosa. Há edema de membros inferiores, atingindo até a coxa e parede abdominal, +++/4+, frio e indolor. Foram realizados radiografia de tórax (incidência póstero-anterior) e eletrocardiograma (ECG), mostrados a seguir. Os achados desses exames são
 
 A radiografia de tórax: abaulamento do tronco da artéria pulmonar e redução da trama vascular periférica pulmonar; ECG: bloqueio de ramo direito, desvio do eixo cardíaco para a direita e padrão de repolarização ventricular do tipo strain.
 B radiografia de tórax: abaulamento do tronco da artéria pulmonar e redistribuição da trama vascular para os ápices pulmonares; ECG: bloqueio de ramo esquerdo, desvio do eixo cardíaco para a direita e padrão de repolarização ventricular do tipo strain.
@@ -378,7 +378,7 @@ C planejar, gerenciar e avaliar as atividades desenvolvidas pelo Agente Comunit�
 D cadastrar todas as pessoas de sua área no território e manter os cadastros atualizados.
 
 QUESTÃO 48
-Uma mulher com 47 anos de idade procura atendimento em Posto de Saúde com queixa de astenia. Foram solicitados exames de sangue que revelaram aumento (2,5 vezes o valor normal) nos níveis séricos de aspartato aminotransferase (AST) e alanina aminotransferase (ALT). A investigação inicial mostrou que a paciente encontra-se monoinfectada pelo vírus da hepatite C (VHC), sendo, portanto, encaminhada ao hepatologista, que solicitou novos exames complementares, cujos resultados foram: RNA-VHC = 381.420 UI/mL, genótipo viral 1b e ultrassonografia abdominal com moderada alteração da ecogenicidade do parênquima hepático. Apresenta ainda escore de Child-Pugh igual a 4. A biópsia hepática realizada revelou fibrose discreta (F1 da classificação histológica Metavir). Com base no quadro apresentado, que fator está associado com uma pior resposta ao tratamento antiviral?
+Uma mulher com 47 anos de idade procura atendimento em Posto de Saúde com queixa de astenia. Foram solicitados exames de sangue que revelaram aumento (2,5 vezes o valor normal) nos níveis séricos de aspartato amino transferase (AST) e alanina amino transferase (ALT). A investigação inicial mostrou que a paciente encontra-se monoinfectada pelo vírus da hepatite C (VHC), sendo, portanto, encaminhada ao hepatologista, que solicitou novos exames complementares, cujos resultados foram: RNA-VHC = 381.420 UI/mL, genótipo viral 1b e ultrassonografia abdominal com moderada alteração da ecogenicidade do parênquima hepático. Apresenta ainda escore de Child-Pugh igual a 4. A biópsia hepática realizada revelou fibrose discreta (F1 da classificação histológica Metavir). Com base no quadro apresentado, que fator está associado com uma pior resposta ao tratamento antiviral?
 
 A Carga viral.
 B Genótipo viral.
@@ -469,15 +469,15 @@ QUESTÃO 59
 Uma mulher com 22 anos de idade, sexualmente ativa, apresenta, há um mês, leucorreia amarelo-esverdeada, de odor fétido. Refere novo parceiro sexual há três meses. Faz uso regular de anticoncepcional combinado oral. Ao exame ginecológico observam-se as imagens mostradas acima. O agente etiológico responsável pelo quadro clínico dessa paciente é
 
 A Trichomonas vaginalis.
-B Chlamydia trachomatis.
-C Neisseria gonorrhoeae.
+B Chlamydia tracomatis.
+C Neisseria gonorrehae.
 D Candida albicans.
 
 QUESTÃO 60
 Um homem com 55 anos de idade procura Unidade Básica de Saúde (UBS) queixando-se que há três meses apresenta cor amarelada da pele e dos "olhos", com coceira e urina muito escura. Refere piora progressiva dos sintomas há cerca de 25 dias. Sente cansaço progressivo, que associa a emagrecimento de 20 kg nos últimos seis meses. Eventualmente refere dor em mesogástrio e nas costas, que melhora com antiácidos e jejum. História pregressa de etilismo (destilados) há mais de 30 anos. Retorna à UBS após 45 dias da primeira consulta, trazendo ultrassonografia abdominal que evidencia dilatação de vias biliares intra e extra-hepáticas. A hipótese diagnóstica e a conduta correta são
 
 A hepatite alcoólica e realização de biópsia hepática transparietal.
-B adenocarcinoma de pâncreas e realização de colangiorressonância magnética.
+B adenocarcinoma de pâncreas e realização de colangioressonância magnética.
 C adenocarcinoma de pâncreas e realização de tomografia abdominal contrastada.
 D pancreatite aguda e realização de colangiopancreatografia endoscópica retrógrada.
 
@@ -558,7 +558,7 @@ Em consulta regular na Unidade Básica de Saúde, uma adolescente, com 16 anos d
 
 A laparoscopia diagnóstica, pois trata-se de endometriose, comum em anemia falciforme.
 B ultrassom de abdome superior, pois trata-se de cólica biliar por colelitíase, comum na anemia falciforme.
-C hemograma, pois trata-se de crise de falcização com dor localizada em hipocôndrio direito por trombose de artéria hepática.
+C hemograma, pois trata-se de crise de falcilização com dor localizada em hipocôndrio direito por trombose de artéria hepática.
 D tomografia de abdome superior, para avaliação de esplenomegalia e também investigação de colelitíase, ambos comuns na anemia falciforme.
 
 QUESTÃO 71
@@ -686,7 +686,7 @@ Uma criança, do sexo feminino, com 2 anos de idade foi internada na Enfermaria 
 
 A diarreia funcional; dosagem de eletrólitos séricos e pesquisa da gordura fecal.
 B doença celíaca; dosagem de anticorpos antiendomísio e antitransglutaminase e biópsia intestinal.
-C doença de Crohn; dosagem do ASCA (anticorpo anti-Saccharomyces cerevisiae) e enema opaco.
+C doença de Crohn; dosagem do ASCA (anticorpo anti-Saccharomyces cerevisie) e enema opaco.
 D retocolite ulcerativa; dosagem do p-ANCA (anticorpo perinuclear contra estruturas citoplasmáticas do neutrófilo) e biópsia de cólon.
 
 QUESTÃO 87
@@ -808,7 +808,7 @@ Um homem com 24 anos de idade, geólogo, irá viajar em expedição na Amazônia
 
 A Solicitar ao paciente o seu itinerário e pedir que ele retorne em dois dias para que seja informado acerca da conduta adequada, pois a estimativa do risco do viajante adquirir malária no destino deve levar em consideração a Incidência Parasitária Anual (IPA).
 B Orientar o paciente a vacinar-se pelo menos dez dias antes da viagem, tendo em vista que, apesar de a malária ser uma doença grave sem tratamento específico, possui uma vacina segura e eficaz. Informar que não é necessário tomar a vacina se ele já foi vacinado nos últimos dez anos e orientá-lo a levar o cartão de vacinação na bagagem.
-C Orientar o paciente a tomar as seguintes medidas de proteção contra picadas de mosquitos: uso de roupas claras e com manga longa; uso de mosquiteiro impregnado com piretroides e uso de repelentes à base de dietilmetiloamida (DEET), principalmente ao amanhecer e ao pôr do sol.
+C Orientar o paciente a tomar as seguintes medidas de proteção contra picadas de mosquitos: uso de roupas claras e com manga longa; uso de mosquiteiro impregnado com piretroides e uso de repelentes à base de dietilmetaloamida (DEET), principalmente ao amanhecer e ao pôr do sol.
 D Informar ao paciente que a medida de prevenção mais segura contra a malária é a quimioprofilaxia (QPX), que consiste no uso de drogas antimaláricas em doses subterapêuticas. O esquema não previne, no entanto, infecção pelo Plasmodium sp ou recaídas por P. vivax ou P. ovale.
 
 QUESTÃO 102
@@ -841,7 +841,7 @@ Uma adolescente, com 15 anos de idade, vem à consulta com queixa de dor precord
 A Doença de Kawasaki.
 B Artrite idiopática juvenil.
 C Artrite reativa pós-estreptocóccica.
-D Lúpus eritematoso sistêmico juvenil.
+D Lupus eritematoso sistêmico juvenil.
 
 QUESTÃO 106
 Uma mulher, com 76 anos de idade, apresenta antecedentes de hipertensão arterial, dislipidemia e obesidade, e faz uso de enalapril - 20 mg/dia e sinvastatina - 20 mg/dia. A paciente deu entrada no Pronto-Socorro com quadro de dor abdominal de início súbito há cerca de sete horas, de forte intensidade, em região epigástrica, com irradiação para o dorso, sem relação com a alimentação e acompanhada por náuseas e vômitos. Refere haver leve melhora da dor com a inclinação do corpo para frente. Na admissão hospitalar estava consciente, orientada, anictérica, com palidez cutâneo-mucosa. Temperatura axilar = 36 ºC, pressão arterial = 100 × 60 mmHg, frequência cardíaca = 105 bpm, frequência respiratória = 18 irpm, índice de massa corporal = 34,2 kg/m² (Valor de referência = até 30 kg/m²). As auscultas cardíaca e pulmonar não demonstraram alterações. Abdome obeso, muito doloroso à palpação superficial e profunda em epigástrio, sem massas ou organomegalias palpáveis. Ruídos hidroaéreos ausentes. Não havia edema de membros inferiores. Os exames laboratoriais iniciais revelaram: Leucócitos = 14.500/mm³ (Valor de referência: 4.500 - 11.000/mm³), com 84% de segmentados, 0% de eosinófilos, 10% de linfócitos); hemoglobina = 13,0 g/dL (Valor de referência: 12-16 g/dL); hematócrito = 39% (Valor de referência: 36%-46%); plaquetas = 231.000/mm³ (Valor de referência: 150.000-350.000/mm³); glicemia = 106 mg/dL (Valor de referência: 80-100 mg/dL); ureia = 70 mg/dL (Valor de referência: 20-35 mg/dL); creatinina = 1,2 mg/dL (Valor de referência: 0,8-1,2 mg/dL); amilase = 2560 U/L (Valor de referência: 4-400 U/L); AST = 26 U/L (Valor de referência: <35 U/L); ALT = 31 U/L (Valor de referência: < 35 U/L); bilirrubina total = 1,5 mg/dL (Valor de referência: 0,3 - 1,2 mg/dL); bilirrubina direta = 0,4 mg/dL (Valor de referência: < 0,2 mg/dL); bilirrubina indireta = 0,8 mg/dL (Valor de referência: <1,0 mg/dL); LDH = 200 U/L (Valor de referência: 135-214 U/L). Considerando o diagnóstico da paciente, assinale a alternativa que contém critérios clínicos e/ou laboratoriais de maior gravidade e pior prognóstico e que sugerem a necessidade de internação em Unidade de Tratamento Intensivo.
