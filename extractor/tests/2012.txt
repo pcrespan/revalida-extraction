@@ -521,7 +521,7 @@ A manutenção do tratamento para tuberculose e encaminhamento para serviço de 
 B suspensão do tratamento para tuberculose e encaminhamento para serviço de referência, mantendo o acompanhamento à paciente.
 C suspensão temporária do esquema terapêutico para a tuberculose, início da terapia antirretroviral; retomada do tratamento para tuberculose após 30 dias.
 D alteração do tratamento, com prolongamento da duração para 9 meses: Rifampicina + Hidrazida + Pirazinamida + Etambutol por 2 meses e Rifampicina + Hidrazida por 7 meses.
-E substituição do esquema terapêutico da tuberculose para Estreptomicina + Etambutol + Linezolida + Pirazinamida + Terizidona por 2 meses e Etambutol + Linezolida + Terizidona por 4 meses.
+E substituição do esquema terapêutico da tuberculose para Estreptomicina + Etambutol + Linesolida + Pirazinamida + Terizidona por 2 meses e Etambutol + Linesolida + Terizidona por 4 meses.
 
 QUESTÃO 57
 Um lactente de 4 meses de idade é levado à Unidade Básica de Saúde apresentando tumoração em axila direita. A criança está em aleitamento materno exclusivo e sua situação vacinal é adequada. Ao exame: peso = 5,5 kg, temperatura axilar = 37,1 °C, chorosa, lesão tumoral de aproximadamente 3 cm, com ponto de flutuação central em axila direita. A conduta mais adequada no momento para esse lactente é
@@ -537,7 +537,7 @@ Uma estudante de 14 anos, sem vida sexual ativa, veio à consulta ginecológica 
 
 A Diurético e antidepressivo.
 B Benzodiazepínico e gestrinona.
-C Psicoterapia e bromocriptina.
+C Psicoterapia e bromoergocripitina.
 D Dieta balanceada e estrogenioterapia.
 E Atividade física e inibidores das prostaglandinas.
 
@@ -597,7 +597,7 @@ D Eritema nodoso por doença reumática.
 E Reação por imunocomplexos da hanseníase.
 
 QUESTÃO 65
-Uma paciente, 45 anos de idade, quatro partos normais, apresenta constipação intestinal crônica, com grande esforço evacuatório, às vezes com discreto sangramento, visível após a higienização com papel. Há três dias apresenta aumento de nodulações perianais, sangramento em maior quantidade do que o habitual (suja o vaso com sangue), acompanhado de dor anal às evacuações. Ao exame, apresenta exteriorização de mamilos hemorroidários, com edema importante em todos, além de extrusão de coágulo e pequena ulceração em um deles. Ao ser preenchida a ficha de referência para um serviço de Proctologia para essa paciente, qual dos seguintes CID deve ser registrado?
+Uma paciente, 45 anos de idade, quatro partos normais, apresenta constipação intestinal crônica, com grande esforço evacuatório, às vezes com discreto sangramento, visível após a higienização com papel. Há três dias apresenta aumento de nodulações perianais, sangramento em maior quantidade do que o habitual (suja o vaso com sangue), acompanhado de dor anal às evacuações. Ao exame, apresenta exteriorização de mamilos hemorroidários, com edema importante em todos, além de extrusão de coágulo e pequena ulceração em um deles. Ao ser preenchida a ficha de referência para um serviço de Proctologia para essa paciente, qual dos seguintes CID devem ser registrados?
 
 A I84.1 - Hemorroidas internas com outras complicações.
 B I84.2 - Hemorroidas internas sem complicações.
@@ -654,9 +654,9 @@ Uma mulher solteira, de 20 anos de idade, procurou atendimento médico em um Cen
 
 A Ceftriaxona.
 B Norfloxacina.
-C Ciprofloxacina.
+C Ciprofloxaxina.
 D Penicilina benzatina.
-E Sulfametoxazol/Trimpe tropim.
+E Sulfametoxazol/Trimpetropim.
 
 QUESTÃO 70
 Um homem de 39 anos de idade vem, há três anos, em tratamento ambulatorial para doença do refluxo gastroesofágico (DRGE), em uso contínuo de inibidores de bomba de prótons (IBP). Sempre que tenta fazer desmame dos IBP, volta a apresentar graves sintomas da DRGE. Esofagogastroduodenoscopia com biópsia realizada há dois anos evidenciou esofagite, pequena hérnia de hiato (< 3 cm) e estômago normal. O paciente interrompeu o uso de IBP há quatro meses e, devido ao quadro de pirose e dor retroesternal, foi submetido a nova endoscopia digestiva, que revelou processo inflamatório grave e úlceras no terço distal do esôfago. O estômago apresenta-se normal e o teste da urease é positivo. Não foi visualizada hérnia hiatal. Devido ao intenso processo inflamatório, não foi realizada biópsia. O paciente, que não apresenta outras queixas ou comorbidades, é etilista social, tabagista (média de 1,5 maços/dia há 22 anos) e apresenta obesidade leve. Não há outras alterações ao exame físico. O que deve ser feito para encaminhar corretamente o caso acima descrito?
@@ -757,6 +757,24 @@ C Hidratação vigorosa e instalação de sonda nasogástrica.
 D Instalação de sonda retal e aplicação de clister glicerinado.
 E Hidratação vigorosa e antibioticoterapia para esterilização do trato intestinal.
 
+QUESTÃO 81
+Primigesta, 14 anos de idade, na 12. semana de gestação, comparece à Unidade de Saúde da Família acompanhada por seu namorado. Queixa-se de cólicas intensas em baixo ventre e sangramento vaginal, em grande quantidade, há 2 horas. Após exame clínico, o médico constata que a paciente apresenta sinais de instabilidade hemodinâmica em virtude de um abortamento incompleto e indica sua transferência imediata para o serviço hospitalar especializado, para realização de curetagem uterina. A paciente concorda com a indicação do médico, pede para que a situação seja mantida em sigilo, pois seus pais não sabem que ela está grávida. Teme que possam expulsá-la de casa ao saber do ocorrido. Explica que seu namorado é maior de idade e irá acompanhá-la ao hospital.
+
+A manter o sigilo profissional, pois o mesmo somente pode ser quebrado com a autorização da paciente.
+B manter o sigilo profissional, pois a paciente apresentou um responsável maior de idade para acompanhá-la ao hospital.
+C manter o sigilo profissional, pois a paciente demonstra capacidade para avaliar seu problema e de conduzir-se por seus próprios meios para solucioná-lo.
+D comunicar o Conselho Tutelar, que será responsável por revelar a situação de saúde da paciente aos seus pais e intermediar os conflitos que possam surgir.
+E comunicar os pais da paciente, após explicar a ela os motivos que fundamentam a quebra do sigilo profissional.
+
+QUESTÃO 82
+Um paciente com 50 anos de idade, morador de zona rural, em condições precárias, sem banheiro na residência e sem rede de água e esgoto na localidade, procura a Unidade Básica de Saúde (UBS) por apresentar dor abdominal de leve intensidade em epigástrio, que piora com a alimentação, associada a náuseas. Refere também urticária. Realizou exame parasitológico de fezes, que foi negativo. Qual o diagnóstico mais provável nesse caso?
+
+A Ancilostomíase.
+B Ascaridíase.
+C Giardíase.
+D Estrongiloidíase.
+E Esquistossomose.
+
 QUESTÃO 83
 Um médico de família atende uma população de 3.850 pessoas na unidade de saúde em Caruaru, Pernambuco. Atualmente, tem cerca de 305 pessoas com hipertensão cadastradas. Reconhece, porém, que esse número não representa a totalidade das pessoas com pressão arterial alterada. Organiza, em conjunto com a equipe, atividades de grupo por microárea de cada agente comunitário para identificar novos casos e avaliar adesão ao tratamento e controle pressórico. Durante as atividades coletivas, agenda os pacientes recém-diagnosticados para confirmação em consulta, assim como os pacientes descontrolados. Para os sem adesão ao tratamento, reforça as orientações para administração dos medicamentos e mudanças de hábitos. Durante a atividade, toda a equipe participa compartilhando tarefas e resultados. As pessoas que participam do grupo, mas não aderem ao tratamento farmacológico ou não farmacológico, estão em qual estágio de mudança de comportamento, segundo o Modelo Transteórico?
 
@@ -798,7 +816,7 @@ Uma mulher de 45 anos, com queixas de dores articulares há 5 meses, comparece a
 
 A aspirina.
 B colchicina.
-C metotrexato.
+C metotrexate.
 D indometacina.
 E metilprednisona.
 
@@ -872,14 +890,14 @@ A pielonefrite aguda.
 B abscesso subfrênico.
 C pneumotórax espontâneo.
 D pneumonia de base pulmonar D.
-E deiscência de rafia gástrica com pneumoperitônio.
+E deiscência de rafia gástrica com pneumoperitôneo.
 
 QUESTÃO 96
 Uma paciente de 27 anos de idade é encaminhada ao Ambulatório de Ginecologia com história de parto vaginal há sete meses, complicado com hemorragia intensa devido a descolamento prematuro de placenta. Após o parto, suspeitou-se de restos placentários e realizou-se curetagem uterina. A paciente recebeu três unidades de concentrado de hemácias devido ao sangramento intenso. A paciente refere que não menstrua desde o parto e que não amamentou seu filho, referindo não ter produzido leite materno. Não refere uso de medicamentos, cefaleia e anormalidades visuais. Traz teste de fração beta do hormônio gonadotrófico coriônico (Beta - HCG) não reagente. Diante desse quadro clínico, qual a melhor hipótese diagnóstica e as complicações prováveis secundárias ao diagnóstico?
 
 A Síndrome de Sheehan; hipotireoidismo e insuficiência adrenal.
 B Necrose hipofisária posterior; hipertireoidismo e insuficiência adrenal.
-C Síndrome de Asherman; hipertireoidismo e elevação de gonadotrofinas.
+C Síndrome de Asherman; hipertiroidismo e elevação de gonadotrofinas.
 D Aderências intrauterinas; hipotireoidismo e redução de gonadotrofinas.
 E Necrose hipofisária anterior; hipotireoidismo e elevação de gonadotrofinas.
 
@@ -974,11 +992,11 @@ D Pantoprazol, sais de bismuto, furazolidona e claritromicina por 10 dias.
 E Pantoprazol, sais de bismuto, levofloxacina e claritromicina por 10 dias.
 
 QUESTÃO 107
-Um recém-nascido de 20 dias de vida é encaminhado para consulta em ambulatório de especialidade com história de icterícia e baixo peso. A genitora não fez exames de pré-natal e informa que seu filho nasceu "de sete meses" e “pequeno para a idade”, ficando internado na UTI após o nascimento. Ao exame físico, o recém-nascido encontrava-se ictérico, com peso abaixo do percentil 3, apresentando microcefalia e hepatomegalia. Exames: hemograma com plaquetopenia; transaminases elevadas; bilirrubina total de 15 mg/dL (valor de referência < 1,3 mg/dL) e bilirrubina direta de 8 mg/dL (valor de referência < 0,4 mg/dL), sorologia para CMV (citomegalovírus): IgM e IgG positivas. Qual das assertivas abaixo mais contribui com a elucidação diagnóstica da infecção congênita pelo CMV?
+Um recém-nascido de 20 dias de vida é encaminhado para consulta em ambulatório de especialidade com história de icterícia e baixo peso. A genitora não fez exames de pré-natal e informa que seu filho nasceu "de sete meses" e “pequeno para a idade”, ficando internado na UTI após o nascimento. Ao exame físico, o recém-nascido encontrava-se ictérico, com peso abaixo do percentil 3, apresentando microcefalia e hepatoesplenomegalia. Exames: hemograma com plaquetopenia; transaminases elevadas; bilirrubina total de 15 mg/dL (valor de referência < 1,3 mg/dL) e bilirrubina direta de 8 mg/dL (valor de referência < 0,4 mg/dL), sorologia para CMV (citomegalovírus): IgM e IgG positivas. Qual das assertivas abaixo mais contribui com a elucidação diagnóstica da infecção congênita pelo CMV?
 
 A A pesquisa do CMV na urina e/ou saliva será útil para o diagnóstico de infecção congênita após 2 meses.
 B Caso a confirmação diagnóstica não ocorra até a terceira semana de vida, não será possível ser estabelecida.
-C A sorologia IgM e IgG para CMV tem papel limitado no diagnóstico da infecção congênita, devido à baixa especificidade.
+C A sorologia IgM e IgG para CVM tem papel limitado no diagnóstico da infecção congênita, devido à baixa especificidade.
 D A microcefalia, o crescimento intrauterino restrito e a prematuridade são altamente específicos para o diagnóstico de infecção por CMV.
 E Uma tomografia computadorizada revelando calcificações difusas pelo córtex sugeriria fortemente o diagnóstico de infecção por CMV em detrimento das outras infecções congênitas.
 
