@@ -31,7 +31,7 @@ C metoprolol por via endovenosa.
 D nitroglicerina por via endovenosa.
 
 QUESTÃO 5
-Uma menina, com 3 anos de idade, é atendida em uma Unidade Básica de Saúde. A mãe refere que, há 2 semanas, a filha havia apresentado febre de 39 ºC, inapetência e episódios esporádicos de vômitos, ocasião em que foi atendida em Serviço de Pronto Atendimento, sendo coletada urina por sondagem vesical. A análise do sedimento urinário mostrou 50 leucócitos por campo (valor de referência: 5/campo) e a urocultura apresentou crescimento de Escherichia coli 80.000 ufc/ml. Foi prescrita amoxicilina + clavulanato por 10 dias, com melhora clínica. A mãe relata ter sido esse o segundo episódio de infecção urinária nos últimos 6 meses e que a criança permaneceu assintomática nesse intervalo de tempo, não tendo sido realizada nenhuma investigação adicional. A criança apresenta crescimento normal e, ao exame físico, não foram detectadas alterações. Com o objetivo de se obter a confirmação diagnóstica desse caso, a conduta adequada é solicitar
+Uma menina, com 3 anos de idade, é atendida em uma Unidade Básica de Saúde. A mãe refere que, há 2 semanas, a filha havia apresentado febre de 39 ºC, inapetência e episódios esporádicos de vômitos, ocasião em que foi atendida em Serviço de Pronto Atendimento, sendo coletada urina por sondagem vesical. A análise do sedimento urinário mostrou 50 leucócitos por campo (valor de referência: 5/campo) e a urocultura apresentou crescimento de Escherichia coli 80.000 ufc/ml. Foi prescrita amoxacilina + clavulanato por 10 dias, com melhora clínica. A mãe relata ter sido esse o segundo episódio de infecção urinária nos últimos 6 meses e que a criança permaneceu assintomática nesse intervalo de tempo, não tendo sido realizada nenhuma investigação adicional. A criança apresenta crescimento normal e, ao exame físico, não foram detectadas alterações. Com o objetivo de se obter a confirmação diagnóstica desse caso, a conduta adequada é solicitar
 
 A cintilografia com DMSA para investigar a função renal.
 B cintilografia com DTPA para investigar possíveis alterações do trato urinário.
@@ -57,7 +57,7 @@ D Marcar a cirurgia para o dia seguinte; administrar vitamina K e, se necessári
 QUESTÃO 8
 Um homem com 45 anos de idade, trabalhador braçal, com 1,73 m de altura e 105 kg de peso (índice de massa corporal = 35 kg/m²), tabagista (20 cigarros/dia), procurou a Unidade Básica de Saúde com relato de cefaleia constante na região da nuca, que piora no período vespertino. A medida de sua pressão arterial registrou 170 x 100 mmHg. A conduta a ser adotada para esse paciente é
 
-A solicitar exames de sangue e urina para enquadrá-lo no Escore de Framingham.
+A solicitar exames de sangue e urina para enquadrá-lo no Escore de Framinghan.
 B iniciar de imediato tratamento medicamentoso para controle da pressão arterial e orientar mudanças nos hábitos de vida.
 C recomendar a redução do peso e, caso a hipertensão persista após a redução do peso, iniciar o tratamento medicamentoso para controle da pressão arterial.
 D estimular e orientar mudanças nos hábitos de vida, fazer acompanhamento rigoroso com medições diárias da pressão arterial e aguardar resultados para iniciar o tratamento medicamentoso.
@@ -79,7 +79,7 @@ C adenite bacteriana.
 D mononucleose infecciosa.
 
 QUESTÃO 11
-Uma mulher com 25 anos de idade, primigesta, no curso da 16ª semana de gestação, é atendida em consulta pré-natal na Unidade Básica de Saúde. A paciente queixa-se de leve desconforto em baixo ventre e relata que a urina apresenta coloração turva e cheiro forte; nega febre. Os resultados do exame de urina são: cor amarelo âmbar; aspecto ligeiramente turvo; densidade = 1.025 (valor de referência: 1.015 a 1.025); nitrito positivo; proteínas < 30 mg/dL; glicose = 1,0 mg/dL (valor de referência: 1,0 a 16,5 mg/dL); corpos cetônicos ausentes (valor de referência: ausente); pH = 7,5 (valor de referência: 4,5 a 6,5); urobilinogênio < 1 mg/dL (valor de referência: 0,21 a 1,0 mg/dL); bilirrubina ausente (valor de referência: ausente); sangue/hemoglobina presente (+/+++); esterase leucocitária presente; leucócitos = 15/campo (valor de referência: 5/campo); urocultura > 10^5 ufc de Escherichia coli. Considerando o quadro clínico-laboratorial da paciente, o plano terapêutico indicado é
+Uma mulher com 25 anos de idade, primigesta, no curso da 16ª semana de gestação, é atendida em consulta pré-natal na Unidade Básica de Saúde. A paciente queixa-se de leve desconforto em baixo ventre e relata que a urina apresenta coloração turva e cheiro forte; nega febre. Os resultados do exame de urina são: cor amarelo âmbar; aspecto ligeiramente turvo; densidade = 1.025 (valor de referência: 1.015 a 1.025); nitrito positivo; proteínas < 30 mg/dL; glicose = 1,0 mg/dL (valor de referência: 1,0 a 16,5 mg/dL); corpos cetônicos ausentes (valor de referência: ausente); pH = 7,5 (valor de referência: 4,5 a 6,5); urobilogênio < 1 mg/dL (valor de referência: 0,21 a 1,0 mg/dL); bilirrubina ausente (valor de referência: ausente); sangue/hemoglobina presente (+/+++); esterase leucocitária presente; leucócitos = 15/campo (valor de referência: 5/campo); urocultura > 10^5 ufc de Escherichia coli. Considerando o quadro clínico-laboratorial da paciente, o plano terapêutico indicado é
 
 A prescrever norfloxacino 400 mg, a cada 12 horas, durante 7 dias; repetir urocultura no terceiro trimestre.
 B prescrever cefalexina 500 mg, a cada 6 horas, durante 10 dias; repetir urocultura uma semana após o tratamento e a cada mês, até o parto.
@@ -194,7 +194,7 @@ C aguardar a presença do marido da paciente à UBS para realizar consulta médi
 D aguardar a presença do marido da paciente à UBS para instituir o tratamento do casal e, caso ele não compareça espontaneamente à consulta, solicitar novamente seu comparecimento na próxima consulta da paciente ao pré-natal.
 
 QUESTÃO 25
-Um homem com 40 anos de idade, tabagista e etilista crônico, procura assistência médica relatando mal-estar geral, náuseas e vômitos. Refere que apresenta icterícia progressiva há 4 meses e perda de 8 kg de peso no mesmo período. Afirma que procurou serviço médico outras vezes, motivado pela coloração escura da urina e amarelada da pele, mas que não realizou exames solicitados nessas ocasiões. O médico solicita tomografia de abdome e exames laboratoriais, que apresentam o seguinte resultado: hemoglobina = 8,2 g/dL (valor de referência: 13,0 a 16,5 g/dL); hematócrito = 26% (valor de referência: 36 a 54%); leucócitos totais = 13.000/mm³ (valor de referência: 3.600 a 11.000/mm³); glicemia de jejum = 210 mg/dL (valor de referência: 70 a 99 mg/dL); LDH = 350 U/L (valor de referência: 50 a 115 U/L); aspartato aminotransferase = 60 U/L (valor de referência: inferior a 34 U/L); alanino aminotransferase = 66 U/L (valor de referência: 10 a 49 U/L); gama glutamil transferase = 200 U/L (valor de referência: inferior a 73 U/L); bilirrubina total = 7,0 mg/dL (valor de referência: 0,3 a 1,2 mg/dL); bilirrubina direta = 5,8 mg/dL (valor de referência: até 0,35 mg/dL); bilirrubina indireta = 1,2 mg/dL (valor de referência: até 1,0 mg/dL); fosfatase alcalina = 250 U/L (valor de referência: 13 a 43 U/L). A tomografia de abdome é mostrada a seguir. Assinale a opção em que são apresentados o diagnóstico e a conduta adequada ao caso.
+Um homem com 40 anos de idade, tabagista e etilista crônico, procura assistência médica relatando mal-estar geral, náuseas e vômitos. Refere que apresenta icterícia progressiva há 4 meses e perda de 8 kg de peso no mesmo período. Afirma que procurou serviço médico outras vezes, motivado pela coloração escura da urina e amarelada da pele, mas que não realizou exames solicitados nessas ocasiões. O médico solicita tomografia de abdome e exames laboratoriais, que apresentam o seguinte resultado: hemoglobina = 8,2 g/dL (valor de referência: 13,0 a 16,5 g/dL); hematócrito = 26% (valor de referência: 36 a 54%); leucócitos totais = 13.000/mm³ (valor de referência: 3.600 a 11.000/mm³); glicemia de jejum = 210 mg/dL (valor de referência: 70 a 99 mg/dL); LDH = 350 U/L (valor de referência: 50 a 115 U/L); aspartato amino transferase = 60 U/L (valor de referência: inferior a 34 U/L); alanino amino transferase = 66 U/L (valor de referência: 10 a 49 U/L); gama glutamil transferase = 200 U/L (valor de referência: inferior a 73 U/L); bilirrubina total = 7,0 mg/dL (valor de referência: 0,3 a 1,2 mg/dL); bilirrubina direta = 5,8 mg/dL (valor de referência: até 0,35 mg/dL); bilirrubina indireta = 1,2 mg/dL (valor de referência: até 1,0 mg/dL); fosfatase alcalina = 250 U/L (valor de referência: 13 a 43 U/L). A tomografia de abdome é mostrada a seguir. Assinale a opção em que são apresentados o diagnóstico e a conduta adequada ao caso.
 
 A Neoplasia de vesícula biliar; esclarecer o paciente sobre a doença e indicar cirurgia por via laparoscópica.
 B Neoplasia de vesícula biliar; indicar tratamento por via endoscópica (prótese endoscópica) e esclarecer o paciente sobre o prognóstico da moléstia.
@@ -231,7 +231,7 @@ Uma mulher com 25 anos de idade, primigesta, retorna em consulta de pré-natal n
 A posição e apresentação fetal.
 B apresentação e insinuação fetal.
 C variedade de posição e situação fetal.
-D aumentar a dose da amoxacilina para 80 mg/kg/dia, associar clavulanato e reavaliar o paciente após 48 horas na UBS.
+D variedade de posição e apresentação fetal.
 
 QUESTÃO 30
 Durante o plantão em um Hospital Geral, chegam várias vítimas de um acidente com ônibus, as quais, após avaliação, são encaminhadas para cirurgia de urgência. Foi necessário convocar o clínico geral para instrumentar uma laparotomia. A figura abaixo representa a referência de montagem da mesa de instrumentação a ser seguida pelo médico. Nessa situação, o médico instrumentador deve posicionar
@@ -263,7 +263,7 @@ Um menino, com 8 anos de idade, é atendido na Unidade Básica de Saúde (UBS) d
 A quimioprofilaxia com ceftriaxona para mãe, irmã e todas as crianças que estudam na mesma sala do paciente.
 B quimioprofilaxia com rifampicina para mãe, irmã e para os profissionais de saúde da UBS que realizaram o atendimento inicial da criança.
 C quimioprofilaxia com ceftriaxona para mãe e irmã, e vacina conjugada contra o meningococo tipo C para todas as crianças que estudam na mesma sala do paciente.
-D quimioprofilaxia com rifampicina para mãe, irmã e todas as crianças que estudam na mesma sala do paciente.
+D quimioprofilaxia com rifampicina para mãe e irmã, e vacina conjugada contra o meningococo tipo C para todas as crianças que estudam na mesma sala do paciente.
 
 QUESTÃO 34
 Uma mulher com 34 anos de idade, Gesta 2 Para 1, com 10 semanas de gestação, é atendida em consulta pré-natal. Relata diagnóstico de infecção pelo HIV há 4 anos e informa não fazer uso de terapia antirretroviral. Está assintomática no momento. Exames atuais revelam contagem de linfócitos T-CD4+ = 450/mm³ e carga viral indetectável. Diante da situação apresentada, a conduta adequada é
@@ -314,7 +314,7 @@ C Síndrome dos Ovários Policísticos.
 D Síndrome de Rokitansky-Kuster-Hauser.
 
 QUESTÃO 40
-Uma mulher com 48 anos de idade chega ao Centro de Saúde com história de dor e edema nas articulações interfalangeanas proximais do 3º e 4º dedos, metacarpofalangeanas, metatarsofalangeanas e nos pulsos, de comprometimento simétrico, com cerca de 3 meses de evolução e melhora parcial com uso de ibuprofeno de forma irregular. A paciente relata rigidez matinal, com duração de 1 hora e 30 minutos, e que vem evoluindo há aproximadamente 6 meses com fraqueza, mialgia, hiporexia, emagrecimento, bem como tosse seca e dispneia aos grandes esforços. Nega febre e outros sintomas. Ao exame clínico, a paciente encontra-se hipocorada (+/4+), em bom estado geral; linfonodos cervicais anteriores com cerca de 1,0 cm, livres, de consistência fibroelástica, sem sinais flogísticos. Observam-se edema, dor, calor e limitação de movimento das articulações descritas; ausência de deformidades articulares; limitação discreta de movimento das articulações descritas; dolorimento e crepitações nas articulações temporomandibulares; crepitações finas discretas, holoinspiratórias, em ambos os hemitórax. Nos demais aspectos do exame clínico não se observam alterações significativas. Com base no quadro clínico descrito, é correto afirmar que
+Uma mulher com 48 anos de idade chega ao Centro de Saúde com história de dor e edema nas articulações interfalangeanas proximais do 3º e 4º dedos, metacarpofalangeanas, metatarsofalangeanas e nos pulsos, de comprometimento simétrico, com cerca de 3 meses de evolução e melhora parcial com uso de ibuprofeno de forma irregular. A paciente relata rigidez matinal, com duração de 1 hora e 30 minutos, e que vem evoluindo há aproximadamente 6 meses com fraqueza, mialgia, hiporexia, emagrecimento, bem como tosse seca e dispneia aos grandes esforços. Nega febre e outros sintomas. Ao exame clínico, a paciente encontra-se hipocorada (+/4+), em bom estado geral; linfonodos cervicais anteriores com cerca de 1,0 cm, livres, de consistência fibroelástica, sem sinais flogísticos. Observam-se edema, dor, calor e limitação de movimento das articulações descritas; ausência de deformidades articulares; limitação discreta de movimento das articulações descritas; dolorimento e crepitações nas articulações temporomandibulares; crepitações finas discretas, holoinspiratórias, em ambos os hemitoraces. Nos demais aspectos do exame clínico não se observam alterações significativas. Com base no quadro clínico descrito, é correto afirmar que
 
 A a ausência de deformidades, como desvio ulnar do carpo, deformidade em botoeira, mãos em dorso de camelo, dedos em martelo, torna improvável o diagnóstico de artrite reumatoide.
 B o comprometimento de várias articulações pequenas, associado ao provável envolvimento de articulações temporomandibulares, inclui-se entre os critérios diagnósticos de artrite reumatoide.
@@ -402,7 +402,7 @@ Uma mulher com 25 anos de idade chega ao hospital com quadro de dor abdominal di
 
 A pâncreas anular.
 B pinçamento aorto-mesentérico.
-C trombose venosa mesentérica.
+C prombose venosa mesentérica.
 D síndrome de má rotação intestinal.
 
 QUESTÃO 51
@@ -486,7 +486,7 @@ C do Instituto Médico Legal local.
 D do Serviço de Atendimento Móvel de Urgência.
 
 QUESTÃO 61
-Uma mulher com 38 anos de idade deu entrada em uma Unidade de Emergência apresentando dispneia e dor torácica. O quadro teve início 5 dias antes com tosse seca, dor torácica à direita e febre alta. No dia seguinte ao de início do quadro, ela procurou assistência médica, tendo-lhe sido prescrito tratamento com levofloxacina para pneumonia bacteriana comunitária. A paciente relatou evolução com manutenção do quadro febril e das demais queixas; posteriormente, passou também a se sentir cansada, dispneica e com dor precordial do tipo pleurítica. Como não viu melhora do quadro, procurou a Unidade de Emergência onde se encontra no momento. No primeiro atendimento na Unidade de Emergência, a paciente negou tabagismo, etilismo e uso de drogas ilícitas. Sua história patológica pregressa revela apenas cistites de repetição, com último episódio há 2 meses, sempre tratadas com quinolona por via oral. Ao exame físico, apresentou pressão arterial = 85 x 40 mmHg; frequência cardíaca = 120 bpm; frequência respiratória = 28 irpm; temperatura = 38,7 ºC; exame pulmonar compatível com condensação lobar à direita. Foi iniciada oxigenoterapia sob máscara e considerado o diagnóstico de sepse através dos critérios clássicos (síndrome da resposta inflamatória sistêmica com infecção comprovada ou suspeita). Foram colhidas hemoculturas, o lactato sérico foi dosado, o esquema antibiótico foi modificado para cefalosporina de terceira geração + macrolídeo e foi iniciado resgate volêmico generoso. Os exames complementares realizados confirmam a existência de disfunção orgânica grave, com presença de 3 disfunções no escore SOFA (sequential organ-failure assessment): grave injúria renal, com creatinina sérica = 5,8 mg/dL; hipercalemia acentuada, com K+ sérico = 7,2 mEq/L; acidose metabólica importante, com pH = 7,18 e bicarbonato sérico = 12 mEq/L. Foram então instituídas medidas terapêuticas intensivas para controle das disfunções orgânicas, mas, na manhã seguinte, logo após a realização do registro eletrocardiográfico ilustrado a seguir, a paciente apresentou parada cardiorrespiratória em atividade elétrica sem pulso, que foi revertida com a realização das manobras do suporte básico de vida e administração intermitente de adrenalina, bicarbonato de sódio e gluconato de cálcio. Após estabilização hemodinâmica da paciente, foi indicada a instituição imediata de suporte dialítico. Considerando que o registro eletrocardiográfico apresentado indica a causa da parada cardiorrespiratória da paciente, o que motivou a instituição de terapêutica dialítica?
+Uma mulher com 38 anos de idade deu entrada em uma Unidade de Emergência apresentando dispneia e dor torácica. O quadro teve início 5 dias antes com tosse seca, dor torácica à direita e febre alta. No dia seguinte ao de início do quadro, ela procurou assistência médica, tendo-lhe sido prescrito tratamento com levofloxacina para pneumonia bacteriana comunitária. A paciente relatou evolução com manutenção do quadro febril e das demais queixas; posteriormente, passou também a se sentir cansada, dispneica e com dor precordial do tipo pleurítica. Como não viu melhora do quadro, procurou a Unidade de Emergência onde se encontra no momento. No primeiro atendimento na Unidade de Emergência, a paciente negou tabagismo, etilismo e uso de drogas ilícitas. Sua história patológica pregressa revela apenas cistites de repetição, com último episódio há 2 meses, sempre tratadas com quinolona por via oral. Ao exame físico, apresentou pressão arterial = 85 x 40 mmHg; frequência cardíaca = 120 bpm; frequência respiratória = 28 irpm; temperatura = 38,7 ºC; exame pulmonar compatível com condensação lobar à direita. Foi iniciada oxigenioterapia sob máscara e considerado o diagnóstico de sepse através dos critérios clássicos (síndrome da resposta inflamatória sistêmica com infecção comprovada ou suspeita). Foram colhidas hemoculturas, o lactato sérico foi dosado, o esquema antibiótico foi modificado para cefalosporina de terceira geração + macrolídeo e foi iniciado resgate volêmico generoso. Os exames complementares realizados confirmam a existência de disfunção orgânica grave, com presença de 3 disfunções no escore SOFA (sequential organ-failure assessment): grave injúria renal, com creatinina sérica = 5,8 mg/dL; hipercalemia acentuada, com K+ sérico = 7,2 mEq/L; acidose metabólica importante, com pH = 7,18 e bicarbonato sérico = 12 mEq/L. Foram então instituídas medidas terapêuticas intensivas para controle das disfunções orgânicas, mas, na manhã seguinte, logo após a realização do registro eletrocardiográfico ilustrado a seguir, a paciente apresentou parada cardiorrespiratória em atividade elétrica sem pulso, que foi revertida com a realização das manobras do suporte básico de vida e administração intermitente de adrenalina, bicarbonato de sódio e gluconato de cálcio. Após estabilização hemodinâmica da paciente, foi indicada a instituição imediata de suporte dialítico. Considerando que o registro eletrocardiográfico apresentado indica a causa da parada cardiorrespiratória da paciente, o que motivou a instituição de terapêutica dialítica?
 
 A Hipercalemia acentuada e refratária.
 B Acidose metabólica grave e refratária.
@@ -510,7 +510,7 @@ C Hipogonadismo hipogonadotrófico.
 D Imaturidade do eixo hipotálamo-hipófise-ovário.
 
 QUESTÃO 64
-Um médico de uma Unidade Básica de Saúde foi chamado pela direção de uma escola de Ensino Fundamental para avaliar algumas crianças que se apresentavam com os olhos vermelhos. A professora do 3º ano está preocupada com o número crescente de alunos que têm se queixado de dor, sensação de areia nos olhos, lacrimejamento e dificuldade de olhar para ambientes claros. Dos 43 alunos da turma dessa professora, 10 já apresentaram as queixas. Ao examinar as crianças, chama atenção do médico a presença de triquíase com cicatriz na conjuntiva tarsal, hiperemia conjuntival importante e pouca secreção purulenta. Além da orientação sobre medidas de higiene e modo de transmissão do agente etiológico, a conduta nesse caso é
+Um médico de uma Unidade Básica de Saúde foi chamado pela direção de uma escola de Ensino Fundamental para avaliar algumas crianças que se apresentavam com os olhos vermelhos. A professora do 3º ano está preocupada com o número crescente de alunos que têm se queixado de dor, sensação de areia nos olhos, lacrimejamento e dificuldade de olhar para ambientes claros. Dos 43 alunos da turma dessa professora, 10 já apresentaram as queixas. Ao examinar as crianças, chama atenção do médico a presença de triquiase com cicatriz na conjuntiva tarsal, hiperemia conjuntival importante e pouca secreção purulenta. Além da orientação sobre medidas de higiene e modo de transmissão do agente etiológico, a conduta nesse caso é
 
 A afastar do ambiente escolar as crianças que apresentam o problema e prescrever tobramicina 0,3% tópica como tratamento.
 B prescrever medicamentos para alívio dos sintomas e aguardar resolução espontânea do problema nas crianças atingidas.
@@ -603,7 +603,7 @@ Um menino com 9 anos de idade é levado a consulta médica por sua tia. Ela refe
 A fazer Boletim de Ocorrência Policial.
 B notificar a suspeita ao Conselho Tutelar.
 C agendar retorno em 15 dias para reavaliação.
-D solicitar realização de perícia para confirmar a suspeita.
+D solicitar realização de perícia para confirmar a suspeita de violência.
 
 QUESTÃO 76
 Uma mulher com 40 anos de idade, solteira, iniciou seguimento no ambulatório de hepatites após seus exames de rotina terem apresentado resultado positivo para o anticorpo anti-HCV. Ela relatou ser enfermeira em Unidade de Terapia Intensiva há 15 anos e negou comorbidades ou quaisquer outros fatores de risco para contaminação pelo HCV. Na consulta de triagem, o exame físico foi normal e os resultados de exames laboratoriais não apresentaram alteração, à exceção das transaminases hepáticas, com valores 4 vezes acima do normal. No retorno ambulatorial, após 6 meses, foram observados os seguintes resultados de exames: anticorpo anti-HCV positivo (segunda amostra); PCR em tempo real quantitativo para HCV-RNA com carga viral de 600.000 UI/mL (log = 5,78); HCV genótipo 2; transaminases nos mesmos níveis dos exames anteriores; alfa-fetoproteína normal; ELISA anti-HIV negativo. A ultrassonografia de abdome não evidenciou alteração no parênquima hepático e a biópsia hepática, realizada em seguida, evidenciou fibrose portal sem septos (Metavir F1). Considerando-se o caso acima, qual é a conduta indicada e o que deverá ser informado à paciente sobre a possibilidade de resposta ao tratamento?
@@ -702,7 +702,7 @@ C doença hemorroidária grau 2; prescrição de analgésicos, incremento na ing
 D fissura anal com subestenose retal; prescrição de analgésicos, agentes formadores de bolo fecal e banhos de assento em água morna.
 
 QUESTÃO 88
-Um recém-nascido a termo, com 18 horas de vida, apresenta icterícia em face e pescoço. O parto foi normal sem intercorrências. A mãe relata ter realizado o pré-natal corretamente, mas não apresentou o cartão da gestante. Nesse caso, a conduta indicada é
+Um recém-nascido a termo, com 18 horas de vida, apresenta icterícia em face e pescoço. O parto foi normal sem intecorrências. A mãe relata ter realizado o pré-natal corretamente, mas não apresentou o cartão da gestante. Nesse caso, a conduta indicada é
 
 A realizar exsanguineotransfusão.
 B suspender o aleitamento materno.
@@ -731,7 +731,7 @@ Uma adolescente com 15 anos de idade, diagnosticada com diabetes melito tipo 1 h
 A TSH aumentado, com T4 diminuído e anticorpo antiperoxidase negativo.
 B TSH aumentado, com T4 diminuído e anticorpo antiperoxidase positivo.
 C TSH diminuído, com diminuição concomitante de T4 e T3.
-D TSH diminuído, com aumento concomitante de T4.
+D TSH diminuído, com aumento concomitante de T4 e T3.
 
 QUESTÃO 92
 Uma mulher com 40 anos de idade comparece ao hospital com queixa de caroço na mama esquerda, surgido 3 meses após trauma no local. Ao exame físico, palpa-se nódulo de 3 cm no quadrante superior externo da mama esquerda, de consistência endurecida, acompanhado de retração de pele e equimose, sem sinais flogísticos. Nesse caso, o diagnóstico diferencial do carcinoma mamário é
@@ -739,7 +739,7 @@ Uma mulher com 40 anos de idade comparece ao hospital com queixa de caroço na m
 A fibroadenoma.
 B necrose gordurosa.
 C abscesso mamário.
-D tumor Phyllodes de mama.
+D tumor Phylodes de mama.
 
 QUESTÃO 93
 Um menino com 6 anos de idade deu entrada em uma Unidade de Pronto Atendimento, acompanhado pela mãe. Relata que caiu do beliche, de uma altura aproximada de 1 metro, há 3 horas. Na admissão, apresenta-se choroso, com impotência funcional no punho direito e com dor local intensa. O resultado da radiografia do punho direito da criança é apresentado na imagem a seguir. Nesse caso, o diagnóstico e a conduta são
@@ -768,7 +768,7 @@ D Aumentar a dose da sinvastatina, associar anti-hipertensivo e encaminhar o pac
 Questão 96
 Um menino com 7 anos de idade é trazido por sua mãe à Unidade Básica de Saúde, apresentando dor abdominal em cólica e diarreia intermitente há 2 meses. A mãe relata que o filho está apático, pálido, sem vontade de brincar e que apresenta, ainda, episódios de tosse e sibilância, sem antecedentes de atopia. Informa, ainda, que foi realizado um hemograma na semana anterior, cujo resultado demonstra hemoglobina = 8 g/dL (valor de referência: 10,5 a 14,0 g/dL). Nesse caso, a conduta adequada é
 
-A solicitar teste da fita adesiva, para pesquisar Enterobius vermicularis.
+A solicitar teste da fita adesiva, para pesquisar Enterobius vernicularis.
 B solicitar aspirado duodenal para pesquisa de protozoários.
 C solicitar exame parasitológico de fezes, para detecção de helmintos.
 D solicitar exame de fezes por centrifugação, para detecção de trofozoítos.
