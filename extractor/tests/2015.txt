@@ -49,7 +49,7 @@ C apresenta novo episódio de febre reumática, pois estão presentes os seguint
 D apresenta recorrência de febre reumática, com doença cardíaca reumática estabelecida e mais dois critérios menores, além da evidência de infecção estreptocócica anterior.
 
 QUESTÃO 6
-Em uma cidade, ocorreram vários casos de uma doença de notificação compulsória, suficientes para ultrapassar o limite endêmico superior em determinado período. A equipe da Vigilância Epidemiológica, após realizar investigação, elaborou o gráfico ilustrado a seguir, que considera a distribuição do número de casos (eixo vertical) em função do tempo (eixo horizontal), além do período máximo de incubação desta doença (linha mais espessa, abaixo do eixo horizontal). Com base nos dados apresentados, como deveria ser caracterizada essa epidemia?
+Em uma cidade, ocorreram vários casos de uma doença de notificação compulsória, suficientes para ultrapassar o limite endêmico superior em determinado período. A equipe da Vigilância Epidemilógica, após realizar investigação, elaborou o gráfico ilustrado a seguir, que considera a distribuição do número de casos (eixo vertical) em função do tempo (eixo horizontal), além do período máximo de incubação desta doença (linha mais espessa, abaixo do eixo horizontal). Com base nos dados apresentados, como deveria ser caracterizada essa epidemia?
 
 A Exposição maciça, de fonte comum e prolongada.
 B Exposição maciça, de fonte comum, curta duração ou explosiva.
@@ -113,7 +113,7 @@ C aguardar evolução espontânea do período expulsivo.
 D abreviar o período expulsivo com fórceps ou vácuo-extrator.
 
 QUESTÃO 14
-Um paciente de 27 anos de idade procura a Unidade Básica de Saúde preocupado com um abaulamento em região inguinal à direita que surgiu há dois meses. Nega outras queixas. No exame clínico, IMC = 20 Kg/m² (VR = 18 - 25 kg/m²) e não há sinais flogísticos locais; a massa de cerca de 5 cm é facilmente redutível. Ao exame clínico não apresentou dor ou qualquer outro achado. Qual das condutas a seguir é a mais indicada nessa situação?
+Um paciente de 27 anos de idade procura a Unidade Básica de Saúde preocupada com um abaulamento em região inguinal à direita que surgiu há dois meses. Nega outras queixas. No exame clínico, IMC = 20 Kg/m² (VR = 18 - 25 kg/m²) e não há sinais flogísticos locais; a massa de cerca de 5 cm é facilmente redutível. Ao exame clínico não apresentou dor ou qualquer outro achado. Qual das condutas a seguir é a mais indicada nessa situação?
 
 A orientar sobre os riscos de encarceramento, obstrução e estrangulamento, e encaminhar para agendamento de cirurgia.
 B orientar sobre o tratamento conservador e sugerir medidas paliativas considerando o risco de recidiva pós-cirúrgica.
@@ -220,7 +220,7 @@ C Teste de solubilidade da hemoglobina.
 D Cromatografia líquida de alto desempenho.
 
 QUESTÃO 26
-Uma paciente de 37 anos de idade encontra-se internada em hospital de referência há dois dias, com diagnóstico clínico e laboratorial de pancreatite aguda leve. Nega quadro semelhante previamente. O ultrassom abdominal realizado na admissão mostrou colelitíase (cálculos múltiplos) sem dilatação de vias biliares intra e extra-hepáticas. Os exames séricos realizados na admissão mostraram: hemoglobina = 12 g/dL (valor normal = 11 a 15 g/dL); hematócrito = 36% (valor normal = 35 a 45%); glóbulos brancos (GB) = 11.000 mm³ (9% de bastonetes e 80% de segmentados - valores normais: GB entre 4.000 e 11.000 mm³ com menos de 10% de bastonetes); amilase = 2.120 mg/dL (até 120 mg/dL); TGO = 76 (até 40 mg/dL); TGP = 60 (até 25 mg/dL); bilirrubina total = 0,6 (até 0,8 mg/dL); bilirrubina direta = 0,4 (até 0,5 mg/dL); sódio = 134 mEq/L (valor normal entre 135 e 145 mEq/L) e potássio = 3,6 mEq/L (valor normal entre 3,5 e 4,5 mEq/L). Com o tratamento instituído, houve melhora quase completa da dor abdominal e a paciente teve boa aceitação da dieta que foi liberada. Qual a próxima etapa que deveria ser adotada no planejamento terapêutico dessa paciente?
+Uma paciente de 37 anos de idade encontra-se internada em hospital de referência há dois dias, com diagnóstico clínico e laboratorial de pancreatite aguda leve. Nega quadro semelhante previamente. O ultrassom abdominal realizado na admissão mostrou colelitíase (cálculos múltiplos) sem dilatação de vias biliares intra e extra hepáticas. Os exames séricos realizados na admissão mostraram: hemoglobina = 12 g/dL (valor normal = 11 a 15 g/dL); hematócrito = 36% (valor normal = 35 a 45%); glóbulos brancos (GB) = 11.000 mm³ (9% de bastonetes e 80% de segmentados - valores normais: GB entre 4.000 e 11.000 mm³ com menos de 10% de bastonetes); amilase = 2.120 mg/dL (até 120 mg/dL); TGO = 76 (até 40 mg/dL); TGP = 60 (até 25 mg/dL); bilirrubina total = 0,6 (até 0,8 mg/dL); bilirrubina direta = 0,4 (até 0,5 mg/dL); sódio = 134 mEq/L (valor normal entre 135 e 145 mEq/L) e potássio = 3,6 mEq/L (valor normal entre 3,5 e 4,5 mEq/L). Com o tratamento instituído, houve melhora quase completa da dor abdominal e a paciente teve boa aceitação da dieta que foi liberada. Qual a próxima etapa que deveria ser adotada no planejamento terapêutico dessa paciente?
 
 A Agendamento de colecistectomia nessa mesma internação pelo risco de recorrência da pancreatite.
 B Colecistectomia em um período de até três meses para permitir que o processo inflamatório regrida completamente.
@@ -230,7 +230,7 @@ D Alta hospitalar com retorno ambulatorial e colecistectomia, se houver mais um 
 QUESTÃO 27
 Uma mulher de 35 anos de idade, tabagista, assintomática, retorna à Unidade Básica de Saúde para apresentar exame citopatológico de colo uterino. O resultado indica lesão intraepitelial escamosa de baixo grau. Considerando que, na maioria das vezes, a infecção é pelo HPV, conclui-se corretamente que se trata de infecção:
 
-A com potencial oncogênico, devendo-se realizar colposcopia imediatamente.
+A com potencial oncogênico, devendo-se realizar coloposcopia imediatamente.
 B benigna, comum na faixa etária da paciente, devendo-se realizar eletro ou quimiocauterização do colo.
 C com espontâneo regresso na maioria dos casos, devendo-se repetir a citologia em seis meses.
 D com potencial oncogênico, devendo-se solicitar o teste de DNA-HPV para identificar subtipos específicos.
@@ -279,7 +279,7 @@ QUESTÃO 33
 Uma mulher de 35 anos de idade é encaminhada ao Ambulatório de Endocrinologia após a sua médica da Unidade de Saúde da Família ter detectado, em exame clínico de rotina, a presença de um nódulo tireoidiano. Na primeira avaliação da especialista, a paciente revela estar assintomática e receosa, temendo que aquela alteração represente uma neoplasia maligna. A endocrinologista descreve o nódulo como superficial, de diâmetro inferior a 1 cm, indolor, localizado no lobo direito da tireoide, com ausência de linfonodos cervicais e supraclaviculares satélites. Em seguida, solicita dosagem de TSH, T4 e T3 livres e ultrassonografia de tireoide. Os resultados evidenciaram TSH, T4 e T3 livres normais e nódulo tireoidiano de 0,7 cm de diâmetro, com margens imprecisas e microcalcificações, sem linfonodos regionais. Qual deve ser o próximo procedimento a ser realizado no seguimento dessa paciente?
 
 A Punção aspirativa do nódulo tireoidiano por agulha fina.
-B Cintilografia da tireoide para avaliação do nódulo tireoidiano.
+B Cintilografia da tireoide para avaliação do nódulo tiroideano.
 C Excisão cirúrgica do nódulo tireoidiano e exame histopatológico.
 D Ultrassonografias sequenciais da tireoide para acompanhamento.
 
@@ -289,14 +289,14 @@ Uma mulher de 50 anos de idade, branca, empregada doméstica, procura atendiment
 A Osteoartrite; azatioprina 1 mg/kg/dia.
 B Artrite psoriásica; sulfasalazina 2 mg/dia.
 C Síndrome de Reiter; prednisona 1 mg/kg/dia.
-D Artrite reumatoide; metotrexato 7,5 mg/semana.
+D Artrite reumatoide; metotrexate 7,5 mg/semana.
 
 QUESTÃO 35
 Um homem de 23 anos de idade procura a Unidade de Saúde da Família mais próxima da fazenda em que trabalha com queixa de forte dor de cabeça, náuseas, dor abdominal em cólica e salivação excessiva. Apresenta-se prostrado e relata quatro episódios de vômitos. Ao exame clínico, o paciente apresenta dispneia e sudorese de intensidade leve a moderada após pulverização da lavoura. Diante do caso de intoxicação por organofosforado que deve ser notificado à vigilância, qual a gravidade do caso e a conduta mais apropriada?
 
 A Intoxicação aguda grave; atendimento inicial pela equipe, que estabiliza o paciente, solicita exames laboratoriais (hemograma completo com reticulócitos e dosagem da acetilcolinesterase) e acompanha o paciente no ambulatório.
 B Intoxicação aguda moderada; atendimento inicial pela equipe, que administra hidratação oral e antiemético, para, então, encaminhá-lo ao Serviço de Urgência para diagnóstico clínico-laboratorial (incluindo a dosagem plasmática da acetilcolinesterase) e tratamento.
-C Intoxicação aguda leve; atendimento inicial pelo médico da equipe, que prescreverá antiemético e solicitará exames laboratoriais (dosagem plasmática da acetilcolinesterase e glicemia de jejum), recomendando retorno breve para acompanhamento na Unidade de Saúde da Família.
+C Intoxicação aguda leve; atendimento inicial pelo médico da equipe, que prescreverá antiemético e solicitará exames laboratoriais (dosagem plasmática da aceilcolinesterase e glicemia de jejum), recomendando retorno breve para acompanhamento na Unidade de Saúde da Família.
 D Intoxicação crônica leve; atendimento inicial pelo médico da equipe, que administra hidratação oral e antiemético, para, então, encaminhá-lo ao ambulatório especializado de referência em saúde do trabalhador para diagnóstico clínico-laboratorial (incluindo a dosagem da acetilcolinesterase) e tratamento.
 
 QUESTÃO 36
@@ -305,7 +305,7 @@ Uma mulher de 19 anos de idade não fez pré-natal e foi internada na maternidad
 A Estimular o aleitamento materno sob livre demanda.
 B Inibir a lactação com cabergolina e iniciar fórmula láctea para o recém-nascido.
 C Realizar a alimentação do recém-nascido com o leite materno, após ordenha e pasteurização.
-D Liberar a amamentação após avaliação da carga viral e início da terapia antirretroviral para a mãe.
+D Liberar a amamentação após avaliação da carga viral e início da terapia antiretroviral para a mãe.
 
 QUESTÃO 37
 Um paciente de 23 anos de idade, vítima de um assalto ao sair da faculdade, sofreu ferimento por arma branca em parede abdominal anterior há 30 minutos. Foi levado pelos colegas à Unidade de Pronto Atendimento (UPA). Está assintomático, e como o local era pouco iluminado, não viu o tamanho da faca. Ao exame físico, há um ferimento inciso horizontal (2,5 centímetros) na região hipogástrica a cerca de 3 cm à direita da linha alba, apresentando mínimo sangramento, dor abdominal apenas no local do ferimento, sem sinais de irritação peritoneal, pressão arterial = 120 x 80 mmHg, frequência cardíaca = 92 bpm, mucosas normocoradas e enchimento capilar ungueal normal. Qual seria a conduta adequada a ser tomada nesse caso?
@@ -316,7 +316,7 @@ C Realizar a exploração local do ferimento da parede abdominal e definir condu
 D Não suturar o ferimento e encaminhar o paciente imediatamente ao serviço de cirurgia para realização de laparotomia exploradora.
 
 QUESTÃO 38
-Um homem de 42 anos de idade, morador de rua, usuário de crack e de drogas ilícitas injetáveis, comparece à Unidade de Saúde da Família apresentando quadro de tosse produtiva e febre ao final do dia, há 2 meses. Relata despertar na madrugada por sudorese, inapetência e perda ponderal de 20 kg no período. Ao exame físico, apresentava-se consciente, orientado, hipocorado (+/4+), anictérico, desidratado, febril (temperatura axilar = 37,8°C), com frequência cardíaca = 120 bpm e pressão arterial = 120 x 60 mmHg. Aparelho respiratório com tiragem intercostal bilateral e diminuição global do murmúrio vesicular. Aparelho cardiovascular: ritmo cardíaco regular em 2 tempos e bulhas hiperfonéticas. Abdome indolor à palpação superficial e levemente doloroso à palpação profunda sobre a loja hepática, hepatimetria a 2 cm do rebordo costal direito, de consistência lisa e borda romba. Baço palpável a 1,5 cm do rebordo costal esquerdo. Resultados de exames: teste rápido para HIV positivo; hemograma completo - hemoglobina = 8,0 g/dL (normal de 12 a 15 g/dL), hematócrito = 24% (normal = 35 a 45%) e leucopenia = 800 leucócitos/mm³ (normal entre 4.000 e 11.000/mm³); pesquisa de BAAR negativa em 3 amostras de escarro. Foi realizada tomografia computadorizada de tórax, reproduzida na figura a seguir. A partir do quadro clínico, laboratorial e da imagem apresentada, qual seria uma conduta terapêutica adequada?
+Um homem de 42 anos de idade, morador de rua, usuário de crack e de drogas ilícitas injetáveis, comparece à Unidade de Saúde da Família apresentando quadro de tosse produtiva e febre ao final do dia, há 2 meses. Relata despertar na madrugada por sudorese, inapetência e perda ponderal de 20 kg no período. Ao exame físico, apresentava-se consciente, orientado, hipocorado (+/4+), anictérico, desidratado, febril (temperatura axilar = 37,8°C), com frequência cardíaca = 120 bpm e pressão arterial = 120 x 60 mmHg. Aparelho respiratório com tiragem intercostal bilateral e diminuição global do murmúrio vesicular. Aparelho cardiovascular: ritmo cardíaco regular em 2 tempos e bulhas hiperfonéticas. Abdome indolor à palpação superficial e levemente doloroso à palpação profunda sobre a loja hepática, hepatimetria a 2 cm do rebordo costal direito, de consistência lisa e borda romba. Baço palpável a 1,5 cm do rebordo costal esquerdo. Resultados de exames: teste rápido para HIV positivo; hemograma completo - hemoglobina = 8,0 g/dL (normal de 12 a 15 g/dL), hemotócrito = 24% (normal = 35 a 45%) e leucopenia = 800 leucócitos/mm³ (normal entre 4.000 e 11.000/mm³); pesquisa de BAAR negativa em 3 amostras de escarro. Foi realizada tomografia computadorizada de tórax, reproduzida na figura a seguir. A partir do quadro clínico, laboratorial e da imagem apresentada, qual seria uma conduta terapêutica adequada?
 
 A Iniciar o tratamento com antirretroviral (lamivudina + efavirenz + tenofovir) e, após 2 semanas, RIPE (rifampicina + isoniazida + pirazinamida + etambutol) por 6 meses.
 B Iniciar o tratamento com antirretroviral (lamivudina + zidovudina + efavirenz), simultaneamente com o esquema antituberculose estruturado, com rifabutina, por 6 meses.
@@ -395,7 +395,7 @@ C Trata-se de traumatismo leve. Porém, como a criança apresentou cefaleia e v�
 D Trata-se de traumatismo leve de baixo risco e o paciente deve receber alta, orientando-se a família que mantenha observação domiciliar sobre os sinais de alerta e que retorne caso a criança venha a apresentar manifestações clínicas.
 
 QUESTÃO 47
-Uma paciente do sexo feminino, com 20 anos de idade, sexualmente ativa, apresenta urgência miccional e disúria há três dias, sem outras comorbidades. A urina encontra-se com coloração turva e cheiro forte. Não tem queixas ginecológicas. Segundo ela, é a quarta vez no ano que tem episódios semelhantes, sempre tratados com sulfametoxazol. Qual é a conduta mais adequada para esse caso?
+Uma paciente do sexo feminino, com 20 anos de idade, sexualmente ativa, apresenta urgência miccional e disúria há três dias, sem outras comorbidades. A urina encontra-se com coloração turva e cheiro forte. Não tem queixas ginecológicas. Segundo ela, é a quarta vez no ano que tem episódios semelhantes, sempre tratados com sulfametaxozol. Qual é a conduta mais adequada para esse caso?
 
 A Orientar a paciente a utilizar cefalexina apenas após o resultado do hemograma.
 B Orientar a paciente a utilizar ciprofloxacina imediatamente após a coleta da urocultura.
@@ -446,7 +446,7 @@ QUESTÃO 53
 Em consulta no ambulatório de Ginecologia, uma paciente de 25 anos de idade retorna para apresentar resultado de citologia cervicovaginal. Relata que teve um parto normal há 5 anos e que atualmente está em uso de contraceptivo oral. Nega queixas gerais ou ginecológicas no momento. O resultado da citologia cérvicovaginal demonstra: citologia satisfatória com presença de atipias em células escamosas tipo lesão intraepitelial de alto grau. Qual a conduta preconizada para essa paciente?
 
 A Proceder à colposcopia com biópsia dirigida de qualquer eventual alteração identificada.
-B Proceder à colposcopia, que deverá ser repetida se o resultado for lesões com aparência de baixo grau.
+B Proceder à coloposcopia, que deverá ser repetida se o resultado for lesões com aparência de baixo grau.
 C Realizar exame clínico do colo uterino e, se não houver lesão visível, repetir a citologia em 6 meses.
 D Colher nova citologia para confirmação diagnóstica, antes de prosseguir com qualquer outra investigação.
 
@@ -471,10 +471,10 @@ Na Enfermaria de um quartel militar constatou-se um aumento súbito e importante
 Número total de indivíduos adultos, do sexo masculino, que participaram do jantar comemorativo no quartel, no dia 12 de janeiro de 2015.
 Analisando os dados do surto epidêmico e a tabela acima, é correto concluir-se que:
 
-A o ovo pode ser apontado como o alimento com maior probabilidade de ser a fonte de contaminação do surto epidêmico descrito.
-B a ingestão de frango associada à ingestão de ovos aumentou a probabilidade de adoecimento durante o surto epidêmico avaliado.
-C o frango pode ser apontado como o alimento com maior probabilidade de ser a fonte de contaminação do surto epidêmico descrito.
-D a ingestão de frango associada à ingestão de ovos diminuiu a probabilidade de adoecimento durante o surto epidêmico avaliado.
+A a ingestão de frango associada à ingestão de ovos diminuiu a probabilidade de adoecimento durante o surto epidêmico avaliado.
+B o ovo pode ser apontado como o alimento com maior probabilidade de ser a fonte de contaminação do surto epidêmico descrito.
+C a ingestão de frango associada à ingestão de ovos aumentou a probabilidade de adoecimento durante o surto epidêmico avaliado.
+D o frango pode ser apontado como o alimento com maior probabilidade de ser a fonte de contaminação do surto epidêmico descrito.
 
 QUESTÃO 57
 Um adolescente do sexo masculino de 12 anos de idade é levado à Emergência para avaliação clínica. Apresenta quadro de febre, cefaleia e vômitos com 12h de evolução. A mãe nega antecedentes patológicos relevantes. Exame físico: bom estado geral, com fotofobia, hipocorado 1+/4+, desidratado 1+/4+, anictérico e acianótico. Aparelho respiratório, ausculta cardíaca e exame abdominal sem anormalidades. Não apresenta sinais focais e as pupilas são isocóricas e fotorreativas. Apresenta sinal de Brudzinski positivo. Exame do líquor evidencia glicose = 40 mg/dL (VR = 40 - 70 mg/dL); 1.000 células/mm³, 80% de neutrófilos (VR = 0 - 5 células/mm³); proteínas = 150 mg/dL (VR = 8 - 32 mg/dL). Tendo em vista o quadro acima descrito, o diagnóstico mais provável e o respectivo tratamento são:
@@ -591,7 +591,7 @@ QUESTÃO 70
 Um homem de 46 anos de idade compareceu a consulta médica na Unidade Básica de Saúde relatando febre alta e calafrios que se iniciaram durante a noite. Além disso, descreve aparecimento de dor na perna esquerda. Ele apresentava antecedentes de varizes e edema crônico nos membros inferiores. Ao exame físico apresenta: temperatura axilar = 39 °C, PA = 140 x 90 mmHg e FC = 100 bpm. Além disso, observam-se extenso eritema, edema e aumento da temperatura no membro inferior esquerdo, com dermatofitose (Tinea pedis), manifestando-se como descamação e fissuras interdigitais no pé esquerdo. No centro da lesão, visualiza-se uma área de rubor mais intensa com formação de flictena. Diante do quadro apresentado, qual seria o tratamento mais indicado?
 
 A Repouso e elevação do membro inferior esquerdo, uso de anti-inflamatórios não hormonais e aplicação de amicacina 500 mg via intramuscular de 12/12 horas.
-B Manter deambulação normal para evitar trombose venosa, uso de sulfametoxazol + trimetoprim, 2 comprimidos de 12/12 horas, tratamento das dermatofitoses com mupirocina.
+B Manter deambulação normal para evitar trombose venosa, uso de sulfametoxazol + trimetopim, 2 comprimidos de 12/12 horas, tratamento das dermatofitoses com mupirocina.
 C Repouso e elevação do membro inferior esquerdo, uso de penicilina G - 1 a 2 milhões de unidades por via endovenosa de 4/4 horas, e aplicação de miconazol para tratamento da dermatofitose.
 D Manter deambulação normal para evitar trombose venosa, aplicação de penicilina benzatina 1.2 milhões UI intramuscular, e uso de mupirocina 2% sobre a área comprometida e sobre as lesões interdigitais por 3 dias.
 
@@ -806,7 +806,7 @@ Uma mulher de 45 anos de idade, com história de diabetes e asma brônquica, est
 A Primária.
 B Secundária.
 C Terciária.
-D Quaternária.
+D Quarternária.
 
 QUESTÃO 94
 Uma mãe e seu recém-nascido (RN) comparecem à Unidade Básica de Saúde em busca de orientações quanto à prevenção da febre amarela, pois viajarão para área endêmica da doença no mês seguinte. A mãe quer informações sobre imunização e deseja saber se a amamentação poderá ser mantida após ela ter recebido a vacina. Nessa situação, deve ser esclarecido que
@@ -881,17 +881,17 @@ C Realizar endoscopia digestiva alta, com biópsias da mucosa gástrica e pesqui
 D Submeter o paciente a testes não invasivos para Helicobacter pylori — se forem positivos, instituir tratamento específico, confirmar erradicação após tratamento e referenciar a especialista, se os sintomas persistirem.
 
 QUESTÃO 102
-Uma menina de 7 anos de idade é levada à Unidade Básica de Saúde devido a acidente doméstico com ferimento corto-contuso do antebraço direito. A lesão tem, aproximadamente, 12 cm de extensão, bordas regulares com sangramento discreto e não ultrapassa a fáscia muscular. A criança pesa 20 quilogramas. Para a realização da sutura, dispõe-se de todo material cirúrgico e de duas apresentações de anestésico local: lidocaína a 1% sem vasoconstritor e lidocaína a 1% com vasoconstritor. A vacinação antitetânica está em dia. Após explicar o procedimento à paciente e à mãe, realizar a antissepsia e a colocação de campos cirúrgicos, a técnica anestésica mais adequada é
+Uma menina de 7 anos de idade é levada à Unidade Básica de Saúde devido a acidente doméstico com ferimento corto-contuso do antebraço direito. A lesão tem, aproximadamente, 12 cm de extensão, bordas regulares com sangramento discreto e não ultrapassa a fáscia muscular. A criança pesa 20 quilogramas. Para a realização da sutura, dispõe-se de todo material cirúrgico e de duas apresentações de anestésico local: lidocaína a 1% sem vasoconstritor e lidocaína a 1% com vasoconstrictor. A vacinação antitetânica está em dia. Após explicar o procedimento à paciente e à mãe, realizar a antissepsia e a colocação de campos cirúrgicos, a técnica anestésica mais adequada é
 
-A infiltrar a pele sadia ao redor do ferimento, utilizando lidocaína a 1% com vasoconstritor.
-B infiltrar a pele sadia ao redor do ferimento, utilizando lidocaína a 1% sem vasoconstritor.
-C infiltrar o tecido subcutâneo por dentro da lesão, utilizando lidocaína a 1% com vasoconstritor.
-D infiltrar o tecido subcutâneo por dentro da lesão, utilizando lidocaína a 1% sem vasoconstritor.
+A infiltrar a pele sadia ao redor do ferimento, utilizando lidocaína a 1% com vasoconstrictor.
+B infiltrar a pele sadia ao redor do ferimento, utilizando lidocaína a 1% sem vasoconstrictor.
+C infiltrar o tecido subcutâneo por dentro da lesão, utilizando lidocaína a 1% com vasoconstrictor.
+D infiltrar o tecido subcutâneo por dentro da lesão, utilizando lidocaína a 1% sem vasoconstrictor.
 
 QUESTÃO 103
 Um homem de 40 anos de idade, asmático, é trazido ao Pronto Socorro, pois está em crise há pelo menos 36 horas, sem melhora, em uso de aminofilina e agonista beta-2 inalatório. Ele relata histórico de tratamento irregular da doença. Ao exame clínico, apresenta-se sonolento, com dificuldade para falar, sendo observado uso da musculatura respiratória acessória. Encontra-se sudoreico e cianótico (++/4+). A ausculta pulmonar detectou murmúrio vesicular reduzido bilateralmente e alguns sibilos inspiratórios e expiratórios. A ausculta cardíaca detectou ritmo cardíaco regular em dois tempos, bulhas normofonéticas sem sopros. Outros exames tiveram como resultado: PA = 140 x 80 mmHg; FC = 115 bpm; FR = 36 irpm; gasometria arterial: PaO2 = 58 mmHg (VR = 83 a 108 mmHg); SaO2 = 89% (VR = 95 a 99%); PaCO2 = 47 mmHg (VR = 35 a 48 mmHg); hemograma: Hb = 10 g/dL (VR = 13,5 a 17,5 g/dL); leucometria: 8.200 células/mm³ (valor de referência = 4.500 a 11.000 células/mm³); polimorfonucleares: 55% (VR = 54 a 62%); bastonetes: 5% (VR = 3 a 5%). Considerando o quadro clínico apresentado, qual a conduta imediata a ser adotada?
 
-A Administração de beta-agonistas e corticosteroides inalatórios.
+A Administração de beta-agonistas e corticoides inalatórios.
 B Intubação orotraqueal e ventilação mecânica controlada.
 C Ventilação mecânica não invasiva e corticosteroides intravenosos.
 D Administração por via intravenosa de corticosteroides, xantinas e antibiótico de amplo espectro.
@@ -948,6 +948,6 @@ QUESTÃO 110
 Um paciente do sexo masculino, analfabeto, com 45 anos de idade, ajudante de pedreiro, que mora no alojamento da obra, é hipertenso e chega à Unidade de Saúde da Família (USF) com uma receita para retirar seus medicamentos no momento em que a USF estava encerrando o expediente do dia. O técnico da farmácia lê rapidamente a receita: Losartana, 2 caixas. Com pressa, o técnico entrega ao paciente 2 caixas de medicamentos anti-hipertensivos, sem notar que a segunda caixa é de outro medicamento para a hipertensão. Passados 8 dias, o paciente retorna à Unidade com tosse seca e alteração de paladar, mas não consegue ser atendido. Após 15 dias, dá entrada na Unidade de Pronto Atendimento (UPA) com quadro de angioedema e choque anafilático, sendo transferido para hospital, onde fica internado por 7 dias em Centro de Tratamento Intensivo. A partir da análise da situação hipotética acima descrita, é correto afirmar que
 
 A o quadro clínico de entrada na UPA é específico de intoxicação por biguanidas.
-B o quadro de angioedema e choque anafilático se deve à intoxicação por contato com alérgenos no ambiente de trabalho.
+B o quadro de angiodema e choque anafilático se deve à intoxicação por contato com alérgenos no ambiente de trabalho.
 C o quadro clínico de entrada na UPA é característico de reação adversa a antagonistas do receptor da angiotensina II.
 D o quadro clínico de entrada na UPA é característico de reação adversa a inibidores da enzima de conversão da angiotensina.
