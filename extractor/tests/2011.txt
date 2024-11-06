@@ -359,7 +359,7 @@ D Alertar a mãe que aumente seus cuidados para evitar acidentes.
 E Solicitar realização de perícia médico-legal.
 
 QUESTÃO 41
-Paciente, com 57 anos de idade, sexo masculino, chega ao pronto atendimento queixando-se de palpitações que se iniciaram há três dias, associadas à tontura e à dispneia. Relata fazer uso de metimazol 10 mg/dia há um mês por diagnóstico de hipertireoidismo. Faz uso ainda de enalapril 20 mg para hipertensão arterial desde os 45 anos de idade. Ao exame: Pressão arterial = 110 x 70 mmHg; Frequência cardíaca = 160 BPM; Frequência respiratória = 26 irmp; rítmo cardíaco taquicárdico, irregular, em dois tempos, sem sopros; murmúrio vesicular fisiológico com crepitações bibasais; abdome livre, indolor, ruídos hidroaéreos positivos; aparelho locomotor sem alterações. Saturação periférica de oxigênio de 87%. Solicitado ECG:
+Paciente, com 57 anos de idade, sexo masculino, chega ao pronto atendimento queixando-se de palpitações que se iniciaram há três dias, associadas à tontura e à dispneia. Relata fazer uso de metimazol 10 mg/dia há um mês por diagnóstico de hipertireoidismo. Faz uso ainda de enalapril 20 mg para hipertensão arterial desde os 45 anos de idade. Ao exame: Pressão arterial = 110 x 70 mmHg; Frequência cardíaca = 160 BPM; Frequência respiratória = 26 irmp; rítmo cardíaco taquicárdico, irregular, em dois tempos, sem sopros; murmúrio vesicular fisiológico com crepitações bibasais; abdome livre, indolor, ruídos hidroaéreos positivos; aparelho locomotor sem alterações. Saturação periférica de oxigênio de 87%. Solicitado ECG: Instalada a suplementação de oxigênio e monitorização cardíaca. Assinale a alternativa que identifica a arritmia e a conduta a ser tomada ainda na sala de pronto atendimento.
 
 A Flutter atrial e amiodarona.
 B Taquicardia supra ventricular paroxística e procainamida.
@@ -433,7 +433,8 @@ E a ultrassonografia com Doppler por ter ótimo valor preditivo positivo e ser p
 QUESTÃO 49
 Um menino, com um ano de idade, está sendo atendido no Pronto-Socorro de Pediatria com histórico de febre alta, falta de apetite e irritabilidade há dois dias. A mãe informou que hoje a criança apresentou vômitos, tremores e recusou toda a alimentação. Ao exame físico, apresenta-se hipoativo, com desidratação de primeiro grau e febre (39 ºC). Para a investigação desse quadro febril, sem foco aparente, foram realizados os seguintes exames:
 Estudo do líquor: normal
-Eritrograma: Hb: 11,5 g/dL Ht: 37,5 %. Leucograma: 25.000/mm³, com 10% de bastonetes. Plaquetas: normais
+Eritrograma: Hb: 11,5 g/dL Ht: 37,5 %.
+Leucograma: 25.000/mm³, com 10% de bastonetes. Plaquetas: normais
 Exame sumário de urina (colhido com saco coletor): nitrito positivo; leucócitos: 430.000/ml; eritrócitos: 15.000/ml
 Urocultura: em execução
 Com base na suspeita de infecção urinária, qual é a conduta a ser adotada?
