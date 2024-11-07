@@ -1309,7 +1309,7 @@
     },
     {
         "numero": 110,
-        "enunciado": "Foi realizado estudo epidemiológico, durante período de 10 anos, entre indivíduos usuários de uma determinada droga, alguns a usavam por via inalatória, outros, por via intravenosa. O objetivo do estudo foi averiguar se a via de administração da droga poderia estar relacionada com maior mortalidade em um dos grupos.\n\nOs dados disponíveis do estudo são:\nÓbito\tNão-óbito\nInjetável\t400\t4600\nInalatória\t80\t1920\n\nQual o risco relativo de morte ao se usar a droga na forma injetável em relação à forma inalatória?",
+        "enunciado": "Foi realizado estudo epidemiológico, durante período de 10 anos, entre indivíduos usuários de uma determinada droga, alguns a usavam por via inalatória, outros, por via intravenosa. O objetivo do estudo foi averiguar se a via de administração da droga poderia estar relacionada com maior mortalidade em um dos grupos.\n\nOs dados disponíveis do estudo são:\n |            | Óbito | Não-óbito |\n| ---------- | ----- | --------- |\n| Injetável  | 400   | 4600      |\n| Inalatória | 80    | 1920      | \n\nQual o risco relativo de morte ao se usar a droga na forma injetável em relação à forma inalatória?",
         "alternativas": {
             "A": "1.",
             "B": "2.",
