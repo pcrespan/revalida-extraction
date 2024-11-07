@@ -9,7 +9,8 @@
             "D": "requer acompanhamento imediato quando aparecerem indícios de complicações.",
             "E": "requer antibioticoterapia imediata e uso de antiespasmódicos."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 2,
@@ -21,7 +22,8 @@
             "D": "administrar a vacina contra varicela e o aciclovir por 10 dias.",
             "E": "administrar a vacina contra varicela e imunoglobulina específica."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 3,
@@ -33,7 +35,8 @@
             "D": "o desenvolvimento de miomas.",
             "E": "o câncer de ovário."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 4,
@@ -45,7 +48,8 @@
             "D": "Tuberculose genital (ovário e trompa).",
             "E": "Abscesso ovariano."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 5,
@@ -57,7 +61,8 @@
             "D": "anemia carencial ferropriva e dosagem da ferritina sérica.",
             "E": "talassemia e dosagem de ferro sérico."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 6,
@@ -69,7 +74,8 @@
             "D": "a existência de risco pelo IMC pré-gravídico superior a 27Kg/m².",
             "E": "a ausência de risco pela inexistência de antecedentes familiares da gestante."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 7,
@@ -81,7 +87,8 @@
             "D": "Solicitar radiografia de tórax com proteção abdominal e iniciar claritromicina oral.",
             "E": "Solicitar tomografia computadorizada do tórax e iniciar vancomicina injetável."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 8,
@@ -93,7 +100,8 @@
             "D": "Anemia por deficiência na síntese do heme durante a diferenciação das células eritroides.",
             "E": "Anemia por deficiência na síntese da globina durante a diferenciação das células eritroides."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 9,
@@ -105,7 +113,8 @@
             "D": "estrongiloidíase; utilizar secnidazol, 25 mg/Kg, uma vez ao dia, de cinco a sete dias.",
             "E": "amebíase; utilizar secnidazol, 30 mg/Kg, dose única."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 10,
@@ -117,7 +126,8 @@
             "D": "guardar repouso em observação e reavaliar o quadro após duas horas.",
             "E": "administrar nifedipina sem associação de corticoesteróide."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 11,
@@ -129,7 +139,8 @@
             "D": "rola sem auxílio e reconhece pessoas.",
             "E": "firma a cabeça e apanha objetos."
         },
-        "resposta": "X"
+        "resposta": "X",
+        "contains_img": false
     },
     {
         "numero": 12,
@@ -141,7 +152,8 @@
             "D": "aspirar laringe e traqueia do recém-nascido e ventilar com pressão positiva e ar ambiente.",
             "E": "aspirar laringe e traqueia do recém-nascido e oferecer oxigênio inalatório a 100%."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 13,
@@ -153,7 +165,8 @@
             "D": "Prevenção secundária.",
             "E": "Prevenção primária."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 14,
@@ -165,7 +178,8 @@
             "D": "Prescrever antiespasmódicos, dimeticona e solicitar colonoscopia com biópsia e dosagem de antígeno carcino-embrionário.",
             "E": "Encaminhar imediatamente o paciente para avaliação cirúrgica."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 15,
@@ -177,7 +191,8 @@
             "D": "Aguardar a criança atingir 2000 g para aplicar a vacina contra a Hepatite B (primeira dose) e 2500 g para aplicar a vacina BCG.",
             "E": "Aplicar as vacinas BCG e contra a Hepatite B (primeira dose) e programar a segunda dose desta última para 15 dias depois."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 16,
@@ -189,7 +204,8 @@
             "D": "Espironolactona e enalapril.",
             "E": "Digoxina e hidroclorotiazida."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 17,
@@ -201,7 +217,8 @@
             "D": "Deve-se a anemia hemolítica por incompatibilidade RH.",
             "E": "Está presente desde o nascimento na hipermaturidade fetal."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 18,
@@ -213,7 +230,8 @@
             "D": "Vólvulo de sigmóide; colonoscopia.",
             "E": "Hematoma intraluminal; colonoscopia."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 19,
@@ -225,7 +243,8 @@
             "D": "Depende da deposição mesangial de C3, fibrina e IgA, e da proliferação de células mesangiais com expansão da matriz.",
             "E": "Manifesta-se por hipercelularidade glomerular, expansão da matriz mesangial e duplicação da membrana basal glomerular."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 20,
@@ -237,7 +256,8 @@
             "D": "Aplicar soro antirábico (dose única) no 10º dia de observação do animal.",
             "E": "Sacrificar o animal imediatamente para evitar contaminação."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 21,
@@ -249,7 +269,8 @@
             "D": "taquicardia ventricular, que pode ser responsiva a cardioversão (choque no modo sincronizado).",
             "E": "taquicardia ventricular, que pode ser responsiva a desfibrilação (choque no modo não sincronizado)."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": true
     },
     {
         "numero": 22,
@@ -261,7 +282,8 @@
             "D": "Aconselhar o paciente a buscar uma unidade de atendimento ambulatorial secundário, em cirurgia geral ou coloproctologia.",
             "E": "Encaminhar o paciente à unidade básica de saúde para solicitar colonoscopia diagnóstica."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 23,
@@ -273,7 +295,8 @@
             "D": "Repassar à gestão estadual o serviço de auditoria dos prestadores locais.",
             "E": "Incorporar recursos financeiros do fundo estadual de saúde."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 24,
@@ -285,7 +308,8 @@
             "D": "Losartana + hidroclorotiazida.",
             "E": "Alisquireno + furosemida."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 25,
@@ -297,7 +321,8 @@
             "D": "o cor pulmonale.",
             "E": "o pneumotórax espontâneo seguido de infecção."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 26,
@@ -309,7 +334,8 @@
             "D": "Ventilação sob máscara e pressão positiva, proteção do ferimento e contenção física, prevenindo o agravo das lesões.",
             "E": "Ventilação sob máscara e pressão positiva, drenagem do hemitórax direito, melhorando assim a perfusão tecidual."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 27,
@@ -321,7 +347,8 @@
             "D": "albendazol por quatro dias e tinidazol em dose única.",
             "E": "albendazol em dose única e tiabendazol por dois dias."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 28,
@@ -333,7 +360,8 @@
             "D": "A criança apresenta quadro de intolerância ao leite materno. O que impõe a suspensão do aleitamento materno e introdução de leite de fórmula.",
             "E": "A criança apresenta baixo ganho ponderal por ingestão alimentar reduzida devido à baixa produção de leite materno. A mãe deverá ser orientada a realizar complementação com leite de fórmula."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 29,
@@ -345,7 +373,8 @@
             "D": "Observação rigorosa de todos os contactantes, sem quimioprofilaxia.",
             "E": "Quimioprofilaxia com rifampicina apenas para o irmão de 4 anos de idade."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 30,
@@ -357,7 +386,8 @@
             "D": "exame ultrassonográfico para confirmação diagnóstica.",
             "E": "realização de amniotomia e aguardar o parto vaginal."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 31,
@@ -369,7 +399,8 @@
             "D": "Solicitação de radiografia de tórax em postero anterior, perfil e decúbito lateral esquerdos e avaliação cirúrgica.",
             "E": "Realizar drenagem por punção torácica com agulha calibrosa, no segundo espaço intercostal esquerdo."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 32,
@@ -381,7 +412,8 @@
             "D": "Salmonella enteritidis e Yersinia enterocolitica.",
             "E": "Shigella flexneri e Escherichia coli enteropatogênica."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 33,
@@ -393,7 +425,8 @@
             "D": "Obter TCLE assinado pelos adolescentes e seus representantes legais e comunicar à comunidade sobre a natureza da investigação.",
             "E": "Caso tenha uma indústria de medicamentos financiando a pesquisa, o pesquisador não necessitará informar sua relação com esta empresa."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 34,
@@ -405,7 +438,8 @@
             "D": "medida do pico de fluxo expiratório (PFE) e saturação de oxigênio no sangue arterial por gasometria ou oximetria de pulso (SatO2).",
             "E": "eletrocardiograma e medida do pico de fluxo expiratório (PFE)."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 35,
@@ -417,7 +451,8 @@
             "D": "administrar analgésicos e antibióticos, com internação hospitalar até “esfriar o processo” seguida de alta para programar colecistectomia.",
             "E": "administrar analgésicos e antibióticos, com internação hospitalar e programar colecistectomia."
         },
-        "resposta": "X"
+        "resposta": "X",
+        "contains_img": false
     },
     {
         "numero": 36,
@@ -429,7 +464,8 @@
             "D": "Orientar hidratação vigorosa, em domicílio.",
             "E": "Encaminhar para unidade hospitalar do nível secundário."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 37,
@@ -441,7 +477,8 @@
             "D": "investigar situação dos comunicantes quanto à tuberculose, como forma indireta de avaliar a adesão do paciente ao tratamento.",
             "E": "encaminhar o paciente para tratamento conjunto com os serviços de referência local de DST/AIDS e de tuberculose."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 38,
@@ -453,7 +490,8 @@
             "D": "Tuberculose cutânea e R (Rifampicina) – H (Isoniazida) – Z (Pirazinamida) – E (Etambutol).",
             "E": "Leishmaniose cutânea e glucantime."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": true
     },
     {
         "numero": 39,
@@ -465,7 +503,8 @@
             "D": "transposição de grandes vasos; administração de indometacina para fechamento do canal arterial patente.",
             "E": "transposição de grandes vasos; administração de prostaglandina E para redução da trama pulmonar."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 40,
@@ -477,11 +516,12 @@
             "D": "Alertar a mãe que aumente seus cuidados para evitar acidentes.",
             "E": "Solicitar realização de perícia médico-legal."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 41,
-        "enunciado": "Paciente, com 57 anos de idade, sexo masculino, chega ao pronto atendimento queixando-se de palpitações que se iniciaram há três dias, associadas à tontura e à dispneia. Relata fazer uso de metimazol 10 mg/dia há um mês por diagnóstico de hipertireoidismo. Faz uso ainda de enalapril 20 mg para hipertensão arterial desde os 45 anos de idade. Ao exame: Pressão arterial = 110 x 70 mmHg; Frequência cardíaca = 160 BPM; Frequência respiratória = 26 irmp; rítmo cardíaco taquicárdico, irregular, em dois tempos, sem sopros; murmúrio vesicular fisiológico com crepitações bibasais; abdome livre, indolor, ruídos hidroaéreos positivos; aparelho locomotor sem alterações. Saturação periférica de oxigênio de 87%. Solicitado ECG",
+        "enunciado": "Paciente, com 57 anos de idade, sexo masculino, chega ao pronto atendimento queixando-se de palpitações que se iniciaram há três dias, associadas à tontura e à dispneia. Relata fazer uso de metimazol 10 mg/dia há um mês por diagnóstico de hipertireoidismo. Faz uso ainda de enalapril 20 mg para hipertensão arterial desde os 45 anos de idade. Ao exame: Pressão arterial = 110 x 70 mmHg; Frequência cardíaca = 160 BPM; Frequência respiratória = 26 irmp; rítmo cardíaco taquicárdico, irregular, em dois tempos, sem sopros; murmúrio vesicular fisiológico com crepitações bibasais; abdome livre, indolor, ruídos hidroaéreos positivos; aparelho locomotor sem alterações. Saturação periférica de oxigênio de 87%. Solicitado ECG: Instalada a suplementação de oxigênio e monitorização cardíaca. Assinale a alternativa que identifica a arritmia e a conduta a ser tomada ainda na sala de pronto atendimento.",
         "alternativas": {
             "A": "Flutter atrial e amiodarona.",
             "B": "Taquicardia supra ventricular paroxística e procainamida.",
@@ -489,7 +529,8 @@
             "D": "Taquicardia atrial multifocal e bloqueadores de canais de cálcio.",
             "E": "Fibrilação atrial e digitálico."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": true
     },
     {
         "numero": 42,
@@ -501,7 +542,8 @@
             "D": "a área mais acometida por perfurações de úlceras pépticas é o estômago, na proporção de 14:1 em relação ao duodeno.",
             "E": "a mortalidade é proporcionalmente maior nas perfurações duodenais, em torno de 20%, talvez porque acometam pacientes mais idosos."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 43,
@@ -513,7 +555,8 @@
             "D": "Entubação orotraqueal + ventilação mecânica.",
             "E": "Entubação orotraqueal + ventilação mecânica + antihipertensivo."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 44,
@@ -525,7 +568,8 @@
             "D": "Realizar o procedimento cirúrgico e, se necessário, transfundir, informando a família.",
             "E": "Negar-se a realizar o procedimento e orientar o paciente a procurar outro médico."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 45,
@@ -537,7 +581,8 @@
             "D": "abortamento séptico por manipulação. Instituir antibioticoterapia, preferencialmente com esquema duplo: metronidazol e gentamicina. O conteúdo uterino deve ser esvaziado quando a paciente apresentar estabilidade hemodinâmica. A paciente pode receber alta após 48 horas, se apirética e com bom estado geral, sem uso de antimicrobianos.",
             "E": "abortamento infectado por manipulação. Deve ser realizada a curetagem uterina, quando a paciente apresentar estabilidade hemodinâmica. Em seguida, inicia-se a antibioticoterapia, preferencialmente com esquema duplo: metronidazol e gentamicina. Após 48 horas da curetagem, recebe alta sem medicação antimicrobiana."
         },
-        "resposta": "X"
+        "resposta": "X",
+        "contains_img": false
     },
     {
         "numero": 46,
@@ -549,7 +594,8 @@
             "D": "A criança pode receber somente a tríplice viral.",
             "E": "A criança deve adiar a vacinação para o próximo mês."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 47,
@@ -561,7 +607,8 @@
             "D": "preparar expansão com soro fisiológico e reposição de potássio.",
             "E": "introduzir expansão com soro fisiológico, reposição de potássio e insulinoterapia."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 48,
@@ -573,11 +620,12 @@
             "D": "a venografia de ressonância magnética por ser ideal em casos agudos e ser bem tolerada pelos pacientes.",
             "E": "a ultrassonografia com Doppler por ter ótimo valor preditivo positivo e ser pouco invasiva."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 49,
-        "enunciado": "Um menino, com um ano de idade, está sendo atendido no Pronto-Socorro de Pediatria com histórico de febre alta, falta de apetite e irritabilidade há dois dias. A mãe informou que hoje a criança apresentou vômitos, tremores e recusou toda a alimentação. Ao exame físico, apresenta-se hipoativo, com desidratação de primeiro grau e febre (39 ºC). Para a investigação desse quadro febril, sem foco aparente, foram realizados os seguintes exames:\nEstudo do líquor: normal\nEritrograma: Hb: 11,5 g/dL Ht: 37,5 %. \nLeucograma: 25.000/mm³, com 10% de bastonetes. Plaquetas: normais\nExame sumário de urina (colhido com saco coletor): nitrito positivo; leucócitos: 430.000/ml; eritrócitos: 15.000/ml\nUrocultura: em execução\nCom base na suspeita de infecção urinária, qual é a conduta a ser adotada?",
+        "enunciado": "Um menino, com um ano de idade, está sendo atendido no Pronto-Socorro de Pediatria com histórico de febre alta, falta de apetite e irritabilidade há dois dias. A mãe informou que hoje a criança apresentou vômitos, tremores e recusou toda a alimentação. Ao exame físico, apresenta-se hipoativo, com desidratação de primeiro grau e febre (39 ºC). Para a investigação desse quadro febril, sem foco aparente, foram realizados os seguintes exames:\nEstudo do líquor: normal\nEritrograma: Hb: 11,5 g/dL Ht: 37,5 %.\nLeucograma: 25.000/mm³, com 10% de bastonetes. Plaquetas: normais\nExame sumário de urina (colhido com saco coletor): nitrito positivo; leucócitos: 430.000/ml; eritrócitos: 15.000/ml\nUrocultura: em execução\nCom base na suspeita de infecção urinária, qual é a conduta a ser adotada?",
         "alternativas": {
             "A": "Colher novo exame de urina por meio de punção supra-púbica, internar o paciente e instituir a hidratação e a antibioticoterapia parenteral, prescrevendo cefalosporina.",
             "B": "Internar o paciente, instituir hidratação parenteral e aguardar o resultado da urocultura colhida no pronto-socorro, para iniciar a antibioticoterapia de acordo com antibiograma.",
@@ -585,7 +633,8 @@
             "D": "Hidratar o paciente no pronto-socorro, colher novo exame de urina por sondagem vesical ou punção supra-púbica e, após melhora clínica, liberá-lo com prescrição de cefalosporina por via oral. Orientar a mãe que leve o resultado da urocultura, assim que esteja pronto, ao médico assistente.",
             "E": "Hidratar o paciente no pronto-socorro, colher novo exame de urina por sondagem vesical ou punção supra-púbica e, após melhora clínica, liberá-lo; aguardar o resultado da urocultura, para definir sobre uso de antibioticoterapia."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 50,
@@ -597,7 +646,8 @@
             "D": "do assentimento.",
             "E": "da autonomia."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 51,
@@ -609,7 +659,8 @@
             "D": "Colecistite aguda.",
             "E": "Infarto mesentérico."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 52,
@@ -621,7 +672,8 @@
             "D": "Seroma e orientar o paciente que o conteúdo será absorvido pelo organismo.",
             "E": "Hérnia incisional e orientar o paciente a procurar imediatamente o cirurgião que o operou."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 53,
@@ -633,7 +685,8 @@
             "D": "passar balão de Sengstaken-Blakemore.",
             "E": "realizar escleroterapia endoscópica."
         },
-        "resposta": "X"
+        "resposta": "X",
+        "contains_img": false
     },
     {
         "numero": 54,
@@ -645,7 +698,8 @@
             "D": "gestante, em qualquer idade gestacional.",
             "E": "jovem, sexualmente ativa."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 55,
@@ -657,7 +711,8 @@
             "D": "glicemia de jejum e teste de tolerância oral a glicose.",
             "E": "exame sumário de urina e ecografia obstétrica."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 56,
@@ -669,7 +724,8 @@
             "D": "Internação hospitalar, monitorização cardíaca contínua, se Troponina colhida na admissão estiver elevada.",
             "E": "Internação hospitalar, sem monitorização cardíaca contínua, se a Troponina e CKMB massa colhidas na admissão estiverem normais."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 57,
@@ -681,7 +737,8 @@
             "D": "III.",
             "E": "I, II e III."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 58,
@@ -693,7 +750,8 @@
             "D": "donovanose.",
             "E": "linfogranuloma venéreo."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 59,
@@ -705,7 +763,8 @@
             "D": "diarreia persistente com sinais de desidratação grave; hidratação venosa e suspensão da alimentação até melhora dos vômitos.",
             "E": "diarreia persistente com sinais de desidratação; solução de reidratação oral e suspensão da alimentação (nas primeiras quatro horas), exceto se for leite materno."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 60,
@@ -717,7 +776,8 @@
             "D": "Hanseníase e Intradermorreação de Mitsuda.",
             "E": "Liquen plano e biópsia."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": true
     },
     {
         "numero": 61,
@@ -729,7 +789,8 @@
             "D": "a morte encefálica é de notificação compulsória e a continuidade dos procedimentos para a retirada de órgãos para transplante depende do consentimento da família do potencial doador.",
             "E": "uma vez esclarecida a família sobre o diagnóstico de morte encefálica e com a certeza de sua compreensão, deve ser dada sequência aos procedimentos para a retirada de órgãos, tendo por base o consentimento informado."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 62,
@@ -741,7 +802,8 @@
             "D": "Glomerulopatia por lesões mínimas.",
             "E": "Lupus eritematoso sistêmico."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 63,
@@ -753,7 +815,8 @@
             "D": "Trombose venosa profunda; referenciar para internamento hospitalar de urgência para trombólise.",
             "E": "Microangiopatia diabética; referenciar para ambulatório especializado."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 64,
@@ -765,7 +828,8 @@
             "D": "dormir com cabeceira da cama elevada e abolir fibras na dieta.",
             "E": "aumentar a ingesta de proteínas e reduzir a ingesta de carboidratos."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 65,
@@ -777,7 +841,8 @@
             "D": "hérnia inguinal indireta esquerda; solicitar tomografia de abdome e pelve e encaminhar o paciente para avaliação ambulatorial especializada com cirurgião.",
             "E": "massa inguinal a esclarecer, provável neoplasia; solicitar biópsia por punção guiada por ultrassom e referenciar o paciente para avaliação ambulatorial com cirurgião."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 66,
@@ -789,7 +854,8 @@
             "D": "a definição de micro-áreas de risco e grupos prioritários.",
             "E": "a determinação dos índices de mortalidade infantil e materna."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 67,
@@ -801,7 +867,8 @@
             "D": "anti-HAV IgG não reativo e IgM reativo; anti-HBc IgM e IgG não reativos; HBsAg não reativo.",
             "E": "anti-HAV IgG e IgM reativos; anti-HBc IgM não reativo e IgG reativo; HBsAg reativo."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 68,
@@ -813,7 +880,8 @@
             "D": "pela hipertermia da criança, que requer imediata investigação diagnóstica.",
             "E": "porque, em crianças lactentes e pré-escolares, além de adolescentes grávidas, a cetoacidose ocorre com níveis de glicemia sempre muito elevados."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 69,
@@ -825,7 +893,8 @@
             "D": "Trata-se de otite serosa. É indicado, portanto, o uso de antibioticoterapia nessa faixa etária, já que a presença de abaulamento da membrana timpânica sugere o diagnóstico de otite serosa.",
             "E": "Trata-se de otite serosa. É indicado, portanto, o uso de sintomáticos, pois o abaulamento da membrana timpânica, patognomônico da otite serrosa, deverá regridir com essa medida."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 70,
@@ -837,7 +906,8 @@
             "D": "Há necessidade de tratamento profilático contra reinfecção, mesmo havendo cura.",
             "E": "Há necessidade de tratamento especial para Helicobacter pylori resistente aos antibióticos."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 71,
@@ -849,7 +919,8 @@
             "D": "Intolerância à lactose.",
             "E": "Doença inflamatória pélvica."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 72,
@@ -861,7 +932,8 @@
             "D": "Fenoterol 5 mg/ml, 1 gota/kg; hidrocortisona 4 mg/kg.",
             "E": "Salbutamol 5 mg/ml, 1 gota/3 kg e brometo de Ipratrópio 0,25 mg/ml, 20 a 40 gotas; metilprednisolona 2 mg/kg."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 73,
@@ -873,7 +945,8 @@
             "D": "Síndrome de Reiter.",
             "E": "Espondilartrose."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 74,
@@ -885,7 +958,8 @@
             "D": "Deposição de anticorpo antiantígeno citoplasmático de neutrófilos.",
             "E": "Deposição de anticorpos antiantígenos estreptocócicos ao longo da membrana basal glomerular."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": true
     },
     {
         "numero": 75,
@@ -897,7 +971,8 @@
             "D": "Gonorreia. Tratar a paciente e o parceiro com azitromicina em dose única.",
             "E": "Infecção por clamídia. Tratar a paciente com doxiciclina por 14 dias e o parceiro, com azitromicina em dose única."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 76,
@@ -909,7 +984,8 @@
             "D": "Síndrome compartimental; fasciotomia de urgência.",
             "E": "Trombose arterial aguda; trombólise."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 77,
@@ -921,7 +997,8 @@
             "D": "Crise hipertensiva na gestação e pré-eclâmpsia. Indicação de cesárea pela necessidade de remoção da placenta e introdução de nifedipina para correção dos níveis pressóricos.",
             "E": "Eminência de eclâmpsia. Indicação de sulfato de magnésio e hidralazina para correção dos níveis pressóricos e resolução por parto vaginal."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 78,
@@ -933,7 +1010,8 @@
             "D": "Encaminhar a paciente para a maternidade, pois as características da gestação na adolescência indicam que a via de parto deverá ser a cesárea.",
             "E": "Solicitar os exames de rotina pré-natal, encaminhar para acompanhamento psico-social, prescrever sulfato ferroso e solicitar retorno antecipado ao pré-natal."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 79,
@@ -945,7 +1023,8 @@
             "D": "Insuficiência renal crônica.",
             "E": "Lupus Eritematoso Sistêmico."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 80,
@@ -957,7 +1036,8 @@
             "D": "Parada secundária da descida e cesárea.",
             "E": "Período expulsivo prolongado e cesárea."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": true
     },
     {
         "numero": 81,
@@ -969,7 +1049,8 @@
             "D": "Betaadrenérgico inalatório.",
             "E": "Insulina com glicose EV."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 82,
@@ -981,7 +1062,8 @@
             "D": "Manter infusão de volume e iniciar dopamina dose alfa adrenérgica ou norepinefrina.",
             "E": "Manter infusão de volume e iniciar dopamina dose alfa adrenérgica ou epinefrina."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 83,
@@ -993,7 +1075,8 @@
             "D": "Realizar lavagem da ferida com soro fisiológico a 0,9%. Analgesia oral com paracetamol. Realizar curativo com clorhexidina e lidocaína tópica, romper as flictenas e realizar debridamento de tecidos desvitalizados. Antibioticoterapia parenteral com penicilina cristalina por via IM. Curativo oclusivo com clorhexidina.",
             "E": "Realizar limpeza da ferida com soro fisiológico a 0,9%. Analgesia oral com dipirona. Recomendar não romper as flictenas. Realizar curativo com PVPI (polivinilpirrolidona-iodo, lauril éster sulfato de sódio) e lidocaína tópica. Prescrever analgesia oral com tramadol e antibioticoterapia com amoxicilina + ácido clavulânico - 500 mg por via oral, de 8/8h durante 7 dias."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 84,
@@ -1005,7 +1088,8 @@
             "D": "Intussuscepção intestinal.",
             "E": "Oclusão intestinal por Ascaris lumbricoides."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 85,
@@ -1017,7 +1101,8 @@
             "D": "Hemograma, ultrassonografia de abdome e de vias urinárias e antibioticoterapia por via oral.",
             "E": "Internação hospitalar, hemograma, eletrólitos, cultura de urina e antibioticoterapia endovenosa."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 86,
@@ -1029,7 +1114,8 @@
             "D": "as infecções são as complicações mais frequentes, e o uso de profilaxia com penicilina é contraindicado pelos riscos de aumento da taxa de colonização por cepas de pneumococos resistentes.",
             "E": "as infecções são as complicações mais frequentes, o que leva à necessidade de profilaxia com penicilina, recomendada do momento do diagnóstico da anemia falciforme e mantida por toda a vida."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 87,
@@ -1041,7 +1127,8 @@
             "D": "Analgesia endovenosa com meperidina.",
             "E": "Não há necessidade de analgesia e o parto ocorrerá rapidamente se considerarmos a evolução do trabalho de parto na última hora."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 88,
@@ -1053,7 +1140,8 @@
             "D": "Cancro misto.",
             "E": "Linfogranuloma venéreo."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 89,
@@ -1065,7 +1153,8 @@
             "D": "Referenciar o paciente para endocrinologista para investigação imediata de hipogonadismo hipogonadotrófico.",
             "E": "Não referenciar o paciente e tranquilizá-lo, pois não há evidência de atraso puberal."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 90,
@@ -1077,7 +1166,8 @@
             "D": "II, III, IV e VI.",
             "E": "III, V, VI e VII."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 91,
@@ -1089,7 +1179,8 @@
             "D": "Tratar a paciente com creme vaginal de metronidazol e repetir o citopatológico em seguida.",
             "E": "Colher o exame novamente, pois trata-se de erro do laboratório."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 92,
@@ -1101,7 +1192,8 @@
             "D": "Encaminhar para centro de especialidades médicas para realizar propedêutica complementar e diagnóstico.",
             "E": "Prescrever jejum, iniciar antibioticoterapia e encaminhá-lo para tratamento cirúrgico de urgência."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 93,
@@ -1113,7 +1205,8 @@
             "D": "Realização de teste oral de sobrecarga da glicose e, se normal, afastada a possibilidade de desenvolvimento de diabetes gestacional durante a gravidez atual.",
             "E": "Internação para realizar perfil glicêmico e introdução de insulina para prevenir macrossomia fetal."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 94,
@@ -1125,7 +1218,8 @@
             "D": "Solicitar nova sorologia em 30 dias, orientando o uso de preservativo em todas as relações sexuais.",
             "E": "Encaminhar a paciente para avaliação do infectologista."
         },
-        "resposta": "X"
+        "resposta": "X",
+        "contains_img": false
     },
     {
         "numero": 95,
@@ -1137,7 +1231,8 @@
             "D": "Descritivo.",
             "E": "Transversal."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 96,
@@ -1149,7 +1244,8 @@
             "D": "Sensibilidade.",
             "E": "Especificidade."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 97,
@@ -1161,7 +1257,8 @@
             "D": "Intoxicação medicamentosa.",
             "E": "Reativação da hepatite crônica."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 98,
@@ -1173,7 +1270,8 @@
             "D": "Exame clínico e mamografia a cada dois anos.",
             "E": "Exame clínico anual e ressonância magnética de mamas a cada dois anos."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 99,
@@ -1185,7 +1283,8 @@
             "D": "Atelectasia pulmonar à direita. Raio X simples de tórax. Fisioterapia respiratória e deambulação.",
             "E": "Abscesso pulmonar. Tomografia de tórax. Lobectomia de urgência."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 100,
@@ -1197,7 +1296,8 @@
             "D": "Caso a paciente tenha desejo de engravidar, a regularização do ciclo e o uso de citrato de clomifeno são as escolhas iniciais preferenciais.",
             "E": "Em se tratando de paciente com infertilidade caracterizada, a ressecção em cunha dos ovários é o tratamento preferencial."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 101,
@@ -1209,7 +1309,8 @@
             "D": "Amoxicilina, via oral, em doses e intervalos adequados.",
             "E": "investigar imunodeficiência."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 102,
@@ -1221,7 +1322,8 @@
             "D": "O uso de reposição de cálcio e vitamina D aliada ao uso de bifosfonatos deve ser considerado apenas nos casos de ocorrência de fraturas prévias.",
             "E": "Os efeitos de depleção óssea, induzidos pelo uso prolongado de corticóides, no hipotireoidismo e na doença renal crônica podem ser evitados pela ingesta complementar de cálcio."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 103,
@@ -1233,7 +1335,8 @@
             "D": "Lesão do nervo laríngeo superior durante o ato cirúrgico.",
             "E": "Lesão do nervo laríngeo recorrente durante o ato cirúrgico."
         },
-        "resposta": "E"
+        "resposta": "E",
+        "contains_img": false
     },
     {
         "numero": 104,
@@ -1245,7 +1348,8 @@
             "D": "Não aplicar dose de reforço, já que o esquema vacinal completo foi realizado há menos de dez anos.",
             "E": "Não realizar vacinação, pois a vacina dupla adulto não faz parte dos cuidados da assistência pré-natal."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 105,
@@ -1257,7 +1361,8 @@
             "D": "I e V.",
             "E": "III e V."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     },
     {
         "numero": 106,
@@ -1269,7 +1374,8 @@
             "D": "0,04",
             "E": "0,2"
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 107,
@@ -1281,7 +1387,8 @@
             "D": "Mães agricultoras têm risco 150% maior de conceber filhos com má formação congênita em relação a mães não-agricultoras.",
             "E": "Mães agricultoras têm risco 257% maior de conceber filhos com má formação congênita em relação a mães não-agricultoras."
         },
-        "resposta": "A"
+        "resposta": "A",
+        "contains_img": false
     },
     {
         "numero": 108,
@@ -1293,7 +1400,8 @@
             "D": "Esquema tríplice (2HRZ) e duplo (4HR) e controle com exames a cada 2 meses.",
             "E": "Esquema quádruplo 2(HRZE) e duplo (5HR)."
         },
-        "resposta": "D"
+        "resposta": "D",
+        "contains_img": false
     },
     {
         "numero": 109,
@@ -1305,11 +1413,12 @@
             "D": "Soro antilaquético.",
             "E": "Soro antielapídico."
         },
-        "resposta": "C"
+        "resposta": "C",
+        "contains_img": false
     },
     {
         "numero": 110,
-        "enunciado": "Foi realizado estudo epidemiológico, durante período de 10 anos, entre indivíduos usuários de uma determinada droga, alguns a usavam por via inalatória, outros, por via intravenosa. O objetivo do estudo foi averiguar se a via de administração da droga poderia estar relacionada com maior mortalidade em um dos grupos.\n\nOs dados disponíveis do estudo são:\n |            | Óbito | Não-óbito |\n| ---------- | ----- | --------- |\n| Injetável  | 400   | 4600      |\n| Inalatória | 80    | 1920      | \n\nQual o risco relativo de morte ao se usar a droga na forma injetável em relação à forma inalatória?",
+        "enunciado": "Foi realizado estudo epidemiológico, durante período de 10 anos, entre indivíduos usuários de uma determinada droga, alguns a usavam por via inalatória, outros, por via intravenosa. O objetivo do estudo foi averiguar se a via de administração da droga poderia estar relacionada com maior mortalidade em um dos grupos.\n\nOs dados disponíveis do estudo são:\nÓbito\tNão-óbito\nInjetável\t400\t4600\nInalatória\t80\t1920\n\nQual o risco relativo de morte ao se usar a droga na forma injetável em relação à forma inalatória?",
         "alternativas": {
             "A": "1.",
             "B": "2.",
@@ -1317,6 +1426,7 @@
             "D": "4.",
             "E": "5."
         },
-        "resposta": "B"
+        "resposta": "B",
+        "contains_img": false
     }
 ]

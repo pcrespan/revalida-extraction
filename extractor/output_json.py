@@ -19,6 +19,19 @@ def extract_answers(path):
 
     return answers
 
+def contains_img(path):
+
+    img_presence = {}
+
+    with open(path, "r", encoding="utf-8") as file:
+
+        for line in file:
+            line = line.strip()
+            if line.isdigit():
+                img_presence[int(line)] = True
+
+    return img_presence
+
 def convert_to_json(path, test):
 
     with open(path, "r", encoding="utf-8") as file:
@@ -29,6 +42,7 @@ def convert_to_json(path, test):
 
     questoes = []
     respostas = extract_answers("answers/extracted/{}.txt".format(test))
+    imgs = contains_img("images/{}.txt".format(test))
 
     for match in re.finditer(questao_regex, content, re.DOTALL):
         numero = int(match.group(1))
@@ -47,6 +61,12 @@ def convert_to_json(path, test):
             "alternativas": alternativas
         }
         questao["resposta"] = respostas[questao["numero"]]
+
+        if imgs.get(questao["numero"]):
+            questao["contains_img"] = True
+        else:
+            questao["contains_img"] = False
+
         questoes.append(questao)
 
     json_output = json.dumps(questoes, ensure_ascii=False, indent=4)

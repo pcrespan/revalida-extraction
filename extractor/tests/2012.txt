@@ -128,10 +128,12 @@ CONCLUSÃO: AMOSTRA POSITIVA PARA HIV
 
 AMOSTRA 2
 ANTICORPOS ANTI HIV1/HIV2 (2 DOSAGENS)
+TESTE 1 ...... POSITIVO
 Material: soro
 Método: Elisa
 Leitura da amostra: 2,27
 Valor de Referência: < 1,00
+TESTE 2 ...... POSITIVO
 Método: Western Blot
 Presença de anticorpos virais para: P18, P24, P34, Gp41, P52, P55, P68, GP 120, GP 160
 Sorologia positiva para HIV-1
