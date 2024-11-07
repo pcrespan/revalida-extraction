@@ -1043,5 +1043,60 @@
             "D": "Devem ser coletadas amostras para isolamento viral de zika, dengue e chikungunya, além de orientar hidratação oral, prescrever medicamentos sintomáticos e agendar retorno da paciente em até 48 horas para realização de novos exames, ou no caso de surgimento de sinais de alarme para dengue."
         },
         "resposta": "A"
+    },
+    {
+        "numero": 96,
+        "enunciado": "Um menino com 7 anos de idade é trazido por sua mãe à Unidade Básica de Saúde, apresentando dor abdominal em cólica e diarreia intermitente há 2 meses. A mãe relata que o filho está apático, pálido, sem vontade de brincar e que apresenta, ainda, episódios de tosse e sibilância, sem antecedentes de atopia. Informa, ainda, que foi realizado um hemograma na semana anterior, cujo resultado demonstra hemoglobina = 8 g/dL (valor de referência: 10,5 a 14,0 g/dL). Nesse caso, a conduta adequada é",
+        "alternativas": {
+            "A": "solicitar teste da fita adesiva, para pesquisar Enterobius vernicularis.",
+            "B": "solicitar aspirado duodenal para pesquisa de protozoários.",
+            "C": "solicitar exame parasitológico de fezes, para detecção de helmintos.",
+            "D": "solicitar exame de fezes por centrifugação, para detecção de trofozoítos."
+        },
+        "resposta": "C"
+    },
+    {
+        "numero": 97,
+        "enunciado": "Uma mulher com 36 anos de idade, Gesta 2 Para 2, procura a Unidade Básica de Saúde solicitando informações para utilização de método contraceptivo. Está assintomática, faz acompanhamento médico regular e apresenta resultado normal de citologia cervicovaginal colhida há 2 meses. Registra-se, como antecedente, colecistectomia há 2 anos, que cursou com trombose venosa profunda no membro inferior direito no pós-operatório. A paciente relata que, atualmente, não faz uso de qualquer medicação e nega tabagismo e outras doenças. Uma opção contraceptiva adequada para essa paciente é o uso de anticoncepcional à base de",
+        "alternativas": {
+            "A": "etinilestradiol 50 mcg, por via oral, mensal.",
+            "B": "noretisterona 0,35 mg, por via oral, de uso contínuo.",
+            "C": "etinilestradiol 30 mcg + levonorgestrel 0,15 mg, por via oral, mensal.",
+            "D": "enantato de noretisterona 50 mg + valerato de estradiol 5 mg, injetável, mensal."
+        },
+        "resposta": "B"
+    },
+    {
+        "numero": 98,
+        "enunciado": "Uma mulher com 45 anos de idade, sem comorbidades, foi submetida à colecistectomia videolaparoscópica eletiva para colelitíase. Porém, devido a aderências intra-abdominais de uma cirurgia anterior, o procedimento foi convertido para um acesso laparotômico, que transcorreu sem incidentes. Dado que a cirurgia é considerada potencialmente contaminada, não foi realizada colangiografia intraoperatória, procedendo-se à antibioticoprofilaxia, com uma dose na indução anestésica. No terceiro dia de pós-operatório, a paciente recebeu alta hospitalar. Uma semana após a alta, retornou ao ambulatório de cirurgia, apresentando-se com bom estado geral, disposta, porém com quadro de dor, abaulamento e hiperemia da ferida operatória. O cirurgião assistente examinou a ferida e, após a retirada de um ponto da sutura da pele da paciente, observou-se saída de moderada quantidade de material purulento. Com relação a esse caso, o médico, além de retirar os demais pontos da sutura, drenar e lavar a ferida operatória, deve",
+        "alternativas": {
+            "A": "ressuturar a ferida operatória e internar a paciente para antibioticoterapia por via venosa.",
+            "B": "acompanhar a paciente em retornos ambulatoriais, sem uso de antibiótico.",
+            "C": "iniciar antibioticoterapia por via oral, solicitando retornos ambulatoriais.",
+            "D": "internar a paciente para iniciar antibioticoterapia por via venosa."
+        },
+        "resposta": "B"
+    },
+    {
+        "numero": 99,
+        "enunciado": "Uma mulher com 34 anos de idade comparece ao ambulatório de Clínica Médica de atenção terciária, com vistas a esclarecer quadro caracterizado por hepatoesplenomegalia, linfadenopatia e alterações persistentes no hemograma. De acordo com a Ficha de Referência, o quadro teve início há 2 meses com mal-estar, dor de garganta e febre baixa; o exame físico evidenciou linfoadenomegalia cervical e hepatoesplenomegalia; o hemograma realizado na ocasião revelou linfocitose, além de anemia leve e trombocitopenia; a hipótese diagnóstica foi de mononucleose infecciosa; as pesquisas de anticorpos heterófilos contra o vírus Epstein-Barr (EBV) e de anticorpos anticapsídeo viral de EBV foram negativas na ocasião do primeiro atendimento e 2 semanas depois. Ao exame físico, a paciente apresenta-se levemente hipocorada, com discretas equimoses nos membros inferiores e superiores, com linfonodos palpáveis em todas as cadeias cervicais, baço palpável a cerca de 4 cm do rebordo costal esquerdo e fígado palpável a 2 cm do rebordo costal direito, na linha hemiclavicular. Os linfonodos cervicais são pequenos, com cerca de 1 cm de diâmetro, indolores e móveis. Novo hemograma mantém o padrão do resultado do exame anteriormente descrito. Nesse caso, a hipótese diagnóstica e a conduta para a investigação diagnóstica são",
+        "alternativas": {
+            "A": "leucemia linfoblástica aguda; realização de aspirado e biópsia de medula óssea.",
+            "B": "mononucleose infecciosa atípica; pesquisa de EBV DNA por Polymerase Chain Reaction.",
+            "C": "linfoma não-Hodgkin do tipo folicular; dosagem sérica de desidrogenase lática e biópsia linfonodal.",
+            "D": "hepatite crônica por vírus C; pesquisa de HCV RNA por Polymerase Chain Reaction e biópsia hepática."
+        },
+        "resposta": "A"
+    },
+    {
+        "numero": 100,
+        "enunciado": "Em um município foram registradas epidemias de dengue em 2004, 2010 e 2014, associadas à introdução do vírus dengue (DEN-V) dos tipos 3, 2 e 4, respectivamente. Em 2016, há notificação de casos de zika e chikungunya. Na Unidade Básica de Saúde desse município, foi atendida uma mulher com 23 anos de idade e 16 semanas de gestação relatando febre não medida, cefaleia e mialgia de início abrupto e com piora progressiva de intensidade até a manhã do dia do atendimento, quando acordou melhor e notou a pele avermelhada; o quadro teve início há 4 dias. Não apresenta queixa de artralgia, sangramentos ou qualquer outro sinal de alarme. Relata ter tido dengue clássica há 4 anos. Nega comorbidades e uso recente de medicamentos. O cartão vacinal da paciente encontra-se em dia. Ao exame físico, apresenta-se afebril e com discretos exantemas máculo-papulares por todo o corpo, sem outras alterações; a prova do laço teve resultado negativo. O resultado dos exames revela hematócrito = 41% (valor de referência: 33,0 a 47,8%); hemoglobina = 13,1 g/dL (valor de referência: 12,0 a 15,8 g/dL); plaquetas = 108.000/mm³ (valor de referência: 130.000 a 450.000/mm³); leucócitos = 4.800/mm³ (valor de referência: 3.600 a 11.000/mm³); eosinófilos = 3% (valor de referência: 0 a 7%); segmentados = 53% (valor de referência: 40 a 70%), linfócitos = 35% (valor de referência: 20 a 50%), monócitos = 9% (valores de referência: 3 a 14%); AST = 43 U/L (valor de referência: inferior a 34 U/L); ALT = 38 U/L (valor de referência: 10 a 49 U/L); ureia = 43 mg/dL (valor de referência: 19 a 49 mg/dL); creatinina = 1,1 mg/dL (valor de referência: 0,53 a 1,00 mg/dL). No exame de ultrassonografia, observa-se que o feto está ativo e normal. Esse caso deve ser notificado à Vigilância Epidemiológica e a mãe deve ser tranquilizada com a informação de que está tudo bem com ela e com o feto, que apenas uma minoria dos recém-nascidos é afetada nesses casos e que a Equipe de Saúde da Família irá acompanhá-la durante toda a gestação. Que outras condutas devem ser adotadas pelo médico?",
+        "alternativas": {
+            "A": "Devem ser coletadas amostras para isolamento viral de zika e dengue, além de internar a paciente para observação e orientar hidratação endovenosa até a normalização das plaquetas.",
+            "B": "Devem ser coletadas amostras para isolamento viral de zika e chikungunya, além de orientar hidratação oral, repouso relativo, acompanhamento laboratorial e retorno em caso de piora dos sintomas.",
+            "C": "Devem ser coletadas amostras para isolamento viral de zika, dengue e chikungunya, além de internar a paciente para observação, prescrever medicamentos sintomáticos e orientar hidratação endovenosa até a realização de novos exames, em 12 horas.",
+            "D": "Devem ser coletadas amostras para isolamento viral de zika, dengue e chikungunya, além de orientar hidratação oral, prescrever medicamentos sintomáticos e agendar retorno da paciente em até 48 horas para realização de novos exames, ou no caso de surgimento de sinais de alarme para dengue."
+        },
+        "resposta": "D"
     }
 ]

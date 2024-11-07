@@ -561,17 +561,17 @@ QUESTÃO 62
 Mulher, com 57 anos de idade, sem acompanhamento médico regular, é atendida em ambulatório de clínica médica de hospital secundário por queixa de edema de membros inferiores e face e de urina espumosa há três meses. A paciente não refere doenças anteriores e desconhece seus antecedentes familiares. Ao exame clínico encontra-se orientada, normocorada, hidratada, afebril, com edema de face (++/4). Pressão arterial (posição deitada) = 176 x 102 mmHg com pulso = 76 bpm; pressão arterial (posição supina) = 154 x 78 mmHg com pulso = 72 bpm. Frequência respiratória = 18 irpm. Exame cardíaco normal. Ausculta pulmonar: murmúrio vesicular diminuído nas bases pulmonares, sem ruídos adventícios. Abdome com sinais de ascite moderada, membros inferiores com edema compressível (++/4). Fundoscopia: prejudicada por opacificação do cristalino.
 Exames complementares:
 
-    Glicemia de jejum = 283 mg/dL
-    Creatinina = 1,8 mg/dL
-    Ureia = 60 mg/dL
-    Colesterol total = 312 mg/dL
-    LDL = 230 mg/dL
-    HDL = 40 mg/dL
-    VLDL = 42 mg/dL
-    Triglicérides = 210 mg/dL
-    Albumina sérica = 1,8 g/dL
-    Exame sumário de urina: proteinúria (++++/4), glicosúria (++/4), sem outras alterações. Proteína na urina de 24h = 5,5g. Dosagem de eletrólitos e hemograma normais.
-    Qual a principal etiologia para o quadro apresentado por essa paciente?
+Glicemia de jejum = 283 mg/dL
+Creatinina = 1,8 mg/dL
+Ureia = 60 mg/dL
+Colesterol total = 312 mg/dL
+LDL = 230 mg/dL
+HDL = 40 mg/dL
+VLDL = 42 mg/dL
+Triglicérides = 210 mg/dL
+Albumina sérica = 1,8 g/dL
+Exame sumário de urina: proteinúria (++++/4), glicosúria (++/4), sem outras alterações. Proteína na urina de 24h = 5,5g. Dosagem de eletrólitos e hemograma normais.
+Qual a principal etiologia para o quadro apresentado por essa paciente?
 
 A Hipertensão arterial sistêmica.
 B Diabetes mellitus.
