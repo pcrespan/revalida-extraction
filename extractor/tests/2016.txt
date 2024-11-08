@@ -103,10 +103,7 @@ C a realização de teste de genotipagem para o HCV.
 D a solicitação de teste de quantificação da carga viral do HCV.
 
 QUESTÃO 14
-O gráfico a seguir mostra a evolução da taxa de incidência de sífilis congênita em menores de 1 ano de idade, por mil nascidos vivos, no Brasil e em suas regiões, entre 2004 e 2013.
-
-Disponível em: <www.ms.gov.br>. Acesso em: 31 jul. 2016 (Adaptado)
-Considerando os dados epidemiológicos apresentados no gráfico acima e a realidade brasileira no período avaliado, é correto afirmar que a sífilis congênita no país apresenta
+O gráfico a seguir mostra a evolução da taxa de incidência de sífilis congênita em menores de 1 ano de idade, por mil nascidos vivos, no Brasil e em suas regiões, entre 2004 e 2013. Disponível em: <www.ms.gov.br>. Acesso em: 31 jul. 2016 (Adaptado) Considerando os dados epidemiológicos apresentados no gráfico acima e a realidade brasileira no período avaliado, é correto afirmar que a sífilis congênita no país apresenta
 
 A taxas de incidência crescentes devido à busca ativa de gestantes para o pré-natal e, consequentemente, ao diagnóstico precoce da doença na gestante.
 B taxas de incidência crescentes devido ao baixo índice de tratamento adequado à gestante durante o pré-natal, o que reflete na manutenção da cadeia de transmissão vertical da doença.
@@ -370,9 +367,7 @@ C hidratação e reposição de potássio por via endovenosa; administração de
 D hidratação e reposição de potássio por via endovenosa; administração imediata de insulina regular por via endovenosa e de insulina NPH por via subcutânea, simultaneamente.
 
 QUESTÃO 47
-Em 1993, a tuberculose passou a ser reconhecida pela Organização Mundial da Saúde como uma emergência global, tendo sido inserida nas políticas de saúde internacionais. Em 2000, a meta de reduzir o coeficiente de incidência da doença até 2015 foi contemplada nos oito Objetivos de Desenvolvimento do Milênio (ODM) da Organização das Nações Unidas. O gráfico abaixo apresenta a evolução do coeficiente de incidência de tuberculose, no período de 1990 a 2013, no Brasil e em alguns outros países.
-Disponível em: <www.un.org>. Acesso em: 31 jul. 2016 (Adaptado)
-Assinale a alternativa que apresenta a correta análise do gráfico acima, no contexto da série de dados apresentada.
+Em 1993, a tuberculose passou a ser reconhecida pela Organização Mundial da Saúde como uma emergência global, tendo sido inserida nas políticas de saúde internacionais. Em 2000, a meta de reduzir o coeficiente de incidência da doença até 2015 foi contemplada nos oito Objetivos de Desenvolvimento do Milênio (ODM) da Organização das Nações Unidas. O gráfico abaixo apresenta a evolução do coeficiente de incidência de tuberculose, no período de 1990 a 2013, no Brasil e em alguns outros países. Disponível em: <www.un.org>. Acesso em: 31 jul. 2016 (Adaptado). Assinale a alternativa que apresenta a correta análise do gráfico acima, no contexto da série de dados apresentada.
 
 A O Brasil e mais 4 países alcançaram a meta dos ODM, tendo sido Cuba o país com maior percentual de queda da incidência de tuberculose.
 B O Brasil e mais 4 países alcançaram a meta dos ODM, tendo sido o Japão o país com maior percentual de queda da incidência de tuberculose.
@@ -388,9 +383,7 @@ C administração de beta-2 agonista, macrolídeo e cultura de secreção da nas
 D monitorização da saturação de oxigênio, fisioterapia respiratória e nebulização com brometo de ipatrópio.
 
 QUESTÃO 49
-Uma mulher, primigesta, com 21 anos de idade e 38 semanas de idade gestacional, entra em trabalho de parto. O exame realizado quando a paciente foi admitida no hospital, mostrou que não há alterações sistêmicas; altura uterina = 34 cm; dinâmica uterina = 4 contrações de 45 segundos em 10 minutos; apresentação cefálica; frequência cardíaca fetal = 144 bpm, com aceleração transitória presente. Ao toque vaginal, detectou-se colo uterino dilatado para 4 cm, fino e anteriorizado. A evolução é apresentada no partograma ilustrado abaixo.
-Disponível em: <www.febrasgo.org.br>. Acesso em: 31 jul. 2016 (Adaptado)
-A situação descrita e a análise do partograma acima, indicam a ocorrência de
+Uma mulher, primigesta, com 21 anos de idade e 38 semanas de idade gestacional, entra em trabalho de parto. O exame realizado quando a paciente foi admitida no hospital, mostrou que não há alterações sistêmicas; altura uterina = 34 cm; dinâmica uterina = 4 contrações de 45 segundos em 10 minutos; apresentação cefálica; frequência cardíaca fetal = 144 bpm, com aceleração transitória presente. Ao toque vaginal, detectou-se colo uterino dilatado para 4 cm, fino e anteriorizado. A evolução é apresentada no partograma ilustrado abaixo. Disponível em: <www.febrasgo.org.br>. Acesso em: 31 jul. 2016 (Adaptado). A situação descrita e a análise do partograma acima, indicam a ocorrência de
 
 A período pélvico prolongado.
 B parada secundária da dilatação.

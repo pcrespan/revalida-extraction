@@ -837,21 +837,7 @@ D parada secundária da dilatação; administrar ocitocina.
 E parada secundária da descida; realizar analgesia (bloqueio combinado).
 
 QUESTÃO 94
-Homem com 27 anos de idade, sem antecedentes patológicos, é admitido no Hospital com quadro de dor e edema em membros inferiores. O paciente informa ter corrido uma maratona sob tempo chuvoso há cinco dias. O paciente relata também redução do volume urinário e urina de coloração escura. No dia anterior à hospitalização, apresentou náuseas, vômitos e tremores de extremidades. O exame físico não mostra outras alterações além da dor à compressão de estruturas musculares e da PA = 150 x 90 mmHg. Os exames iniciais mostram:
-
-RESULTADO DO EXAME	                REFERÊNCIA
-Creatinina sérica = 4,2 mg/dL       0,6-1,3mg/dL
-Ureia sérica = 150 mg/dL            15-38mg/dL
-TGO/AST = 750 U/L                   até 38 U/L
-TGP/ALT	= 520 U/L                   até 41 U/L
-Creatinoquinase sérica = 9.800 U/L  38-174 U/L
-Na+ sérico = 141 mEq/L              135-145 mEq/L
-K+ sérico = 4,6 mEq/L               4,5-5,5 mEq/L
-Hemograma sem alterações
-Urina tipo I (EAS): hemoglobina++++; eritrócitos: 6-8/campo; leucócitos: 1-2/campo
-
-O raio-X de tórax e a ultrassonografia de abdome foram normais.
-Com base nos dados apresentados, o diagnóstico e a conduta inicial a ser tomada são, respectivamente:
+Homem com 27 anos de idade, sem antecedentes patológicos, é admitido no Hospital com quadro de dor e edema em membros inferiores. O paciente informa ter corrido uma maratona sob tempo chuvoso há cinco dias. O paciente relata também redução do volume urinário e urina de coloração escura. No dia anterior à hospitalização, apresentou náuseas, vômitos e tremores de extremidades. O exame físico não mostra outras alterações além da dor à compressão de estruturas musculares e da PA = 150 x 90 mmHg. Os exames iniciais mostram: O raio-X de tórax e a ultrassonografia de abdome foram normais. Com base nos dados apresentados, o diagnóstico e a conduta inicial a ser tomada são, respectivamente:
 
 A leptospirose; hemodiálise.
 B polimiosite; glicocorticóides.

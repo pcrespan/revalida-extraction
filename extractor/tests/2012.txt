@@ -116,30 +116,7 @@ D a idade, o número de evacuações com sangue por dia, a leucocitose e a VHS e
 E a idade, a dor abdominal, o número de evacuações com sangue por dia e a VHS elevada.
 
 QUESTÃO 14
-Uma mulher de 23 anos de idade, casada, do lar e nuligesta, iniciou atividade sexual há 3 anos, após casamento. No momento, essa mulher está em tratamento para condilomatose vulvar em uma Unidade Básica de Saúde (UBS) e apresenta boa evolução. Ela não mantém relações extraconjugais, seu marido é saudável e não tem histórico de doença sexualmente transmissível (DST) e (ou) uso de drogas injetáveis. Após aconselhamento, realizou sorologia para HIV e o resultado foi positivo. Diante disso, foi solicitada pesquisa sorológica para HIV em nova amostra sanguínea. A paciente retorna hoje à UBS para conhecer o resultado. Ambas as amostras foram processadas no mesmo laboratório e seus resultados são apresentados nas figuras a seguir.
-
-AMOSTRA 1
-ANTICORPOS ANTI HIV1/HIV2
-Material: soro
-Método: Elisa
-Leitura da amostra: 2,47
-Valor de referência: < 1,00
-CONCLUSÃO: AMOSTRA POSITIVA PARA HIV
-
-AMOSTRA 2
-ANTICORPOS ANTI HIV1/HIV2 (2 DOSAGENS)
-TESTE 1 ...... POSITIVO
-Material: soro
-Método: Elisa
-Leitura da amostra: 2,27
-Valor de Referência: < 1,00
-TESTE 2 ...... POSITIVO
-Método: Western Blot
-Presença de anticorpos virais para: P18, P24, P34, Gp41, P52, P55, P68, GP 120, GP 160
-Sorologia positiva para HIV-1
-CONCLUSÃO: AMOSTRA POSITIVA PARA HIV
-
-Nessa situação, que conduta deve ser adotada para a paciente?
+Uma mulher de 23 anos de idade, casada, do lar e nuligesta, iniciou atividade sexual há 3 anos, após casamento. No momento, essa mulher está em tratamento para condilomatose vulvar em uma Unidade Básica de Saúde (UBS) e apresenta boa evolução. Ela não mantém relações extraconjugais, seu marido é saudável e não tem histórico de doença sexualmente transmissível (DST) e (ou) uso de drogas injetáveis. Após aconselhamento, realizou sorologia para HIV e o resultado foi positivo. Diante disso, foi solicitada pesquisa sorológica para HIV em nova amostra sanguínea. A paciente retorna hoje à UBS para conhecer o resultado. Ambas as amostras foram processadas no mesmo laboratório e seus resultados são apresentados nas figuras a seguir. Nessa situação, que conduta deve ser adotada para a paciente?
 
 A Solicitar contagem de linfócitos T-CD4+.
 B Solicitar contagem de linfócitos T-CD4+ e a quantificação da Carga Viral do HIV.
@@ -608,24 +585,7 @@ D I84.7 - Hemorroidas trombosadas não especificadas.
 E I84.8 - Hemorroidas não especificadas com outras complicações.
 
 QUESTÃO 66
-Uma mulher branca de 22 anos vem à consulta ambulatorial com queixa de inchaço há uma semana, inicialmente nos pés, com piora progressiva. Atualmente, percebe até o rosto inchado. Há cerca de um mês refere astenia, náuseas, falta de apetite e mal-estar, bem como dores nos punhos e articulações interfalangeanas proximais. Ao exame, encontra-se em regular estado geral, hipocorada (++/4+), hidratada, temperatura axilar = 37,7ºC. Murmúrio vesicular presente e simétrico, sem ruídos adventícios; ritmo cardíaco regular em 2 tempos, sem sopros, PA = 160 x 110 mmHg, FC = 120 bpm. Abdome flácido, sem visceromegalias. Edema de MMII ++/4+. Trouxe exame de sangue realizado no pronto socorro há três dias, de acordo com o quadro a seguir.
-
-HEMOGRAMA
-Resultado
-Hemoglobina = 8,0 g/dL
-Hematócrito = 24,0%
-HCM = 29,9 pg/célula
-CHCM = 33%
-Volume corpuscular médio (VCM) = 88 mcg/m²
-2.400 leuc./mL
-Segmentados = 84%
-Bastonetes = 2%
-Linfócitos = 8%
-Monócitos = 2%
-Eosinófilos = 2%
-Plaquetas = 100.000/mL
-
-Considerando a principal hipótese diagnóstica, a conduta no caso será solicitar:
+Uma mulher branca de 22 anos vem à consulta ambulatorial com queixa de inchaço há uma semana, inicialmente nos pés, com piora progressiva. Atualmente, percebe até o rosto inchado. Há cerca de um mês refere astenia, náuseas, falta de apetite e mal-estar, bem como dores nos punhos e articulações interfalangeanas proximais. Ao exame, encontra-se em regular estado geral, hipocorada (++/4+), hidratada, temperatura axilar = 37,7ºC. Murmúrio vesicular presente e simétrico, sem ruídos adventícios; ritmo cardíaco regular em 2 tempos, sem sopros, PA = 160 x 110 mmHg, FC = 120 bpm. Abdome flácido, sem visceromegalias. Edema de MMII ++/4+. Trouxe exame de sangue realizado no pronto socorro há três dias, de acordo com o quadro a seguir. Considerando a principal hipótese diagnóstica, a conduta no caso será solicitar:
 
 A Sumário de urina, avaliação de função renal e pesquisa de autoanticorpos específicos (anti-Sm e anti-DNA nativo). Iniciar enalapril 10 mg/dia para controle da pressão arterial.
 B Avaliação do oftalmologista para investigação de uveíte, sumário de urina, proteína C reativa e VHS. Iniciar dieta hipossódica, com acompanhamento semanal da artrite.

@@ -1,15 +1,5 @@
 QUESTÃO 1
-Um paciente de 72 anos de idade, hipertenso e diabético, morador de casa de repouso, é trazido à Unidade de Pronto Atendimento (UPA) com queixa de dor abdominal aguda, de intensidade progressiva, há aproximadamente 3 horas. Ao exame, encontra-se com fácies de dor, desidratado e pálido. Pressão arterial = 100 x 60 mmHg, FC = 122 bpm (arrítmico), FR = 20 ipm. O abdome encontra-se bastante distendido, doloroso à palpação superficial e profunda, com ruídos hidroaéreos hipoativos. Relata constipação intestinal, herniorrafia inguinal esquerda há 30 anos e uso crônico de diurético tiazídico, amiodarona e metformina. Foi realizada reposição volêmica vigorosa e os exames séricos foram coletados. A radiografia simples de tórax com cúpulas diafragmáticas não mostra pneumoperitônio. A radiografia simples de abdome está ilustrada abaixo.
-Resultados dos exames séricos:
-Hb = 14,5 g/dL (normal = 12 a 14,5 g/dL);
-Ht = 48% (normal = 36 a 42%);
-Glóbulos brancos = 11.000 mm³ com 8% de bastonetes e 80% de segmentados (normal = GB entre 4 e 11.000 mm³ com menos de 10% de bastonetes);
-Sódio = 135 mEq/L (normal entre 135 e 145 mEq/L);
-Potássio = 4,4 mEq/L (normal entre 3,5 e 4,5 mEq/L);
-Lactato = 6 mg/dL (normal < 2 mg/dL);
-Creatinina = 1,5 mg/dL (normal entre 0,6 e 1,2 mg/dL);
-Uréia = 98 mg/dL (normal entre 30 e 60 mg/dL).
-O diagnóstico mais provável é de
+Um paciente de 72 anos de idade, hipertenso e diabético, morador de casa de repouso, é trazido à Unidade de Pronto Atendimento (UPA) com queixa de dor abdominal aguda, de intensidade progressiva, há aproximadamente 3 horas. Ao exame, encontra-se com fácies de dor, desidratado e pálido. Pressão arterial = 100 x 60 mmHg, FC = 122 bpm (arrítmico), FR = 20 ipm. O abdome encontra-se bastante distendido, doloroso à palpação superficial e profunda, com ruídos hidroaéreos hipoativos. Relata constipação intestinal, herniorrafia inguinal esquerda há 30 anos e uso crônico de diurético tiazídico, amiodarona e metformina. Foi realizada reposição volêmica vigorosa e os exames séricos foram coletados. A radiografia simples de tórax com cúpulas diafragmáticas não mostra pneumoperitônio. A radiografia simples de abdome está ilustrada abaixo. Resultados dos exames séricos: Hb = 14,5 g/dL (normal = 12 a 14,5 g/dL); Ht = 48% (normal = 36 a 42%); Glóbulos brancos = 11.000 mm³ com 8% de bastonetes e 80% de segmentados (normal = GB entre 4 e 11.000 mm³ com menos de 10% de bastonetes); Sódio = 135 mEq/L (normal entre 135 e 145 mEq/L); Potássio = 4,4 mEq/L (normal entre 3,5 e 4,5 mEq/L); Lactato = 6 mg/dL (normal < 2 mg/dL); Creatinina = 1,5 mg/dL (normal entre 0,6 e 1,2 mg/dL); Uréia = 98 mg/dL (normal entre 30 e 60 mg/dL). O diagnóstico mais provável é de
 
 A íleo paralítico.
 B apendicite aguda.
@@ -201,18 +191,7 @@ C o procedimento deveria ter passado por fase experimental com obtenção de res
 D a prestação de toda a assistência pelo médico, os diagnósticos estabelecidos e as condutas tomadas são de sua livre convicção.
 
 QUESTÃO 25
-Uma mulher de 16 anos de idade, parda, foi avaliada em um ambulatório de atenção especializada por apresentar fraqueza, cansaço e episódios de dores musculares e articulares, principalmente em mãos e pés. Ela relata apresentar o quadro desde a infância, com crises frequentes de dor de início súbito. Ao exame físico apresentava-se com mucosas hipocoradas e escleróticas ictéricas, além de edema de articulações de mãos e pés. Os sinais vitais aferidos mostraram pressão arterial = 90 x 50 mmHg; frequência cardíaca = 108 bpm; frequência respiratória = 18 irpm e temperatura axilar = 37,1 ºC. Os exames laboratoriais iniciais revelaram:
-
-Hemoglobina = 8,3 g/dL (VR = 11,5 - 15 g/dL)
-Hematócrito = 25,2% (VR = 35 - 45%)
-VCM = 90 fL (VR = 80 – 96 fL)
-Leucócitos = 7.500/mm³ com contagem diferencial normal
-Plaquetas = 197.000/mm³ (VR = 100.000 - 400.000 mm³)
-Reticulócitos = 7,4% (VR = 0,5 – 1,5%)
-Desidrogenase láctica = 870 U/L (VR = 240 – 480 U/L)
-Aspartato aminotransferase = 52 U/L (VR = até 38 U/L)
-
-Com base no quadro descrito, qual exame complementar deveria ser realizado a fim de se obter o provável diagnóstico etiológico?
+Uma mulher de 16 anos de idade, parda, foi avaliada em um ambulatório de atenção especializada por apresentar fraqueza, cansaço e episódios de dores musculares e articulares, principalmente em mãos e pés. Ela relata apresentar o quadro desde a infância, com crises frequentes de dor de início súbito. Ao exame físico apresentava-se com mucosas hipocoradas e escleróticas ictéricas, além de edema de articulações de mãos e pés. Os sinais vitais aferidos mostraram pressão arterial = 90 x 50 mmHg; frequência cardíaca = 108 bpm; frequência respiratória = 18 irpm e temperatura axilar = 37,1 ºC. Os exames laboratoriais iniciais revelaram: Hemoglobina = 8,3 g/dL (VR = 11,5 - 15 g/dL); Hematócrito = 25,2% (VR = 35 - 45%); VCM = 90 fL (VR = 80 – 96 fL); Leucócitos = 7.500/mm³ com contagem diferencial normal; Plaquetas = 197.000/mm³ (VR = 100.000 - 400.000 mm³); Reticulócitos = 7,4% (VR = 0,5 – 1,5%); Desidrogenase láctica = 870 U/L (VR = 240 – 480 U/L); Aspartato aminotransferase = 52 U/L (VR = até 38 U/L). Com base no quadro descrito, qual exame complementar deveria ser realizado a fim de se obter o provável diagnóstico etiológico?
 
 A Teste de Coombs direto.
 B Hematoscopia de sangue periférico.
@@ -372,14 +351,7 @@ C atividade de educação em saúde sobre destino correto do lixo e cloração d
 D tratamento dos casos; atividade de educação em saúde sobre destino correto do lixo e cloração de água; mapeamento dos casos.
 
 QUESTÃO 45
-Um menino de 9 anos de idade vem à Unidade Básica de Saúde, trazido pela mãe, para consulta de rotina, sem queixas. Ao exame físico, encontra-se descorado (+/4+), sem outras alterações. A mãe traz os seguintes resultados de hemograma solicitado na última consulta:
-Hb = 10,5 g/dL (VR = 11,5 - 15g/dL);
-Ht = 30% (VR = 35 - 45%);
-VCM = 70 fl/dL (VR = 80 - 96 fl/dL);
-HCM = 20 (VR = 80 - 100 fl/dL); Leucócitos 8.120/mm³ (53% neutrófilos, 39% linfócitos, 4% monócitos e 2% eosinófilos) (VR = 4.000 - 11.000 mm³);
-Plaquetas: 305.000/mm³ (VR = 100.000 a 400.000 mm³);
-Reticulócitos: 5,5% (0,5 – 1,5%).
-O menino apresenta-se eutrófico, com crescimento adequado, desenvolvimento neuropsico motor adequado para a idade e vacinação correta e completa para a idade. Nesse caso, qual exame deve ser solicitado e qual a hipótese diagnóstica mais provável, respectivamente?
+Um menino de 9 anos de idade vem à Unidade Básica de Saúde, trazido pela mãe, para consulta de rotina, sem queixas. Ao exame físico, encontra-se descorado (+/4+), sem outras alterações. A mãe traz os seguintes resultados de hemograma solicitado na última consulta: Hb = 10,5 g/dL (VR = 11,5 - 15g/dL); Ht = 30% (VR = 35 - 45%); VCM = 70 fl/dL (VR = 80 - 96 fl/dL); HCM = 20 (VR = 80 - 100 fl/dL); Leucócitos 8.120/mm³ (53% neutrófilos, 39% linfócitos, 4% monócitos e 2% eosinófilos) (VR = 4.000 - 11.000 mm³); Plaquetas: 305.000/mm³ (VR = 100.000 a 400.000 mm³); Reticulócitos: 5,5% (0,5 – 1,5%). O menino apresenta-se eutrófico, com crescimento adequado, desenvolvimento neuropsico motor adequado para a idade e vacinação correta e completa para a idade. Nesse caso, qual exame deve ser solicitado e qual a hipótese diagnóstica mais provável, respectivamente?
 
 A Dosagem de ferro sérico; anemia falciforme.
 B Dosagem de transferrina; anemia ferropriva.
@@ -557,14 +529,7 @@ C Administração de imunoglobulina para as crianças suscetíveis e, também, v
 D Administração de imunoglobulina para as crianças suscetíveis e, também, vacinação das que forem menores de 9 meses de idade, até 8 semanas após o último caso.
 
 QUESTÃO 67
-Uma puérpera vem à Unidade Básica de Saúde com seu recém-nascido (RN) de 4 dias de vida. Segundo ela, o bebê está “muito amarelo”. Ela refere ainda que na alta do hospital, há 2 dias, o RN já estava amarelo, mas que houve aumento progressivo da amarelidão. O exame físico revela pele ictérica até região umbilical, sem outras alterações. A carteira de saúde do RN mostra os seguintes dados:
-Idade gestacional = 38 semanas;
-Peso do RN = 2.900 g;
-Comprimento = 49 cm; Apgar = 8/9;
-Tipagem sanguínea do RN = O positivo;
-Tipagem sanguínea da mãe = O positivo;
-Ausência de intercorrências no nascimento.
-Quais são, respectivamente, a hipótese diagnóstica mais provável e a conduta adequada nesse caso?
+Uma puérpera vem à Unidade Básica de Saúde com seu recém-nascido (RN) de 4 dias de vida. Segundo ela, o bebê está “muito amarelo”. Ela refere ainda que na alta do hospital, há 2 dias, o RN já estava amarelo, mas que houve aumento progressivo da amarelidão. O exame físico revela pele ictérica até região umbilical, sem outras alterações. A carteira de saúde do RN mostra os seguintes dados: Idade gestacional = 38 semanas; Peso do RN = 2.900 g; Comprimento = 49 cm; Apgar = 8/9; Tipagem sanguínea do RN = O positivo; Tipagem sanguínea da mãe = O positivo; Ausência de intercorrências no nascimento. Quais são, respectivamente, a hipótese diagnóstica mais provável e a conduta adequada nesse caso?
 
 A Icterícia fisiológica; indicar necessidade de banhos de sol.
 B Icterícia fisiológica; solicitar exames para definição da causa.
@@ -684,13 +649,7 @@ C Solicitar a presença da família para ajudar no plano de cuidados e formular 
 D Solicitar ajuda ao Conselho do Idoso para que a paciente seja acompanhada por recursos sociais do bairro, envolvendo a equipe de saúde no monitoramento do plano de cuidados.
 
 QUESTÃO 82
-Um estudante de seis anos de idade é trazido à Emergência hospitalar apresentando dor abdominal, inicialmente epigástrica e, posteriormente, em flanco direito. Apresenta quadro de febre (38,5 ºC), distensão abdominal e vômitos. O quadro iniciou-se há pouco mais de 24 horas, com piora progressiva. A família relata história de episódios de fezes escuras com odor fétido desde quando era lactente. Ao exame físico, demonstrou dor à palpação do flanco direito, mais intensa em fossa ilíaca direita. A ausculta abdominal indicou ruídos hidroaéreos metálicos intervalados por períodos de ausência de ruídos. Ele foi internado.
-Foram realizados alguns exames, com os seguintes resultados:
-Leucócitos = 16.500/mm³ (VR: 5.500 - 6.500/mm³);
-Neutrófilos = 11.000/mm³;
-Bastões = 1.700/mm³.
-A radiografia do abdome evidenciou dilatação e edema de alças do intestino delgado com nível hidroaéreo. O ultrassom abdominal resultou sugestivo de abscesso em região de íleo terminal.
-A principal hipótese diagnóstica e a conduta recomendada diante desse quadro são, respectivamente:
+Um estudante de seis anos de idade é trazido à Emergência hospitalar apresentando dor abdominal, inicialmente epigástrica e, posteriormente, em flanco direito. Apresenta quadro de febre (38,5 ºC), distensão abdominal e vômitos. O quadro iniciou-se há pouco mais de 24 horas, com piora progressiva. A família relata história de episódios de fezes escuras com odor fétido desde quando era lactente. Ao exame físico, demonstrou dor à palpação do flanco direito, mais intensa em fossa ilíaca direita. A ausculta abdominal indicou ruídos hidroaéreos metálicos intervalados por períodos de ausência de ruídos. Ele foi internado. Foram realizados alguns exames, com os seguintes resultados: Leucócitos = 16.500/mm³ (VR: 5.500 - 6.500/mm³); Neutrófilos = 11.000/mm³; Bastões = 1.700/mm³. A radiografia do abdome evidenciou dilatação e edema de alças do intestino delgado com nível hidroaéreo. O ultrassom abdominal resultou sugestivo de abscesso em região de íleo terminal. A principal hipótese diagnóstica e a conduta recomendada diante desse quadro são, respectivamente:
 
 A apendicite e cirurgia de urgência.
 B invaginação intestinal e enema opaco.
@@ -706,13 +665,7 @@ C Iniciar espiramicina e realizar PCR de líquido amniótico para investigação
 D Solicitar nova sorologia para toxoplasmose em 15 dias para avaliar os títulos de imunoglobulina.
 
 QUESTÃO 84
-Uma paciente de 70 anos, previamente hígida, apresentou dois episódios de enterorragia nas últimas 24 horas, sendo que, após o segundo, sentiu fraqueza e escurecimento da visão. Procurou a Unidade de Pronto Atendimento (UPA) e foi encaminhada ao Pronto-Socorro hospitalar, onde referiu nova eliminação, por via retal, há 2 horas, de coágulos e sangue vivo em grande quantidade.
-Ao exame físico, encontra-se descorada (+2/+4), pressão arterial = 125 x 70 mmHg, frequência cardíaca = 98 bpm e frequência respiratória = 20 ipm. Após reposição volêmica com 1,5 litro de solução cristaloide aquecida e coleta de exames laboratoriais, foi submetida a colonoscopia que identificou doença diverticular sem sangramento ativo, com possível local de sangramento no cólon esquerdo. Resultados dos exames laboratoriais:
-Hemoglobina = 8,5 g/dL (valor normal = 11,5 a 15 g/dL),
-Hematócrito = 25% (valor normal = 35 a 45%),
-Plaquetas = 125.000/mm³ (valores normais entre 100.000 e 400.000 mm³),
-Tempo de protrombina/INR = 1,1 (valor normal até 1,3).
-Nesse momento em que se encontra a paciente, a conduta correta é:
+Uma paciente de 70 anos, previamente hígida, apresentou dois episódios de enterorragia nas últimas 24 horas, sendo que, após o segundo, sentiu fraqueza e escurecimento da visão. Procurou a Unidade de Pronto Atendimento (UPA) e foi encaminhada ao Pronto-Socorro hospitalar, onde referiu nova eliminação, por via retal, há 2 horas, de coágulos e sangue vivo em grande quantidade. Ao exame físico, encontra-se descorada (+2/+4), pressão arterial = 125 x 70 mmHg, frequência cardíaca = 98 bpm e frequência respiratória = 20 ipm. Após reposição volêmica com 1,5 litro de solução cristaloide aquecida e coleta de exames laboratoriais, foi submetida a colonoscopia que identificou doença diverticular sem sangramento ativo, com possível local de sangramento no cólon esquerdo. Resultados dos exames laboratoriais: Hemoglobina = 8,5 g/dL (valor normal = 11,5 a 15 g/dL), Hematócrito = 25% (valor normal = 35 a 45%), Plaquetas = 125.000/mm³ (valores normais entre 100.000 e 400.000 mm³), Tempo de protrombina/INR = 1,1 (valor normal até 1,3). Nesse momento em que se encontra a paciente, a conduta correta é:
 
 A cirúrgica com ressecção de todo o cólon e a dosagem da hemoglobina indica a necessidade de transfusão sanguínea.
 B conservadora (expectante), mas a dosagem da hemoglobina indica a necessidade de transfusão sanguínea.
@@ -736,24 +689,7 @@ C As crianças com dificuldade escolar devem ser avaliadas por neuropediatra par
 D A família deve ser orientada a ser mais firme com a criança frente ao baixo desempenho, por meio de imposição de cronogramas mais rígidos para execução das tarefas escolares.
 
 QUESTÃO 87
-Um homem de 35 anos de idade procurou o Serviço de Emergência por apresentar febre e dores musculares há 3 dias. As dores se concentram, principalmente, nos membros inferiores. Ele relatou que há cerca de 24 horas vem observando escurecimento da urina, sem redução do volume urinário e que apresentou dois episódios de hemoptise nesse período. Negou doenças crônicas e informou que não faz uso de medicação. O exame clínico revelou: regular estado geral, ictérico (++/4+), hipocorado (++/4+), frequência cardíaca = 90 bpm, pressão arterial = 130 x 80 mmHg, frequência respiratória = 36 irpm, temperatura axilar = 39,2 °C. A ausculta pulmonar permitiu detectar murmúrio vesicular audível com crepitações difusas. O abdome mostrava-se doloroso à palpação em mesogástrio e hipocôndrio esquerdo.
-Os exames laboratoriais evidenciaram:
-Ht = 28% (VR = 35 - 45%);
-Hb = 10 g/dL (VR = 11,5 - 15 g/dL);
-Leucócitos = 15.200/mm³ (S = 82%; B = 8%; L = 9%; M = 1%) (VR = 4.000 - 11.000 mm³);
-Plaquetas = 98.000/mm³ (VR = 100.000 - 400.000 mm³);
-Ureia = 190 mg/dL (valor de referência = 10 - 20 mg/dL);
-Creatinina = 8,9 mg/dL (valor de referência = 1,5 mg/dL);
-Na = 135 mEq/L (valor de referência = 136 - 145 mEq/L);
-K = 2,5 mEq/L (valor de referência = 3,5 - 5 mEq/L);
-CPK = 1.250 UI/L (valor de referência = 60 - 400 UI/L);
-Bilirrubina total = 8,2 mg/dL (valor de referência = 0,3 - 1 mg/dL);
-Bilirrubina direta = 6,4 mg/dL (valor de referência = 0,1 - 0,3 mg/dL);
-Bilirrubina indireta = 1,7 mg/dL (valor de referência = 0,2 - 0,7 mg/dL);
-AST = 120 UI/L (valor de referência = 10 - 37 U/L);
-ALT = 130 UI/L (valor de referência = 11 - 45 U/L).
-A radiografia de tórax, realizada na admissão, está ilustrada a seguir.
-De acordo com o quadro descrito e as informações apresentadas, assinale a alternativa que apresenta, respectivamente, a hipótese diagnóstica e a conduta a ser estabelecida a partir desse momento.
+Um homem de 35 anos de idade procurou o Serviço de Emergência por apresentar febre e dores musculares há 3 dias. As dores se concentram, principalmente, nos membros inferiores. Ele relatou que há cerca de 24 horas vem observando escurecimento da urina, sem redução do volume urinário e que apresentou dois episódios de hemoptise nesse período. Negou doenças crônicas e informou que não faz uso de medicação. O exame clínico revelou: regular estado geral, ictérico (++/4+), hipocorado (++/4+), frequência cardíaca = 90 bpm, pressão arterial = 130 x 80 mmHg, frequência respiratória = 36 irpm, temperatura axilar = 39,2 °C. A ausculta pulmonar permitiu detectar murmúrio vesicular audível com crepitações difusas. O abdome mostrava-se doloroso à palpação em mesogástrio e hipocôndrio esquerdo. Os exames laboratoriais evidenciaram: Ht = 28% (VR = 35 - 45%); Hb = 10 g/dL (VR = 11,5 - 15 g/dL); Leucócitos = 15.200/mm³ (S = 82%; B = 8%; L = 9%; M = 1%) (VR = 4.000 - 11.000 mm³); Plaquetas = 98.000/mm³ (VR = 100.000 - 400.000 mm³); Ureia = 190 mg/dL (valor de referência = 10 - 20 mg/dL); Creatinina = 8,9 mg/dL (valor de referência = 1,5 mg/dL); Na = 135 mEq/L (valor de referência = 136 - 145 mEq/L); K = 2,5 mEq/L (valor de referência = 3,5 - 5 mEq/L); CPK = 1.250 UI/L (valor de referência = 60 - 400 UI/L); Bilirrubina total = 8,2 mg/dL (valor de referência = 0,3 - 1 mg/dL); Bilirrubina direta = 6,4 mg/dL (valor de referência = 0,1 - 0,3 mg/dL); Bilirrubina indireta = 1,7 mg/dL (valor de referência = 0,2 - 0,7 mg/dL); AST = 120 UI/L (valor de referência = 10 - 37 U/L); ALT = 130 UI/L (valor de referência = 11 - 45 U/L). A radiografia de tórax, realizada na admissão, está ilustrada a seguir. De acordo com o quadro descrito e as informações apresentadas, assinale a alternativa que apresenta, respectivamente, a hipótese diagnóstica e a conduta a ser estabelecida a partir desse momento.
 
 A Leptospirose; reposição de potássio e diálise peritoneal precoce.
 B Pneumocistose; hidratação vigorosa, sulfametoxazol-trimetoprim.
@@ -849,15 +785,7 @@ C Elaboração de dieta individualizada contendo preferencialmente frutas, legum
 D Estímulo à ingestão de alimentos sob forma de livre demanda, evitando-se o estabelecimento de horários ou de rotina para se alimentar, garantindo, contudo, a prática de atividade física.
 
 QUESTÃO 99
-Uma criança de 10 meses de idade, do sexo feminino, é levada à consulta por sua mãe, em solicitação à demanda da Agente Comunitária de Saúde da equipe de Estratégia de Saúde da Família, que, ao visitar a família, achou a lactente muito pálida. Embora as vacinas estejam em dia, a mãe não leva a criança às consultas regulares. Na anamnese, obteve-se a informação de que, em relação à alimentação, é oferecida à criança, de 3/3 horas, mamadeira à base de leite de vaca integral, amido de milho ou aveia, com acréscimo de açúcar. Geralmente, o almoço é feijão batido com angu e, ainda, não lhe foi oferecido carnes, ovos e frutas. Não faz uso de medicamentos. Apresenta bom desenvolvimento motor. O peso e a estatura estão em curvas decrescentes no Z score-2, enquanto o restante do exame não apresenta anormalidades.
-Foi realizado um hemograma da criança, que evidenciou:
-Hemoglobina = 7 g/dL (VR = 9,5 - 12,5 g/dL);
-Hematócrito = 31% (VR = 32 - 44%);
-VCM = 68 fl/dL (VR = 80 - 96 fl/dL);
-RDW = 17%; Leucócitos = 10.000/mm³;
-Plaquetas = 500.000/mm³;
-Presença de anisocitose e poiquilocitose.
-Considerando o caso apresentado, além da adequação alimentar da criança, qual a conduta a ser adotada?
+Uma criança de 10 meses de idade, do sexo feminino, é levada à consulta por sua mãe, em solicitação à demanda da Agente Comunitária de Saúde da equipe de Estratégia de Saúde da Família, que, ao visitar a família, achou a lactente muito pálida. Embora as vacinas estejam em dia, a mãe não leva a criança às consultas regulares. Na anamnese, obteve-se a informação de que, em relação à alimentação, é oferecida à criança, de 3/3 horas, mamadeira à base de leite de vaca integral, amido de milho ou aveia, com acréscimo de açúcar. Geralmente, o almoço é feijão batido com angu e, ainda, não lhe foi oferecido carnes, ovos e frutas. Não faz uso de medicamentos. Apresenta bom desenvolvimento motor. O peso e a estatura estão em curvas decrescentes no Z score-2, enquanto o restante do exame não apresenta anormalidades. Foi realizado um hemograma da criança, que evidenciou: Hemoglobina = 7 g/dL (VR = 9,5 - 12,5 g/dL); Hematócrito = 31% (VR = 32 - 44%); VCM = 68 fl/dL (VR = 80 - 96 fl/dL); RDW = 17%; Leucócitos = 10.000/mm³; Plaquetas = 500.000/mm³; Presença de anisocitose e poiquilocitose. Considerando o caso apresentado, além da adequação alimentar da criança, qual a conduta a ser adotada?
 
 A Prescrever sulfato ferroso na dose de 6 mg/kg/dia durante 3 meses.
 B Prescrever sulfato ferroso na dose 1 mg/kg/dia até os dois anos de idade.
